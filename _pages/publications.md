@@ -1,10 +1,9 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: publications
+permalink: /publications/
 description: 
 nav: true
-display_categories: [work, fun]
 horizontal: false
 ---
 
