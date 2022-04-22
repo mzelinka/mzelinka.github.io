@@ -7,14 +7,9 @@ subtitle: Climate & Atmospheric Scientist | Lawrence Livermore National Laborato
 profile:
   align: right
   image: headshot2_degraded.jpg
-  address: >
-    <p>Lawrence Livermore National Laboratory</p>
-    <p>7000 East Avenue, L-103</p>
-    <p>Livermore, CA 94550</p>
-    <p>(925) 423-5146</p>
-    <p>zelinka1 at llnl.gov</p>
+
       
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
