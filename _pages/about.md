@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Climate & Atmospheric Scientist | Lawrence Livermore National Laboratory
 
 profile:
   align: right
   image: headshot2_degraded.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>Lawrence Livermore National Laboratory</p>
+    <p>7000 East Avenue, L-103</p>
+    <p>Livermore, CA 94550</p>
+    <p>(925) 423-5146</p>
+    <p>zelinka1 at llnl.gov</p>
+      
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mark's biography goes here. I'll tell the world about myself. I will put a picture in, too, naming it `prof_pic.jpg` and putting it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an atmospheric scientist who researches climate change. I am interested in how much global warming we should expect from increasing greenhouse gases. This inevitably leads to the study of clouds, which cool the planet by reflecting sunlight back to space and warm the planet by reducing the infrared radiation emitted to space. How the balance of these competing effects changes as the planet warms (known collectively as the ‘cloud feedback’) largely determines how much warming accompanies increasing greenhouse gases. I use theory, observations, and global climate models to investigate these challenging questions.
