@@ -7,21 +7,21 @@ Climate sensitivity, cloud feedback, radiative forcing
 ## Education
 
 - Ph.D., Atmospheric Sciences, University of Washington, December 2010
-Dissertation: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming
-Advisor: Dennis L. Hartmann
+    <br>_Dissertation_: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming
+    <br>_Advisor_: Dennis L. Hartmann
 
 - M.S., Atmospheric Sciences, University of Washington, December 2007
-Thesis: Evolution of Clouds and Humidity in Association with Tropical Deep Convection
-Advisor: Dennis L. Hartmann
+    <br>_Thesis_: Evolution of Clouds and Humidity in Association with Tropical Deep Convection
+    <br>_Advisor_: Dennis L. Hartmann
 
 - B.S., Meteorology, Pennsylvania State University, May 2004
-Minors: Earth Systems & Climatology
-Honors: Department Marshall, Highest Distinction Graduate, 4.0 Major GPA
+    <br>_Minors_: Earth Systems & Climatology
+    <br>_Honors_: Department Marshall, Highest Distinction Graduate, 4.0 Major GPA
 
 ## Professional Experience
-Research scientist, Lawrence Livermore National Laboratory, April 2013 – present
-Post-doctoral research scholar, Lawrence Livermore National Laboratory, January 2011 – March 2013
-Graduate research assistant, Department of Atmospheric Sciences, University of Washington, September 2004 – December 2010
+- Research scientist, Lawrence Livermore National Laboratory, April 2013 – present
+- Post-doctoral research scholar, Lawrence Livermore National Laboratory, January 2011 – March 2013
+- Graduate research assistant, Department of Atmospheric Sciences, University of Washington, September 2004 – December 2010
 
 ## Submitted Work
 
@@ -38,19 +38,19 @@ Graduate research assistant, Department of Atmospheric Sciences, University of W
 <li>Ma, P.-L., et al. including M. D. Zelinka, 2022: Better calibration of cloud parameterizations and subgrid effects increases the fidelity of E3SM Atmosphere Model version 1, Geosci. Model Dev., 15, 2881–2916, doi:10.5194/gmd-15-2881-2022.</li>
 </ol>
 
- Qin, Y., M. D. Zelinka, and S. A. Klein, 2022: On the Correspondence between Atmosphere-Only and Coupled Simulations for Radiative Feedbacks and Forcing from CO2, J. Geophys. Res., 127, doi:10.1029/2021JD035460.
+- Qin, Y., M. D. Zelinka, and S. A. Klein, 2022: On the Correspondence between Atmosphere-Only and Coupled Simulations for Radiative Feedbacks and Forcing from CO2, J. Geophys. Res., 127, doi:10.1029/2021JD035460.
 
- Zelinka, M. D., S. A. Klein, Y. Qin, and T. A. Myers, 2022: Evaluating climate models’ cloud feedbacks against expert judgement, J. Geophys. Res., 127, doi:10.1029/2021JD035198.
+- Zelinka, M. D., S. A. Klein, Y. Qin, and T. A. Myers, 2022: Evaluating climate models’ cloud feedbacks against expert judgement, J. Geophys. Res., 127, doi:10.1029/2021JD035198.
 
- Hahn L. C., K. C. Armour, M. D. Zelinka, C. M. Bitz, and A. Donohoe, 2021: Contributions to Polar Amplification in CMIP5 and CMIP6 Models. Front. Earth Sci. 9:710036. doi: 10.3389/feart.2021.710036.
+- Hahn L. C., K. C. Armour, M. D. Zelinka, C. M. Bitz, and A. Donohoe, 2021: Contributions to Polar Amplification in CMIP5 and CMIP6 Models. Front. Earth Sci. 9:710036. doi: 10.3389/feart.2021.710036.
 
- Muelmenstaedt, J., M. Salzmann , J. E. Kay, M. D. Zelinka, P. L. Ma, S. Hornig, and J. Quaas, 2021: An underestimated negative cloud feedback from cloud lifetime changes, Nature Clim. Change, 11, 508–513, doi:10.1038/s41558-021-01038-1.
+- Muelmenstaedt, J., M. Salzmann , J. E. Kay, M. D. Zelinka, P. L. Ma, S. Hornig, and J. Quaas, 2021: An underestimated negative cloud feedback from cloud lifetime changes, Nature Clim. Change, 11, 508–513, doi:10.1038/s41558-021-01038-1.
 
- Santer, B. D., et al. including M. D. Zelinka, 2021: Using climate model simulations to constrain observations, J. Climate, doi:10.1175/JCLI-D-20-0768.1.
+- Santer, B. D., et al. including M. D. Zelinka, 2021: Using climate model simulations to constrain observations, J. Climate, doi:10.1175/JCLI-D-20-0768.1.
 
- Myers, T. A., R. C. Scott, M. D. Zelinka, S. A. Klein, J. R. Norris, and P. M. Caldwell, 2021: Observational Constraints on Low Cloud Feedback Reduce Uncertainty of Climate Sensitivity, Nature Clim. Change, doi:10.1038/s41558-021-01039-0.
+- Myers, T. A., R. C. Scott, M. D. Zelinka, S. A. Klein, J. R. Norris, and P. M. Caldwell, 2021: Observational Constraints on Low Cloud Feedback Reduce Uncertainty of Climate Sensitivity, Nature Clim. Change, doi:10.1038/s41558-021-01039-0.
 
- Thackeray, C. W., A. Hall, M. D. Zelinka, and C. G. Fletcher, 2021: Assessing prior emergent constraints on surface albedo feedback in CMIP6, J. Climate, 34(10), 3889-3905, doi:10.1175/JCLI-D-20-0703.1.
+- Thackeray, C. W., A. Hall, M. D. Zelinka, and C. G. Fletcher, 2021: Assessing prior emergent constraints on surface albedo feedback in CMIP6, J. Climate, 34(10), 3889-3905, doi:10.1175/JCLI-D-20-0703.1.
 
  Po-Chedley, S., B. D. Santer, S. Fueglistaler, M. D. Zelinka, P. J. Cameron-Smith, J. F. Painter, and Q. Fu, 2021: Natural variability can explain model-satellite differences in tropical tropospheric warming, Proc. Natl. Acad. Sci., doi:10.1073/pnas.2020962118.
 
@@ -176,215 +176,214 @@ Zelinka, M.D. and D.L. Hartmann, 2009: Response of Humidity and Clouds to Tropic
 
 ## Book Chapters
 
-McCoy, D.T., D. L. Hartmann, and M. D. Zelinka, 2017. Mixed-Phase Cloud Feedbacks. In: Andronache, C. (Ed.), Mixed-phase Clouds: Observations and Modeling. Elsevier.
-Tan, I., T. Storelvmo, and M. D. Zelinka, 2017. The climatic impact of thermodynamic phase partitioning in mixed-phase clouds. In: Andronache, C. (Ed.), Mixed-phase Clouds: Observations and Modeling. Elsevier.
-Dessler, A.E. and M. D. Zelinka, 2015. Climate Feedbacks. In: Gerald R. North (editor-in-chief), John Pyle and Fuqing Zhang (editors). Encyclopedia of Atmospheric Sciences, 2nd edition, Vol 2, pp. 18–25.
+- McCoy, D.T., D. L. Hartmann, and M. D. Zelinka, 2017. Mixed-Phase Cloud Feedbacks. In: Andronache, C. (Ed.), Mixed-phase Clouds: Observations and Modeling. Elsevier.
+
+- Tan, I., T. Storelvmo, and M. D. Zelinka, 2017. The climatic impact of thermodynamic phase partitioning in mixed-phase clouds. In: Andronache, C. (Ed.), Mixed-phase Clouds: Observations and Modeling. Elsevier.
+
+- Dessler, A.E. and M. D. Zelinka, 2015. Climate Feedbacks. In: Gerald R. North (editor-in-chief), John Pyle and Fuqing Zhang (editors). Encyclopedia of Atmospheric Sciences, 2nd edition, Vol 2, pp. 18–25.
 
 ## Honors & Awards
+- American Meteorological Society Henry G. Houghton Award, 2022
+- 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Zelinka et al. (2020)
+- 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Sherwood et al. (2020)
+- Sherwood et al. (2020) named runner-up for Science Magazine's 2020 Breakthrough of the Year
+- Nature Climate Change Research Highlight for Dong et al. (2020)
+- LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Sherwood et al. (2020)
+- US CLIVAR Research Highlight for Zelinka et al. (2020)
+- Eos Research Spotlight for Zelinka et al. (2020)
+- LLNL Outstanding Mentor Award, 2018
+- LLNL Early and Mid-Career Recognition Program Award, 2018
+- Eos Research Spotlight for Zhou et al. (2017)
+- Diablo Magazine 40 Under 40, 2017
+- LLNL Physical and Life Sciences Directorate Spot Award for Excellence in Publications, 2017
+- LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Zhou et al. (2016)
+- LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Norris et al. (2016)
+- Nature Climate Change Research Highlight for Zhou et al. (2016)
+- Eos Research Spotlight for Zelinka et al. (2016)
+- 2016 LLNL Deputy Director for Science and Technology Excellence in Publication Award for Santer et al. (2015)
+- Eos Research Spotlight for McCoy et al. (2016)
+- LLNL Spot Award for “Outstanding Contributions to Climate Science”, 2015
+- Award recipient, NASA New Investigator Program in Earth Science, 2013
+- Editors’ Citation for Excellence in Refereeing for Journal of Geophysical Research-Atmospheres, 2012
+- Stephen Henry Schneider Symposium Student Scholarship, 2011
+- AGU Journal Highlight for Zelinka and Hartmann (2010)
+- NASA Earth and Space Science Fellowship, 2006-2008
+- NSF Graduate Research Fellowship Honorable Mention, 2006
+- University of Washington Top Scholar Award, 2004
+- University of Washington Program on Climate Change First Year Fellowship, 2004
+- Jerome N. Behrmann Scholarship in Meteorology, 2004
+- Om and Saraswati Behethi (AMS) Scholarship, 2003
+- Charles L. and Anna R. Hosler Scholarship in Meteorology, 2003
+- Penn State Space Grant Consortium Sylvia Stein Memorial Scholarship, 2003
+- Kruhoeffer Annual Meteorology Scholarship, 2002
+- John and Elizabeth Holmes Teas Scholarship, 2001
+- Earth and Mineral Science Scholarship, 2000
 
-American Meteorological Society Henry G. Houghton Award, 2022
-2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Zelinka et al. (2020)
-2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Sherwood et al. (2020)
-Sherwood et al. (2020) named runner-up for Science Magazine's 2020 Breakthrough of the Year
 
-Nature Climate Change Research Highlight for Dong et al. (2020)
-LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Sherwood et al. (2020)
-US CLIVAR Research Highlight for Zelinka et al. (2020)
-Eos Research Spotlight for Zelinka et al. (2020)
-LLNL Outstanding Mentor Award, 2018
-LLNL Early and Mid-Career Recognition Program Award, 2018
-Eos Research Spotlight for Zhou et al. (2017)
-Diablo Magazine 40 Under 40, 2017
-LLNL Physical and Life Sciences Directorate Spot Award for Excellence in Publications, 2017
-LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Zhou et al. (2016)
-LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Norris et al. (2016)
-Nature Climate Change Research Highlight for Zhou et al. (2016)
-Eos Research Spotlight for Zelinka et al. (2016)
-2016 LLNL Deputy Director for Science and Technology Excellence in Publication Award for Santer et al. (2015)
-Eos Research Spotlight for McCoy et al. (2016)
-LLNL Spot Award for “Outstanding Contributions to Climate Science”, 2015
-Award recipient, NASA New Investigator Program in Earth Science, 2013
-Editors’ Citation for Excellence in Refereeing for Journal of Geophysical Research-Atmospheres, 2012
-Stephen Henry Schneider Symposium Student Scholarship, 2011
-AGU Journal Highlight for Zelinka and Hartmann (2010)
-NASA Earth and Space Science Fellowship, 2006-2008
-NSF Graduate Research Fellowship Honorable Mention, 2006
-University of Washington Top Scholar Award, 2004
-University of Washington Program on Climate Change First Year Fellowship, 2004
-Jerome N. Behrmann Scholarship in Meteorology, 2004
-Om and Saraswati Behethi (AMS) Scholarship, 2003
-Charles L. and Anna R. Hosler Scholarship in Meteorology, 2003
-Penn State Space Grant Consortium Sylvia Stein Memorial Scholarship, 2003
-Kruhoeffer Annual Meteorology Scholarship, 2002
-John and Elizabeth Holmes Teas Scholarship, 2001
-Earth and Mineral Science Scholarship, 2000
 
 ## Professional Activities, Service, & Leadership Roles
+- AGU Global Environmental Change Fellows Committee, Jan 2022 - present
+- Contributing Author for IPCC 6th Assessment Report, 2019 - 2021
+- Convener, Extratropical Cloud Feedbacks Session, 2020 CFMIP Meeting
 
-AGU Global Environmental Change Fellows Committee, Jan 2022 - present
-Contributing Author for IPCC 6th Assessment Report, 2019 - 2021
-Convener, Extratropical Cloud Feedbacks Session, 2020 CFMIP Meeting
+
 
 ## Discussion Leader, Climate Sensitivity Session, 2019 Gordon Research Conference on Radiation and Climate
-
-Program Committee Member, American Physical Society Topical Group on the Physics of Climate, Jun 2018 - present
-LLNL Physical and Life Sciences Postdoc Committee, Sep 2017 - Jan 2020
-PCMDI Leader Search Committee, Feb 2017 - June 2018
-Section Editor for Current Climate Change Reports Topical Collection on Climate Feedbacks, 2014 - 2017
-Contributor to Climate Feedback, a worldwide network of scientists who collectively assess the credibility of influential climate change media coverage
-Participant, DOE Biological and Environmental Research Advisory Committee Grand Challenges II Workshop, 2017
-Co-convener, Climate Sensitivity and Feedbacks: Advances and New Paradigms Session, 2013 - 2016 AGU Fall Meetings
-Discussion Leader, Cloud Feedbacks Session, 2013 Gordon Research Seminar on Radiation and Climate
-
-Co-convener, Atmospheric Feedbacks and Climate Change: Observations, Theory, and Modeling Session, 2012 AGU Fall Meeting
-Chair, 2011 Gordon Research Seminar on Radiation and Climate
-
-Organizer, University of Washington Graduate Climate Conferences, 2006, 2007, 2009, 2010
-Senator, University of Washington Graduate and Professional Student Senate, Sep 2006 – Jun 2009
-Member, American Meteorological Society, 2003 – Present
-Member, American Geophysical Union, 2005 – Present
-Proposal reviewer for DOE, European Research Council, NASA, and NSF
-Reviewer for:
-
-Atmosphere
-Atmosphere-Ocean
-Atmospheric Chemistry and Physics
-Atmospheric Measurement Techniques
-Atmospheric Science Letters
-Bulletin of the American Meteorological Society
-Climate Dynamics
-Climatic Change
-Earth System Dynamics
-Environmental Research Letters
-Geophysical Research Letters
-Geoscientific Model Development
-Journal of Advances in Modeling Earth Systems
-Journal of Applied Meteorology and Climatology
-Journal of Atmospheric and Oceanic Technology
-Journal of the Atmospheric Sciences
-Journal of Climate
-Journal of Geophysical Research – Atmospheres
-Journal of the Meteorological Society of Japan
-Nature
-Nature Climate Change
-Nature Communications
-Nature Geoscience
-Proceedings of the National Academy of Sciences
-Scientific Reports
-Surveys in Geophysics
+- Program Committee Member, American Physical Society Topical Group on the Physics of Climate, Jun 2018 - present
+- LLNL Physical and Life Sciences Postdoc Committee, Sep 2017 - Jan 2020
+- PCMDI Leader Search Committee, Feb 2017 - June 2018
+- Section Editor for Current Climate Change Reports Topical Collection on Climate Feedbacks, 2014 - 2017
+- Contributor to Climate Feedback, a worldwide network of scientists who collectively assess the credibility of influential climate change media coverage
+- Participant, DOE Biological and Environmental Research Advisory Committee Grand Challenges II Workshop, 2017
+- Co-convener, Climate Sensitivity and Feedbacks: Advances and New Paradigms Session, 2013 - 2016 AGU Fall Meetings
+- Discussion Leader, Cloud Feedbacks Session, 2013 Gordon Research Seminar on Radiation and Climate
+- Co-convener, Atmospheric Feedbacks and Climate Change: Observations, Theory, and Modeling Session, 2012 AGU Fall Meeting
+- Chair, 2011 Gordon Research Seminar on Radiation and Climate
+- Organizer, University of Washington Graduate Climate Conferences, 2006, 2007, 2009, 2010
+- Senator, University of Washington Graduate and Professional Student Senate, Sep 2006 – Jun 2009
+- Member, American Meteorological Society, 2003 – Present
+- Member, American Geophysical Union, 2005 – Present
+- Proposal reviewer for DOE, European Research Council, NASA, and NSF
+- Reviewer for:
+   - Atmosphere
+   - Atmosphere-Ocean
+   - Atmospheric Chemistry and Physics
+   - Atmospheric Measurement Techniques
+   - Atmospheric Science Letters
+   - Bulletin of the American Meteorological Society
+   - Climate Dynamics
+   - Climatic Change
+   - Earth System Dynamics
+   - Environmental Research Letters
+   - Geophysical Research Letters
+   - Geoscientific Model Development
+   - Journal of Advances in Modeling Earth Systems
+   - Journal of Applied Meteorology and Climatology
+   - Journal of Atmospheric and Oceanic Technology
+   - Journal of the Atmospheric Sciences
+   - Journal of Climate
+   - Journal of Geophysical Research – Atmospheres
+   - Journal of the Meteorological Society of Japan
+   - Nature
+   - Nature Climate Change
+   - Nature Communications
+   - Nature Geoscience
+   - Proceedings of the National Academy of Sciences
+   - Scientific Reports
+   - Surveys in Geophysics
 
 ## Talks & Presentations
 
-Yale University, School of the Environment, ENV 630, 21 Apr 2022 (oral, invited)
-American Meteorological Society Annual Meeting, 27 Jan 2022 (oral)
-American Geophysical Union Fall Meeting: Process-Oriented Diagnostics for Weather and Climate Models Session, 16 Dec 2021 (poster)
-American Geophysical Union Fall Meeting: Process-Oriented Analysis of Cloud and Precipitation Physics Session, 15 Dec 2021 (poster)
-Aerosol and Cloud, Convection and Precipitation Webinar Series, 19 Apr 2021 (oral, invited)
-University of Maryland Baltimore County Department of Physics Colloquium, 24 Feb 2021 (oral, invited)
-University of Toronto Physics Colloquium, 28 Jan 2021 (oral, invited)
-10 New Insights in Climate Science 2020 Launch Event, 27 Jan 2021 (panelist, invited)
-American Geophysical Union Fall Meeting: CMIP6 Climate Model Evaluation Session, 8 Dec 2020 (oral, invited)
-The National Academies of Sciences, Engineering, and Medicine Workshop "Data in Motion: New Approaches to Advancing Scientific, Engineering and Medical Progress", 14-15 October 2020 (panelist, invited)
-2020 Princeton AOS Summer Workshop, 17-21 Aug 2020 (plenary talk and lectures, invited)
-2020 CESM Workshop, 15 June 2020 (plenary talk, invited)
-ECS & Cloud Feedback Symposia, online webinar, 28 May 2020 (oral, invited)
-Imperial College London, Atmospheric Physics Group Webinar, 12 May 2020 (oral, invited)
-University of Washington, ATMS 571, 28 April 2020 (oral, invited)
-Global Model Cloud-Aerosol Research Webinar Series, 2 April 2020 (oral, invited)
-UC Davis Department of Land, Air and Water Resources, 16 October 2019 (oral, invited)
-CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 1 October 2019 (oral)
-Geophysical Fluid Dynamics Laboratory, 23 May 2019 (oral, invited)
-George Mason University Center for Ocean-Land-Atmosphere Studies, 9 May 2019 (oral, invited)
-CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 17 October 2018 (oral)
-University of Washington Program on Climate Change Summer Institute, 13 Sep 2018 (oral, invited)
-CERES Science Team Meeting, 16 May 2018 (oral, invited)
-University of Washington Program on Climate Change Mini-Symposium on “Using past observations to constrain future climate variability and change”, 8 Feb 2018 (oral, invited)
-Texas A&M University Dept. of Atmospheric Sciences Seminar, 25 Oct 2017 (oral, invited)
-CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 25 Sep 2017 (oral)
-Gordon Research Conference on Radiation and Climate, 17-18 Jul 2017 (poster)
-Clouds, Their Properties, and Their Climate Feedbacks (Bill Rossow Retirement Symposium), 6 June 2017 (oral)
-American Geophysical Union Fall Meeting: Coupling of Cloud Processes with the Large-Scale Atmospheric Circulation Session, 12 Dec 2016 (poster)
-Dept. of Energy Regional and Global Climate Modeling PI Meeting, 29 Nov 2016 (poster)
-Lawrence Berkeley National Laboratory Department of Climate Sciences Seminar, 31 October 2016 (oral, invited)
-CFMIP/WCRP/ICTP Conference on Cloud Processes, Circulation and Climate Sensitivity, 7 July 2016 (oral)
-Joint US-Japan Workshop on Climate Change and Variability, 22 March 2016 (oral, invited)
-UC Berkeley Atmospheric Science Center Seminar, 2 March 2016 (oral, invited)
-American Geophysical Union Fall Meeting: Climate Sensitivity and Feedbacks: Advances and New Paradigms Session, 18 Dec 2015 (poster)
-Gordon Research Conference on Radiation and Climate, 28 July 2015 (oral, invited)
-CFMIP Meeting on Cloud Processes and Cloud Feedbacks, 10 June 2015 (oral)
-WCRP Grand Challenge Workshop: Earth’s Climate Sensitivities, 26 Mar 2015 (oral, invited)
-American Geophysical Union Fall Meeting: Toward Reducing Systematic Errors in Weather and Climate Models: Evaluation, Understanding, and Improvement Session, 18 Dec 2014 (oral)
-The Climate Symposium 2014, Clouds, Circulation and Climate Sensitivity Session, 14 October 2014 (oral, invited)
-Dept. of Energy Climate Modeling PI Meeting, 13 May 2014 (poster)
-University of California Los Angeles Dept. of Atmospheric and Oceanic Sciences Seminar, 7 May 2014 (oral, invited)
-American Geophysical Union Fall Meeting: Constraining Aerosol Indirect Forcing in Climate Models With Observations Session, 12 Dec 2013 (poster)
-Gordon Research Conference on Radiation and Climate, 10 Jul 2013 (poster)
-CFMIP/EUCLIPSE Meeting on Cloud Processes and Climate Feedbacks, 10 Jun 2013 (oral)
-Lawrence Berkeley National Laboratory Department of Climate Sciences Seminar, 20 May 2013 (oral, invited)
-ISCCP at 30 Conference, 24 Apr 2013 (oral)
-Dartmouth College Department of Geography Seminar, 28 Feb 2013 (oral, invited)
-Oregon State University College of Earth, Ocean, and Atmospheric Sciences Seminar, 19 Feb 2013 (oral, invited)
-American Geophysical Union Fall Meeting: Atmospheric Feedbacks and Climate: Observations, Theory, and Modeling Session, 4 Dec 2012 (poster)
-NASA Sounder Science Team Meeting: 14 Nov 2012 (oral, invited)
-Lawrence Livermore National Laboratory Post-Doc Seminar Series: 16 Oct 2012 (oral)
-Lawrence Livermore National Laboratory Science & Technology Day: 12 Oct 2012 (poster)
-1st Pan-GASS Conference: Cloud Radiative Processes in Observations and Models Project Session, 12 Sep 2012 (oral, invited)
-Workshop on the Physics of Weather and Climate Models: 20-23 Mar 2012 (poster)
-McGill University Department of Atmospheric and Oceanic Sciences Seminar, 15 Mar 2012 (oral, invited)
-WCRP Workshop on Coupled Model Intercomparison Project Phase 5 Model Analysis, 7 Mar 2012 (poster)
-Colorado State University Dept. of Atmospheric Science Colloquium, 20 Feb 2012 (oral, invited)
-Pennsylvania State University Dept. of Meteorology Colloquium, 15 Feb 2012 (oral, invited)
-University of California Los Angeles Dept. of Atmospheric and Oceanic Sciences Seminar, 25 Jan 2012 (oral, invited)
-American Geophysical Union Fall Meeting: Atmospheric Feedbacks and Climate: Observations, Theory, and Modeling Session, 8 Dec 2011 (oral, invited)
-American Geophysical Union Fall Meeting: Climate Modeling: Innovative Application of Observations for Diagnosing CMIP5 and IPCC Simulations: Quantifying Model Processes and Uncertainties Session, 8 Dec 2011 (poster)
-Santa Fe Conference on Global and Regional Climate Change, 2 Nov 2011 (oral, invited)
-National Center for Atmospheric Research Climate and Global Dynamics Division Seminar, 31 Oct 2011 (oral, invited)
-WCRP Open Science Conference, 27 Oct 2011 (oral)
-CERES Science Team Meeting, 6 Oct 2011 (oral)
-Department of Energy Climate and Earth System Modeling PI Meeting, 20 Sep 2011 (oral)
-Gordon Research Conference on Radiation and Climate, 11 Jul 2011 (poster)
-CFMIP/GCSS/EUCLIPSE Meeting on Cloud Processes and Climate Feedbacks, 7 Jun 2011 (oral)
-University of Washington Dept. of Atmospheric Sciences Colloquium, 19 Nov 2010 (Ph.D. defense)
-University of Washington Graduate Climate Conference: Climate Feedbacks Session, 16 Oct 2010 (session chair)
-University of Washington Program on Climate Change Summer Institute, 15-17 Sep 2010 (poster)
-Texas A&M University Dept. of Atmospheric Sciences Seminar, 16 Jun 2010 (oral, invited)
-Program for Climate Model Diagnosis and Intercomparison Seminar, Lawrence Livermore National Lab, 11 May 2010 (oral, invited)
-University of Chicago Dept. of the Geophysical Sciences Colloquium, 19 Feb 2010 (oral, invited)
-University ofWashington Dept. of Atmospheric Sciences Atmospheric Physics and Chemistry Seminar, 1 Feb 2010 (oral, invited)
-American Geophysical Union Fall Meeting: Atmospheric Feedbacks and Climate Change: Necessary Observations and Modeling Improvements Session, 16 Dec 2009 (oral)
-NASA Sounder Science Team Meeting, 14 Oct 2009 (oral, invited)
-Summer School on Water Vapor in the Climate System, 14-26 Sep 2009 (poster)
-Gordon Research Conference on Radiation and Climate, 5-10 Jul 2009 (poster)
-University of Washington Graduate Climate Conference: Tropics Session, 17-19 Apr 2009 (oral)
-American Geophysical Union Fall Meeting: Multiplatform and Multisensor Satellite Observations of Cloud-Precipitation Structures and Microphysics Session, 15-19 Dec 2008 (poster)
-Chapman Conference on Atmospheric Water Vapor and its Role in Climate, 20-24 Oct 2008 (poster)
-American Geophysical Union Fall Meeting: Physics and Chemistry of the Upper Troposphere / Lower Stratosphere Session, 12 Dec 2007 (oral)
-University of Washington Graduate Climate Conference: Aerosols, Clouds, and Water Vapor Session, 20 Oct 2007 (session chair)
-Gordon Research Conference on Radiation and Climate, 29 Jul – 3 Aug 2007 (poster)
-University of Washington Dept. of Atmospheric Sciences Clouds and Precipitation Seminar, May 2007 (oral)
-University of Washington Graduate Climate Conference, Apr 2006 (poster)
+- Yale University, School of the Environment, ENV 630, 21 Apr 2022 (oral, invited)
+- American Meteorological Society Annual Meeting, 27 Jan 2022 (oral)
+- American Geophysical Union Fall Meeting: Process-Oriented Diagnostics for Weather and Climate Models Session, 16 Dec 2021 (poster)
+- American Geophysical Union Fall Meeting: Process-Oriented Analysis of Cloud and Precipitation Physics Session, 15 Dec 2021 (poster)
+- Aerosol and Cloud, Convection and Precipitation Webinar Series, 19 Apr 2021 (oral, invited)
+- University of Maryland Baltimore County Department of Physics Colloquium, 24 Feb 2021 (oral, invited)
+- University of Toronto Physics Colloquium, 28 Jan 2021 (oral, invited)
+- 10 New Insights in Climate Science 2020 Launch Event, 27 Jan 2021 (panelist, invited)
+- American Geophysical Union Fall Meeting: CMIP6 Climate Model Evaluation Session, 8 Dec 2020 (oral, invited)
+- The National Academies of Sciences, Engineering, and Medicine Workshop "Data in Motion: New Approaches to Advancing Scientific, Engineering and Medical Progress", 14-15 October 2020 (panelist, invited)
+- 2020 Princeton AOS Summer Workshop, 17-21 Aug 2020 (plenary talk and lectures, invited)
+- 2020 CESM Workshop, 15 June 2020 (plenary talk, invited)
+- ECS & Cloud Feedback Symposia, online webinar, 28 May 2020 (oral, invited)
+- Imperial College London, Atmospheric Physics Group Webinar, 12 May 2020 (oral, invited)
+- University of Washington, ATMS 571, 28 April 2020 (oral, invited)
+- Global Model Cloud-Aerosol Research Webinar Series, 2 April 2020 (oral, invited)
+- UC Davis Department of Land, Air and Water Resources, 16 October 2019 (oral, invited)
+- CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 1 October 2019 (oral)
+- Geophysical Fluid Dynamics Laboratory, 23 May 2019 (oral, invited)
+- George Mason University Center for Ocean-Land-Atmosphere Studies, 9 May 2019 (oral, invited)
+- CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 17 October 2018 (oral)
+- University of Washington Program on Climate Change Summer Institute, 13 Sep 2018 (oral, invited)
+- CERES Science Team Meeting, 16 May 2018 (oral, invited)
+- University of Washington Program on Climate Change Mini-Symposium on “Using past observations to constrain future climate variability and change”, 8 Feb 2018 (oral, invited)
+- Texas A&M University Dept. of Atmospheric Sciences Seminar, 25 Oct 2017 (oral, invited)
+- CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 25 Sep 2017 (oral)
+- Gordon Research Conference on Radiation and Climate, 17-18 Jul 2017 (poster)
+- Clouds, Their Properties, and Their Climate Feedbacks (Bill Rossow Retirement Symposium), 6 June 2017 (oral)
+- American Geophysical Union Fall Meeting: Coupling of Cloud Processes with the Large-Scale Atmospheric Circulation Session, 12 Dec 2016 (poster)
+- Dept. of Energy Regional and Global Climate Modeling PI Meeting, 29 Nov 2016 (poster)
+- Lawrence Berkeley National Laboratory Department of Climate Sciences Seminar, 31 October 2016 (oral, invited)
+- CFMIP/WCRP/ICTP Conference on Cloud Processes, Circulation and Climate Sensitivity, 7 July 2016 (oral)
+- Joint US-Japan Workshop on Climate Change and Variability, 22 March 2016 (oral, invited)
+- UC Berkeley Atmospheric Science Center Seminar, 2 March 2016 (oral, invited)
+- American Geophysical Union Fall Meeting: Climate Sensitivity and Feedbacks: Advances and New Paradigms Session, 18 Dec 2015 (poster)
+- Gordon Research Conference on Radiation and Climate, 28 July 2015 (oral, invited)
+- CFMIP Meeting on Cloud Processes and Cloud Feedbacks, 10 June 2015 (oral)
+- WCRP Grand Challenge Workshop: Earth’s Climate Sensitivities, 26 Mar 2015 (oral, invited)
+- American Geophysical Union Fall Meeting: Toward Reducing Systematic Errors in Weather and Climate Models: Evaluation, Understanding, and Improvement Session, 18 Dec 2014 (oral)
+- The Climate Symposium 2014, Clouds, Circulation and Climate Sensitivity Session, 14 October 2014 (oral, invited)
+- Dept. of Energy Climate Modeling PI Meeting, 13 May 2014 (poster)
+- University of California Los Angeles Dept. of Atmospheric and Oceanic Sciences Seminar, 7 May 2014 (oral, invited)
+- American Geophysical Union Fall Meeting: Constraining Aerosol Indirect Forcing in Climate Models With Observations Session, 12 Dec 2013 (poster)
+- Gordon Research Conference on Radiation and Climate, 10 Jul 2013 (poster)
+- CFMIP/EUCLIPSE Meeting on Cloud Processes and Climate Feedbacks, 10 Jun 2013 (oral)
+- Lawrence Berkeley National Laboratory Department of Climate Sciences Seminar, 20 May 2013 (oral, invited)
+- ISCCP at 30 Conference, 24 Apr 2013 (oral)
+- Dartmouth College Department of Geography Seminar, 28 Feb 2013 (oral, invited)
+- Oregon State University College of Earth, Ocean, and Atmospheric Sciences Seminar, 19 Feb 2013 (oral, invited)
+- American Geophysical Union Fall Meeting: Atmospheric Feedbacks and Climate: Observations, Theory, and Modeling Session, 4 Dec 2012 (poster)
+- NASA Sounder Science Team Meeting: 14 Nov 2012 (oral, invited)
+- Lawrence Livermore National Laboratory Post-Doc Seminar Series: 16 Oct 2012 (oral)
+- Lawrence Livermore National Laboratory Science & Technology Day: 12 Oct 2012 (poster)
+- 1st Pan-GASS Conference: Cloud Radiative Processes in Observations and Models Project Session, 12 Sep 2012 (oral, invited)
+- Workshop on the Physics of Weather and Climate Models: 20-23 Mar 2012 (poster)
+- McGill University Department of Atmospheric and Oceanic Sciences Seminar, 15 Mar 2012 (oral, invited)
+- WCRP Workshop on Coupled Model Intercomparison Project Phase 5 Model Analysis, 7 Mar 2012 (poster)
+- Colorado State University Dept. of Atmospheric Science Colloquium, 20 Feb 2012 (oral, invited)
+- Pennsylvania State University Dept. of Meteorology Colloquium, 15 Feb 2012 (oral, invited)
+- University of California Los Angeles Dept. of Atmospheric and Oceanic Sciences Seminar, 25 Jan 2012 (oral, invited)
+- American Geophysical Union Fall Meeting: Atmospheric Feedbacks and Climate: Observations, Theory, and Modeling Session, 8 Dec 2011 (oral, invited)
+- American Geophysical Union Fall Meeting: Climate Modeling: Innovative Application of Observations for Diagnosing CMIP5 and IPCC Simulations: Quantifying Model Processes and Uncertainties Session, 8 Dec 2011 (poster)
+- Santa Fe Conference on Global and Regional Climate Change, 2 Nov 2011 (oral, invited)
+- National Center for Atmospheric Research Climate and Global Dynamics Division Seminar, 31 Oct 2011 (oral, invited)
+- WCRP Open Science Conference, 27 Oct 2011 (oral)
+- CERES Science Team Meeting, 6 Oct 2011 (oral)
+- Department of Energy Climate and Earth System Modeling PI Meeting, 20 Sep 2011 (oral)
+- Gordon Research Conference on Radiation and Climate, 11 Jul 2011 (poster)
+- CFMIP/GCSS/EUCLIPSE Meeting on Cloud Processes and Climate Feedbacks, 7 Jun 2011 (oral)
+- University of Washington Dept. of Atmospheric Sciences Colloquium, 19 Nov 2010 (Ph.D. defense)
+- University of Washington Graduate Climate Conference: Climate Feedbacks Session, 16 Oct 2010 (session chair)
+- University of Washington Program on Climate Change Summer Institute, 15-17 Sep 2010 (poster)
+- Texas A&M University Dept. of Atmospheric Sciences Seminar, 16 Jun 2010 (oral, invited)
+- Program for Climate Model Diagnosis and Intercomparison Seminar, Lawrence Livermore National Lab, 11 May 2010 (oral, invited)
+- University of Chicago Dept. of the Geophysical Sciences Colloquium, 19 Feb 2010 (oral, invited)
+- University ofWashington Dept. of Atmospheric Sciences Atmospheric Physics and Chemistry Seminar, 1 Feb 2010 (oral, invited)
+- American Geophysical Union Fall Meeting: Atmospheric Feedbacks and Climate Change: Necessary Observations and Modeling Improvements Session, 16 Dec 2009 (oral)
+- NASA Sounder Science Team Meeting, 14 Oct 2009 (oral, invited)
+- Summer School on Water Vapor in the Climate System, 14-26 Sep 2009 (poster)
+- Gordon Research Conference on Radiation and Climate, 5-10 Jul 2009 (poster)
+- University of Washington Graduate Climate Conference: Tropics Session, 17-19 Apr 2009 (oral)
+- American Geophysical Union Fall Meeting: Multiplatform and Multisensor Satellite Observations of Cloud-Precipitation Structures and Microphysics Session, 15-19 Dec 2008 (poster)
+- Chapman Conference on Atmospheric Water Vapor and its Role in Climate, 20-24 Oct 2008 (poster)
+- American Geophysical Union Fall Meeting: Physics and Chemistry of the Upper Troposphere / Lower Stratosphere Session, 12 Dec 2007 (oral)
+- University of Washington Graduate Climate Conference: Aerosols, Clouds, and Water Vapor Session, 20 Oct 2007 (session chair)
+- Gordon Research Conference on Radiation and Climate, 29 Jul – 3 Aug 2007 (poster)
+- University of Washington Dept. of Atmospheric Sciences Clouds and Precipitation Seminar, May 2007 (oral)
+- University of Washington Graduate Climate Conference, Apr 2006 (poster)
 
 ## Teaching Experience
 
-Lead Teaching Assistant for Department of Atmospheric Sciences, Sep 2009 – Aug 2010
-Teaching Assistant: ATMS 211: Climate and Climate Change, Feb – Jun 2009
-Teaching Assistant: ATMS 101: Weather, Mar – Jun 2006
-ATMS 321: Science of Climate, Spring quarter 2006, 2007, 2008, 2009
-Teaching Assistant: EM SC 100S: First-Year Seminar, Jan – May 2004
+- Lead Teaching Assistant for Department of Atmospheric Sciences, Sep 2009 – Aug 2010
+- Teaching Assistant: ATMS 211: Climate and Climate Change, Feb – Jun 2009
+- Teaching Assistant: ATMS 101: Weather, Mar – Jun 2006
+- ATMS 321: Science of Climate, Spring quarter 2006, 2007, 2008, 2009
+- Teaching Assistant: EM SC 100S: First-Year Seminar, Jan – May 2004
 
 ## Communication Skills Development
 
-Climate Communication Training, AGU Climate Science Rapid Response Team, Dec 2011
-Graduate Certificate in Climate Science, University of Washington, Mar – Jun 2010
-Capstone Project: Perception and Reality of Environmental Risk Among the Ha Tinh Population of Vietnam
+- Climate Communication Training, AGU Climate Science Rapid Response Team, Dec 2011
+- Graduate Certificate in Climate Science, University of Washington, Mar – Jun 2010
+   - Capstone Project: Perception and Reality of Environmental Risk Among the Ha Tinh Population of Vietnam
 
 ## Outreach Activities
 
-Speaker, Science on Saturday, The Future in Focus: Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 26 Feb 2022.
-Speaker, San Joaquin County Office of Education Climate Change Summit, 26 Sep 2020
-Speaker, Wild and Scenic Film Festival, Bankhead Theater, Livermore, CA, Jan 2020
-Department of Atmospheric Sciences and Program on Climate Change Outreach Teams, Sep 2004 – Dec 2010
-Gave talks at libraries, churches, and schools about climate change
-Gave demonstrations about physical processes relevant to weather and climate at elementary and middle school classrooms and science fairs
-Served as panel discussant proceeding screening of An Inconvenient Truth at Lincoln Theater in Mount Vernon, Washington, Summer 2006
+- Speaker, Science on Saturday, The Future in Focus: Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 26 Feb 2022.
+- Speaker, San Joaquin County Office of Education Climate Change Summit, 26 Sep 2020
+- Speaker, Wild and Scenic Film Festival, Bankhead Theater, Livermore, CA, Jan 2020
+- Department of Atmospheric Sciences and Program on Climate Change Outreach Teams, Sep 2004 – Dec 2010
+   - Gave talks at libraries, churches, and schools about climate change
+   - Gave demonstrations about physical processes relevant to weather and climate at elementary and middle school classrooms and science fairs
+   - Served as panel discussant proceeding screening of An Inconvenient Truth at Lincoln Theater in Mount Vernon, Washington, Summer 2006
 
