@@ -45,12 +45,11 @@ horizontal: false
 
 ## 2020
 
-- **Zelinka, M. D.**, M. A. A. Rugenstein, S. A. Klein, 2020: A more confident view of Earth’s climate sensitivity, American Physical Society Topical Group on the Physics of Climate Newsletter.
+- **Zelinka, M. D.**, M. A. A. Rugenstein, S. A. Klein, 2020: [A more confident view of Earth’s climate sensitivity](https://higherlogicdownload.s3.amazonaws.com/APS/69e619fa-6812-4295-b8b5-b6dfb5ebe1d5/UploadedImages/GPC_newsletter-Oct2020.pdf), _American Physical Society Topical Group on the Physics of Climate Newsletter_.
 
-- McCoy, D. M., P. Field, A. Bodas-Salcedo, G. S. Elsaesser, and **M. D. Zelinka**, 2020: A regime-oriented approach to observationally constraining extratropical shortwave cloud feedbacks, _J. Climate_, doi:10.1175/JCLI-D-19-0987.1.
+- McCoy, D. M., P. Field, A. Bodas-Salcedo, G. S. Elsaesser, and **M. D. Zelinka**, 2020: [A regime-oriented approach to observationally constraining extratropical shortwave cloud feedbacks](https://journals.ametsoc.org/view/journals/clim/33/23/jcliD190987.xml), _J. Climate_, doi:10.1175/JCLI-D-19-0987.1.
 
-- Sherwood, S., et al. including **M. D. Zelinka**, 2020: A combined assessment of Earth’s climate sensitivity, _Rev. Geophys._, 58, doi:10.1029/2019RG000678.
-This paper was a runner-up for Science Magazine’s 2020 Breakthrough of the Year
+- Sherwood, S., et al. including **M. D. Zelinka**, 2020: [A combined assessment of Earth’s climate sensitivity](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019RG000678), _Rev. Geophys._, 58, doi:10.1029/2019RG000678. *This paper was a runner-up for Science Magazine’s [2020 Breakthrough of the Year](https://vis.sciencemag.org/breakthrough2020/#/finalists/global-warming-forecasts-sharpen)*
 
 
 - Scott, R. C., T. A. Myers, J. R. Norris, **M. D. Zelinka**, S. A. Klein, M. Sun, and D. R. Doelling, 2020: Observed Sensitivity of Low-Cloud Radiative Effects to Meteorological Perturbations over the Global Oceans, _J. Climate_, 33, 7717–7734, doi:10.1175/JCLI-D-19-1028.1.
