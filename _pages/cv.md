@@ -6,9 +6,7 @@ description: curriculum vitae
 nav: true
 ---
 
-
-
-## [Download PDF](https://github.com/mzelinka/mzelinka.github.io/raw/master/assets/Zelinka_CV.pdf)
+[Download PDF]({{ '/assets/Zelinka_CV.pdf' | relative_url }}) 
 
 <br>
 
