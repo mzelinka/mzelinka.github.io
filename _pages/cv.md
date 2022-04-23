@@ -190,12 +190,9 @@ Climate sensitivity, cloud feedback, radiative forcing
 </ol>
 
 ## Book Chapters
-
-- McCoy, D.T., D. L. Hartmann, and <b>M. D. Zelinka</b>, 2017. Mixed-Phase Cloud Feedbacks. In: Andronache, C. (Ed.), Mixed-phase Clouds: Observations and Modeling. Elsevier.
-
-- Tan, I., T. Storelvmo, and <b>M. D. Zelinka</b>, 2017. The climatic impact of thermodynamic phase partitioning in mixed-phase clouds. In: Andronache, C. (Ed.), Mixed-phase Clouds: Observations and Modeling. Elsevier.
-
-- Dessler, A.E. and <b>M. D. Zelinka</b>, 2015. Climate Feedbacks. In: Gerald R. North (editor-in-chief), John Pyle and Fuqing Zhang (editors). Encyclopedia of Atmospheric Sciences, 2nd edition, Vol 2, pp. 18–25.
+- McCoy, D.T., D. L. Hartmann, and <b>M. D. Zelinka</b>, 2017. Mixed-Phase Cloud Feedbacks. In: Andronache, C. (Ed.), _Mixed-phase Clouds: Observations and Modeling_. Elsevier.
+- Tan, I., T. Storelvmo, and <b>M. D. Zelinka</b>, 2017. The climatic impact of thermodynamic phase partitioning in mixed-phase clouds. In: Andronache, C. (Ed.), _Mixed-phase Clouds: Observations and Modeling_. Elsevier.
+- Dessler, A.E. and <b>M. D. Zelinka</b>, 2015. Climate Feedbacks. In: Gerald R. North (editor-in-chief), John Pyle and Fuqing Zhang (editors). _Encyclopedia of Atmospheric Sciences_, 2nd edition, Vol 2, pp. 18–25.
 
 ## Honors & Awards
 - American Meteorological Society Henry G. Houghton Award, 2022
