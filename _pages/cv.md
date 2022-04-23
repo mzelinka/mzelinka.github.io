@@ -12,10 +12,18 @@ nav: true
 
 <br>
 
-## Research Interests
-Climate sensitivity, cloud feedback, radiative forcing
+details {
+  font: 16px;
+}
 
-## Education
+<details>
+  <summary>Research Interests</summary>   
+    
+Climate sensitivity, cloud feedback, radiative forcing
+</details>
+
+<details>
+  <summary>Education</summary>  
 
 - Ph.D., Atmospheric Sciences, University of Washington, December 2010
     - _Dissertation_: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming
@@ -28,6 +36,9 @@ Climate sensitivity, cloud feedback, radiative forcing
 - B.S., Meteorology, Pennsylvania State University, May 2004
     - _Minors_: Earth Systems & Climatology
     - _Honors_: Department Marshall, Highest Distinction Graduate, 4.0 Major GPA
+</details>
+
+
 
 ## Professional Experience
 - Research scientist, Lawrence Livermore National Laboratory, April 2013 – present
