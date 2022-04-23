@@ -7,6 +7,10 @@ nav: true
 horizontal: false
 ---
 
+
+<p><a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | <a href="https://mzelinka.github.io/publications/#pubs20">2020</a> | <a href="https://mzelinka.github.io/publications/#pubs19">2019</a> | <a href="https://mzelinka.github.io/publications/#pubs18">2018</a> | <a href="https://mzelinka.github.io/publications/#pubs17">2017</a> | <a href="https://mzelinka.github.io/publications/#pubs16">2016</a> | <a href="https://mzelinka.github.io/publications/#pubs15">2015</a> | <a href="https://mzelinka.github.io/publications/#pubs14">2014</a> | <a href="https://mzelinka.github.io/publications/#pubs13">2013</a> | <a href="https://mzelinka.github.io/publications/#pubs12">2012</a> | <a href="https://mzelinka.github.io/publications/#pubs11">2011</a> | <a href="https://mzelinka.github.io/publications/#pubs10">2010</a> | <a href="https://mzelinka.github.io/publications/#pubs09">2009</a></p>
+
+<p><a name="pubs22"></a></p>
 ## 2022
 
 - Samset, B., C. Zhou, J. Fuglestvedt, M. Lund, J. Marotzke, **M. D. Zelinka**, 2022: [Earlier emergence of a temperature response to mitigation by filtering annual variability](https://www.nature.com/articles/s41467-022-29247-y), _Nat Commun._, 13, 1578, doi:10.1038/s41467-022-29247-y.
@@ -19,7 +23,7 @@ horizontal: false
 
 - **Zelinka, M. D.**, S. A. Klein, Y. Qin, and T. A. Myers, 2022: [Evaluating climate models’ cloud feedbacks against expert judgement](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035198), _J. Geophys. Res._, 127, doi:10.1029/2021JD035198. *Code to perform the analysis from this paper is available [HERE](https://github.com/mzelinka/assessed-cloud-fbks).*
 
-
+<p><a name="pubs21"></a></p>
 ## 2021
 
 - Hahn L. C., K. C. Armour, **M. D. Zelinka**, C. M. Bitz, and A. Donohoe, 2021: [Contributions to Polar Amplification in CMIP5 and CMIP6 Models](https://www.frontiersin.org/articles/10.3389/feart.2021.710036/full), _Front. Earth Sci._ 9:710036. doi: 10.3389/feart.2021.710036.
@@ -42,7 +46,7 @@ horizontal: false
 
 
 
-
+<p><a name="pubs20"></a></p>
 ## 2020
 
 - **Zelinka, M. D.**, M. A. A. Rugenstein, S. A. Klein, 2020: [A more confident view of Earth’s climate sensitivity](https://higherlogicdownload.s3.amazonaws.com/APS/69e619fa-6812-4295-b8b5-b6dfb5ebe1d5/UploadedImages/GPC_newsletter-Oct2020.pdf), _American Physical Society Topical Group on the Physics of Climate Newsletter_.
@@ -68,7 +72,7 @@ Forcings, feedbacks, and ECS values are available here (regularly updated to inc
 
 
 
-
+<p><a name="pubs19"></a></p>
 ## 2019
 
 - Po-Chedley, S., **M. D. Zelinka**, N. Jeevanjee, T. J. Thorsen, and B. D. Santer, 2019: Climatology explains intermodel spread in upper tropospheric cloud and relative humidity response to greenhouse warming, _Geophys. Res. Lett._, 46, doi:10.1029/2019GL084786.
@@ -91,7 +95,7 @@ Forcings, feedbacks, and ECS values are available here (regularly updated to inc
 
 
 
-
+<p><a name="pubs28"></a></p>
 ## 2018
 
 - **Zelinka, M. D.**, K. M. Grise, S. A. Klein, C. Zhou, A. M. DeAngelis, and M. W. Christensen, 2018: Drivers of the Low Cloud Response to Poleward Jet Shifts in the North Pacific in Observations and Models, _J. Climate_, 31, 7925–7947, doi:10.1175/JCLI-D-18-0114.1.
@@ -106,7 +110,7 @@ Forcings, feedbacks, and ECS values are available here (regularly updated to inc
 
 
 
-
+<p><a name="pubs17"></a></p>
 ## 2017
 
 - Tsushima, Y., F. Brient, S. A. Klein, D. Konsta, C. Nam, X. Qu, K. D. Williams, S. C. Sherwood, K. Suzuki, and **M. D. Zelinka**, 2017: The Cloud Feedback Model Intercomparison Project (CFMIP) Diagnostic Codes Catalogue – metrics, diagnostics and methodologies to evaluate, understand and improve the representation of clouds and cloud feedbacks in climate models, _Geosci. Model Dev._, 10, 4285-4305, doi:10.5194/gmd-10-4285-2017.
@@ -123,7 +127,7 @@ Download the Green's functions from this paper!
 
 
 
-
+<p><a name="pubs16"></a></p>
 ## 2016
 
 - Zhou, C., **M. D. Zelinka**, and S. A. Klein, 2016: Impact of decadal cloud variations on the Earth’s energy budget, _Nature Geoscience_, 9, 871–874, doi: 10.1038/ngeo2828.
@@ -150,13 +154,13 @@ Thorsten Mauritsen's News and Views on this article: Global warming: Clouds co
 
 
 
+<p><a name="pubs15"></a></p>
 ## 2015
 
 - Zhou, C., **M. D. Zelinka**, A. E. Dessler, S. A. Klein, 2015: The relationship between inter-annual and long-term cloud feedbacks, _Geophys. Res. Lett._, 42, 10,463–10,469, doi:10.1002/2015GL066698.
 
 - DeAngelis, A. M., X. Qu, **M. D. Zelinka**, and A. Hall, 2015: An observational radiative constraint on hydrologic cycle intensification, _Nature_, 528, 249-253, doi:10.1038/nature15770.   Corrigendum
 Steve Sherwood's News and Views on this article: The Sun and the rain
-
 
 
 - McCoy, D. T., D. L. Hartmann, **M. D. Zelinka**, P. Ceppi and D. P. Grosvenor, 2015: Mixed-phase cloud physics and Southern Ocean cloud feedback in climate models, _J. Geophys. Res._, 120, 9539-9554, doi: 10.1002/2015JD023603.
@@ -169,7 +173,7 @@ Steve Sherwood's News and Views on this article: The Sun and the rain
 
 
 
-
+<p><a name="pubs14"></a></p>
 ## 2014
 
 - Johnston, M. S., S. Eliasson, P. Eriksson, R. M. Forbes, A. Gettelman, P. Räisänen, and **M. D. Zelinka**, 2014: Diagnosing the average spatio-temporal impact of convective systems – Part 2: A model intercomparison using satellite data, _Atmos. Chem. Phys._, 14, 8701-8721, doi:10.5194/acp-14-8701-2014.
@@ -186,7 +190,7 @@ Code to perform Approximate Partial Radiative Perturbation (APRP) calculations
 
 
 
-
+<p><a name="pubs13"></a></p>
 ## 2013
 
 - Johnston, M. S., S. Eliasson, P. Eriksson, R. M. Forbes, K. Wyser, and **M. D. Zelinka**, 2013: Diagnosing the average spatio-temporal impact of convective systems – Part 1: A methodology for evaluating climate models, _Atmos. Chem. Phys._, 13, 12043-12058, doi:10.5194/acp-13-12043-2013.
@@ -205,7 +209,7 @@ Cloud Error Metrics Code
 
 
 
-
+<p><a name="pubs12"></a></p>
 ## 2012
 
 - **Zelinka, M. D.**, S. A. Klein, and D. L. Hartmann, 2012: Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part I: Cloud Radiative Kernels, _J. Climate_, 25, 3715–3735. doi:10.1175/JCLI-D-11-00248.1.
@@ -217,15 +221,14 @@ Code and Kernels for Computing Cloud Feedbacks
 - **Zelinka, M. D.** and D. L. Hartmann, 2012: Climate Feedbacks and their Implications for Poleward Energy Flux Changes in a Warming Climate, _J. Climate_, 25, 608-624, doi:10.1175/JCLI-D-11-00096.1.
 
 
-
-
+<p><a name="pubs11"></a></p>
 ## 2011
 
 - **Zelinka, M. D.** and D. L. Hartmann, 2011: The Observed Sensitivity of High Clouds to Mean Surface Temperature Anomalies in the Tropics, _J. Geophys. Res._, 116, D23103, doi:10.1029/2011JD016459.
 
 
 
-
+<p><a name="pubs10"></a></p>
 ## 2010
 
 - **Zelinka, M. D.**, 2010: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming. Ph.D. Dissertation. University of Washington.
@@ -234,7 +237,7 @@ Code and Kernels for Computing Cloud Feedbacks
 
 
 
-
+<p><a name="pubs09"></a></p>
 ## 2009
 
 - **Zelinka, M. D.** and D. L. Hartmann, 2009: Response of Humidity and Clouds to Tropical Deep Convection, _J. Climate_, 22, 2389-2404, doi:10.1175/2008JCLI2452.1.
