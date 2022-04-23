@@ -10,6 +10,7 @@ nav: true
 
 ## [Curriculum Vitae in PDF form](https://drive.google.com/file/d/0B_LyMovdADoic3c2bmRERzJWbVE/view?usp=sharing)
 
+<br>
 
 ## Research Interests
 Climate sensitivity, cloud feedback, radiative forcing
