@@ -8,7 +8,7 @@ nav: true
 
 
 
-## [Curriculum Vitae in PDF form](https://drive.google.com/file/d/0B_LyMovdADoic3c2bmRERzJWbVE/view?usp=sharing)
+## [Download PDF](https://github.com/mzelinka/mzelinka.github.io/raw/master/assets/Zelinka_CV.pdf)
 
 <br>
 
