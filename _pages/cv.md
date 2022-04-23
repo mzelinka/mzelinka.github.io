@@ -12,25 +12,16 @@ nav: true
 
 <br>
 
-details summary > * { 
-  display: inline;
-}
 
-<details open>
-  <summary>
-    <h3>Research Interests</h3>
-  </summary>
-  
+## Research Interests  
 - climate sensitivity
 - cloud feedback
 - radiative forcing
-</details>
+
 
   
 
-<details open>
-  <summary>Education</summary>  
-
+## Education
 - Ph.D., Atmospheric Sciences, University of Washington, December 2010
     - _Dissertation_: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming
     - _Advisor_: Dennis L. Hartmann
@@ -42,7 +33,7 @@ details summary > * {
 - B.S., Meteorology, Pennsylvania State University, May 2004
     - _Minors_: Earth Systems & Climatology
     - _Honors_: Department Marshall, Highest Distinction Graduate, 4.0 Major GPA
-</details>
+
 
 
 
