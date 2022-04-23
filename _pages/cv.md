@@ -12,17 +12,19 @@ nav: true
 
 <br>
 
-details {
-  font: 16px;
-}
-
-<details>
-  <summary>Research Interests</summary>   
-    
-Climate sensitivity, cloud feedback, radiative forcing
+<details open>
+  <summary>
+    <h3>Research Interests</h3>
+  </summary>
+  
+- climate sensitivity
+- cloud feedback
+- radiative forcing
 </details>
 
-<details>
+  
+
+<details open>
   <summary>Education</summary>  
 
 - Ph.D., Atmospheric Sciences, University of Washington, December 2010
