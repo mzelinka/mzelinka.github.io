@@ -12,6 +12,10 @@ nav: true
 
 <br>
 
+details summary > * { 
+  display: inline;
+}
+
 <details open>
   <summary>
     <h3>Research Interests</h3>
