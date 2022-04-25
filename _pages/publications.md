@@ -70,17 +70,17 @@ _Meteorological cloud radiative kernels are available [HERE](https://github.com/
 - Sherwood, S., et al. including **M. D. Zelinka**, 2020: [A combined assessment of Earth’s climate sensitivity](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019RG000678), _Rev. Geophys._, 58, doi:10.1029/2019RG000678. <br>
 _This paper was a runner-up for _Science_ Magazine’s [2020 Breakthrough of the Year](https://vis.sciencemag.org/breakthrough2020/#/finalists/global-warming-forecasts-sharpen)._  
 
-- Scott, R. C., T. A. Myers, J. R. Norris, **M. D. Zelinka**, S. A. Klein, M. Sun, and D. R. Doelling, 2020: Observed Sensitivity of Low-Cloud Radiative Effects to Meteorological Perturbations over the Global Oceans, _J. Climate_, 33, 7717–7734, doi:10.1175/JCLI-D-19-1028.1. <br>
+- Scott, R. C., T. A. Myers, J. R. Norris, **M. D. Zelinka**, S. A. Klein, M. Sun, and D. R. Doelling, 2020: [Observed Sensitivity of Low-Cloud Radiative Effects to Meteorological Perturbations over the Global Oceans](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191028.xml), _J. Climate_, 33, 7717–7734, doi:10.1175/JCLI-D-19-1028.1. <br>
 _Meteorological cloud radiative kernels are available [HERE](https://github.com/tamyers87/meteorological_cloud_radiative_kernels)._  
 
 
-- Dong, Y. K. C. Armour, **M. D. Zelinka**, C. Proistosescu, D. S. Battisti, C. Zhou, and T. Andrews, 2020: Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models, _J. Climate_, 33, 7755–7775, doi:10.1175/JCLI-D-19-1011.1.
+- Dong, Y. K. C. Armour, **M. D. Zelinka**, C. Proistosescu, D. S. Battisti, C. Zhou, and T. Andrews, 2020: [Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191011.xml), _J. Climate_, 33, 7755–7775, doi:10.1175/JCLI-D-19-1011.1.
     - _Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y).  
 
-- **Zelinka, M. D.**, T. A. Myers, D. T. McCoy, S. Po-Chedley, P. M. Caldwell, P. Ceppi, S. A. Klein, and K. E. Taylor, 2020: Causes of higher climate sensitivity in CMIP6 models, _Geophys. Res. Lett._, 47, doi:10.1029/2019GL085782. <br>
+- **Zelinka, M. D.**, T. A. Myers, D. T. McCoy, S. Po-Chedley, P. M. Caldwell, P. Ceppi, S. A. Klein, and K. E. Taylor, 2020: [Causes of higher climate sensitivity in CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085782), _Geophys. Res. Lett._, 47, doi:10.1029/2019GL085782. <br>
 _Forcings, feedbacks, and ECS values are available [HERE](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) (regularly updated to include CMIP6 models as they are processed)._  
 
-- Zhou, C., Y. Hu, J. Lu, and **M. D. Zelinka**, 2020: Responses of the Hadley Circulation to regional sea surface temperature changes, _J. Climate_, 33, 429-441, doi:10.1175/JCLI-D-19-0315.1.
+- Zhou, C., Y. Hu, J. Lu, and **M. D. Zelinka**, 2020: [Responses of the Hadley Circulation to regional sea surface temperature changes](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0315.1), _J. Climate_, 33, 429-441, doi:10.1175/JCLI-D-19-0315.1.
 
 
 
@@ -88,23 +88,23 @@ _Forcings, feedbacks, and ECS values are available [HERE](https://github.com/mze
 
 ## 2019
 
-- Po-Chedley, S., **M. D. Zelinka**, N. Jeevanjee, T. J. Thorsen, and B. D. Santer, 2019: Climatology explains intermodel spread in upper tropospheric cloud and relative humidity response to greenhouse warming, _Geophys. Res. Lett._, 46, doi:10.1029/2019GL084786.
+- Po-Chedley, S., **M. D. Zelinka**, N. Jeevanjee, T. J. Thorsen, and B. D. Santer, 2019: [Climatology explains intermodel spread in upper tropospheric cloud and relative humidity response to greenhouse warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL084786), _Geophys. Res. Lett._, 46, doi:10.1029/2019GL084786.
 
-- Santer, B. D., et al. including **M. D. Zelinka**, 2019: Quantifying stochastic uncertainty in detection time of human-caused climate signals, _Proc. Natl. Acad. Sci._, 116 (40) 19821-19827, doi:10.1073/pnas.1904586116.
+- Santer, B. D., et al. including **M. D. Zelinka**, 2019: [Quantifying stochastic uncertainty in detection time of human-caused climate signals](https://www.pnas.org/content/early/2019/09/11/1904586116), _Proc. Natl. Acad. Sci._, 116 (40) 19821-19827, doi:10.1073/pnas.1904586116.
 
-- Chen, Y.-J., Y.-T. Hwang, **M. D. Zelinka**, and C. Zhou, 2019: Distinct patterns of cloud changes associated with decadal variability and their contribution to observed cloud cover trends, _J. Climate_, 32, 7281-7301, doi:10.1175/JCLI-D-18-0443.1.
+- Chen, Y.-J., Y.-T. Hwang, **M. D. Zelinka**, and C. Zhou, 2019: [Distinct patterns of cloud changes associated with decadal variability and their contribution to observed cloud cover trends](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-18-0443.1), _J. Climate_, 32, 7281-7301, doi:10.1175/JCLI-D-18-0443.1.
 
-- Zhang, Y., et al. including **M. D. Zelinka**, 2019: Evaluation of Clouds in Version 1 of the E3SM Atmosphere Model with Satellite Simulators, _J. Adv. Model. Earth Syst._, 11, 1253-1268, doi:10.1029/2018MS001562.
+- Zhang, Y., et al. including **M. D. Zelinka**, 2019: [Evaluation of Clouds in Version 1 of the E3SM Atmosphere Model with Satellite Simulators](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001562), _J. Adv. Model. Earth Syst._, 11, 1253-1268, doi:10.1029/2018MS001562.
 
-- Golaz, J.-C., et al. including **M. D. Zelinka**, 2019: The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution, _J. Adv. Model. Earth Syst._, 11, 2089-2129, doi:10.1029/2018MS001603.
+- Golaz, J.-C., et al. including **M. D. Zelinka**, 2019: [The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001603), _J. Adv. Model. Earth Syst._, 11, 2089-2129, doi:10.1029/2018MS001603.
 
-- Santer, B. D., et al. including **M. D. Zelinka**, 2019: Celebrating the anniversary of three key events in climate change science, _Nature Clim. Change_, 9, 180-182, doi:10.1038/s41558-019-0424-x.
+- Santer, B. D., et al. including **M. D. Zelinka**, 2019: [Celebrating the anniversary of three key events in climate change science](https://www.nature.com/articles/s41558-019-0424-x), _Nature Clim. Change_, 9, 180-182, doi:10.1038/s41558-019-0424-x.
 
-- Terai, C. R., Y. Zhang, S. A. Klein, **M. D. Zelinka**, J. C. Chiu, and Q. Min, 2019: Mechanisms behind the extratropical stratiform low‐cloud optical depth response to temperature in ARM site observations, _J. Geophys. Res._, 124, doi:10.1029/2018JD029359.
+- Terai, C. R., Y. Zhang, S. A. Klein, **M. D. Zelinka**, J. C. Chiu, and Q. Min, 2019: [Mechanisms behind the extratropical stratiform low‐cloud optical depth response to temperature in ARM site observations](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029359), _J. Geophys. Res._, 124, doi:10.1029/2018JD029359.
 
-- McCoy, D. T., et al. including **M. D. Zelinka**, 2019: Cloud feedbacks in extratropical cyclones: insight from long-term satellite data and high-resolution global simulations, _Atmos. Chem. Phys._, 19, 1147-1172, doi:10.5194/acp-19-1147-2019.
+- McCoy, D. T., et al. including **M. D. Zelinka**, 2019: [Cloud feedbacks in extratropical cyclones: insight from long-term satellite data and high-resolution global simulations](https://www.atmos-chem-phys.net/19/1147/2019/), _Atmos. Chem. Phys._, 19, 1147-1172, doi:10.5194/acp-19-1147-2019.
 
-- Colman, R., J. R. Brown, C. Franklin, L. Hanson, H. Ye, and **M. D. Zelinka**, 2019: Evaluating cloud feedbacks and rapid responses in the ACCESS model, _J. Geophys. Res._, 124, doi:10.1029/2018JD029189.
+- Colman, R., J. R. Brown, C. Franklin, L. Hanson, H. Ye, and **M. D. Zelinka**, 2019: [Evaluating cloud feedbacks and rapid responses in the ACCESS model](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD029189), _J. Geophys. Res._, 124, doi:10.1029/2018JD029189.
 
 
 
