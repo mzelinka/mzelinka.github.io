@@ -48,7 +48,7 @@ _Graham Stephens's News and Views on this article: [The cooling of light rains i
 - Santer, B. D., et al. including **M. D. Zelinka**, 2021: [Using climate model simulations to constrain observations](https://doi.org/10.1175/JCLI-D-20-0768.1), _J. Climate_, doi:10.1175/JCLI-D-20-0768.1.
 
 - Myers, T. A., R. C. Scott, **M. D. Zelinka**, S. A. Klein, J. R. Norris, and P. M. Caldwell, 2021: [Observational Constraints on Low Cloud Feedback Reduce Uncertainty of Climate Sensitivity](https://www.nature.com/articles/s41558-021-01039-0),_ Nature Clim. Change_, doi:10.1038/s41558-021-01039-0. <br>
-_Meteorological cloud radiative kernels are available [HERE](https://github.com/tamyers87/meteorological_cloud_radiative_kernels)._  
+[<i class="fab fa-github"></i> Meteorological cloud radiative kernels <i class="fab fa-github"></i>](https://github.com/tamyers87/meteorological_cloud_radiative_kernels) 
 
 - Thackeray, C. W., A. Hall, **M. D. Zelinka**, and C. G. Fletcher, 2021: [Assessing prior emergent constraints on surface albedo feedback in CMIP6](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0703.1/JCLI-D-20-0703.1.xml), _J. Climate_, 34(10), 3889-3905, doi:10.1175/JCLI-D-20-0703.1.
 
@@ -74,13 +74,13 @@ _Meteorological cloud radiative kernels are available [HERE](https://github.com/
 _This paper was a runner-up for _Science_ Magazine’s [2020 Breakthrough of the Year](https://vis.sciencemag.org/breakthrough2020/#/finalists/global-warming-forecasts-sharpen)._  
 
 - Scott, R. C., T. A. Myers, J. R. Norris, **M. D. Zelinka**, S. A. Klein, M. Sun, and D. R. Doelling, 2020: [Observed Sensitivity of Low-Cloud Radiative Effects to Meteorological Perturbations over the Global Oceans](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191028.xml), _J. Climate_, 33, 7717–7734, doi:10.1175/JCLI-D-19-1028.1. <br>
-_Meteorological cloud radiative kernels are available [HERE](https://github.com/tamyers87/meteorological_cloud_radiative_kernels)._  
+[<i class="fab fa-github"></i> Meteorological cloud radiative kernels <i class="fab fa-github"></i>](https://github.com/tamyers87/meteorological_cloud_radiative_kernels)
 
 - Dong, Y. K. C. Armour, **M. D. Zelinka**, C. Proistosescu, D. S. Battisti, C. Zhou, and T. Andrews, 2020: [Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191011.xml), _J. Climate_, 33, 7755–7775, doi:10.1175/JCLI-D-19-1011.1. <br>
 __Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y)._
 
 - **Zelinka, M. D.**, T. A. Myers, D. T. McCoy, S. Po-Chedley, P. M. Caldwell, P. Ceppi, S. A. Klein, and K. E. Taylor, 2020: [Causes of higher climate sensitivity in CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085782), _Geophys. Res. Lett._, 47, doi:10.1029/2019GL085782. <br>
-_Forcings, feedbacks, and ECS values are available [HERE](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) (regularly updated to include CMIP6 models as they are processed)._  
+[<i class="fab fa-github"></i> Forcings, feedbacks, and ECS values (regularly updated) <i class="fab fa-github"></i>](https://github.com/mzelinka/cmip56_forcing_feedback_ecs)
 
 - Zhou, C., Y. Hu, J. Lu, and **M. D. Zelinka**, 2020: [Responses of the Hadley Circulation to regional sea surface temperature changes](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0315.1), _J. Climate_, 33, 429-441, doi:10.1175/JCLI-D-19-0315.1.
 
@@ -135,7 +135,8 @@ _Forcings, feedbacks, and ECS values are available [HERE](https://github.com/mze
 - Zelinka M. D., D. A. Randall, M. J. Webb, & S. A. Klein, 2017: [Clearing clouds of uncertainty](http://www.nature.com/nclimate/journal/v7/n10/full/nclimate3402.html), _Nature Clim. Change_, 7, 674–678 doi:10.1038/nclimate3402.
 
 - Zhou, C., **M. D. Zelinka**, and S. A. Klein, 2017: [Analyzing the dependence of global cloud feedback on the spatial pattern of sea surface temperature change with a Green’s Function approach](http://onlinelibrary.wiley.com/doi/10.1002/2017MS001096/abstract), _J. Adv. Model. Earth Syst._, 9, 2174–2189, doi:10.1002/2017MS001096. <br>
-_Download the Green's functions from this paper [HERE](https://github.com/mzelinka/greens-function)._  
+[<i class="fab fa-github"></i> Download the Green's functions <i class="fab fa-github"></i>](https://github.com/mzelinka/greens-function)
+
 
 - Bonfils, C., G. Anderson, B. D. Santer, T. J. Phillips, K. Taylor, M. Cuntz, **M. D. Zelinka**, K. Marvel, B. I. Cook, I. Cvijanovic, and P. Durack, 2017: [Competing influences of anthropogenic warming, ENSO, and plant physiology on future terrestrial aridity](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0005.1), _J. Climate_, 30, 6883-6904, doi:10.1175/JCLI-D-17-0005.1.
 
@@ -195,7 +196,7 @@ _Steve Sherwood's News and Views on this article: [The Sun and the rain](https:/
 - Johnston, M. S., S. Eliasson, P. Eriksson, R. M. Forbes, A. Gettelman, P. Räisänen, and **M. D. Zelinka**, 2014: [Diagnosing the average spatio-temporal impact of convective systems – Part 2: A model intercomparison using satellite data](http://www.atmos-chem-phys.net/14/8701/2014/acp-14-8701-2014.html), _Atmos. Chem. Phys._, 14, 8701-8721, doi:10.5194/acp-14-8701-2014.
 
 - **Zelinka, M. D.**, T. Andrews, P. M. Forster, and K. E. Taylor, 2014: [Quantifying Components of Aerosol-Cloud-Radiation Interactions in Climate Models](http://onlinelibrary.wiley.com/doi/10.1002/2014JD021710/abstract), _J. Geophys. Res._, 119, 7599-7615, doi:10.1002/2014JD021710. <br>
-_Code to perform Approximate Partial Radiative Perturbation (APRP) calculations is [HERE](https://github.com/mzelinka/aprp)._   
+[<i class="fab fa-github"></i> Code to perform Approximate Partial Radiative Perturbation (APRP) calculations <i class="fab fa-github"></i>](https://github.com/mzelinka/aprp)
 
 - Ceppi, P., **M. D. Zelinka**, and D. L. Hartmann, 2014: [The Response of the Southern Hemispheric Eddy-Driven Jet to Future Changes in Shortwave Radiation in CMIP5](http://onlinelibrary.wiley.com/doi/10.1002/2014GL060043/abstract), _Geophys. Res. Lett._, 41, 3244-3250, doi:10.1002/2014GL060043.
 
@@ -218,7 +219,7 @@ _Code to perform Approximate Partial Radiative Perturbation (APRP) calculations 
 - Zhou, C., **M. D. Zelinka**, A. E. Dessler, P. Yang, 2013: [An analysis of the short-term cloud feedback using MODIS data](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00547.1), _J. Climate_, 26, 4803–4815. doi: 10.1175/JCLI-D-12-00547.1.
 
 - Klein, S. A., Y. Zhang, **M. D. Zelinka**, R. N. Pincus, J.Boyle, and P. J. Gleckler, 2013: [Are climate model simulations of clouds improving? An evaluation using the ISCCP simulator](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50141/abstract), _J. Geophys. Res._, 118, 1329-1342. doi: 10.1002/jgrd.50141. <br>
-_Cloud error metrics code is available [HERE](https://github.com/mzelinka/klein2013-cloud-error-metrics)._   
+[<i class="fab fa-github"></i> Cloud error metrics code <i class="fab fa-github"></i>](https://github.com/mzelinka/klein2013-cloud-error-metrics)
 
 - Forster, P. M., T. Andrews, P. Good, J. Gregory, L. Jackson, and **M. D. Zelinka**, 2013: [Evaluating adjusted forcing and model spread for historical and future scenarios in the CMIP5 generation of climate models](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50174/abstract), _J. Geophys. Res._, 118, 1139-1150. doi: 10.1002/jgrd.50174.
 
@@ -229,7 +230,7 @@ _Cloud error metrics code is available [HERE](https://github.com/mzelinka/klein2
 ## 2012
 
 - **Zelinka, M. D.**, S. A. Klein, and D. L. Hartmann, 2012: [Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part I: Cloud Radiative Kernels](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00248.1), _J. Climate_, 25, 3715–3735. doi:10.1175/JCLI-D-11-00248.1. <br>
-_Code and kernels for computing cloud feedbacks are available [HERE](https://github.com/mzelinka/cloud-radiative-kernels)._  
+[<i class="fab fa-github"></i> Code and kernels for computing cloud feedbacks <i class="fab fa-github"></i>](https://github.com/mzelinka/cloud-radiative-kernels)
 
 - **Zelinka, M. D.**, S. A. Klein, and D. L. Hartmann, 2012: [Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part II: Attribution to Changes in Cloud Amount, Altitude, and Optical Depth](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00249.1), _J. Climate_, 25, 3736–3754. doi:10.1175/JCLI-D-11-00249.1.
 
