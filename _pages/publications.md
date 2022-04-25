@@ -74,8 +74,8 @@ _This paper was a runner-up for _Science_ Magazine’s [2020 Breakthrough of the
 _Meteorological cloud radiative kernels are available [HERE](https://github.com/tamyers87/meteorological_cloud_radiative_kernels)._  
 
 
-- Dong, Y. K. C. Armour, **M. D. Zelinka**, C. Proistosescu, D. S. Battisti, C. Zhou, and T. Andrews, 2020: [Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191011.xml), _J. Climate_, 33, 7755–7775, doi:10.1175/JCLI-D-19-1011.1.
-    - _Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y).  
+- Dong, Y. K. C. Armour, **M. D. Zelinka**, C. Proistosescu, D. S. Battisti, C. Zhou, and T. Andrews, 2020: [Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191011.xml), _J. Climate_, 33, 7755–7775, doi:10.1175/JCLI-D-19-1011.1. <br>
+_Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y)._  
 
 - **Zelinka, M. D.**, T. A. Myers, D. T. McCoy, S. Po-Chedley, P. M. Caldwell, P. Ceppi, S. A. Klein, and K. E. Taylor, 2020: [Causes of higher climate sensitivity in CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085782), _Geophys. Res. Lett._, 47, doi:10.1029/2019GL085782. <br>
 _Forcings, feedbacks, and ECS values are available [HERE](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) (regularly updated to include CMIP6 models as they are processed)._  
@@ -112,15 +112,15 @@ _Forcings, feedbacks, and ECS values are available [HERE](https://github.com/mze
 
 ## 2018
 
-- **Zelinka, M. D.**, K. M. Grise, S. A. Klein, C. Zhou, A. M. DeAngelis, and M. W. Christensen, 2018: Drivers of the Low Cloud Response to Poleward Jet Shifts in the North Pacific in Observations and Models, _J. Climate_, 31, 7925–7947, doi:10.1175/JCLI-D-18-0114.1.
+- **Zelinka, M. D.**, K. M. Grise, S. A. Klein, C. Zhou, A. M. DeAngelis, and M. W. Christensen, 2018: [Drivers of the Low Cloud Response to Poleward Jet Shifts in the North Pacific in Observations and Models](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-18-0114.1), _J. Climate_, 31, 7925–7947, doi:10.1175/JCLI-D-18-0114.1.
 
-- Santer, B. D., et al including **M. D. Zelinka**, 2018: Human influence on the seasonal cycle of tropospheric temperature, _Science_, 361, eaas8806, doi:10.1126/science.aas8806.
+- Santer, B. D., et al including **M. D. Zelinka**, 2018: [Human influence on the seasonal cycle of tropospheric temperature](http://science.sciencemag.org/content/361/6399/eaas8806), _Science_, 361, eaas8806, doi:10.1126/science.aas8806.
 
-- Caldwell, P. M., **M. D. Zelinka**, and S. A. Klein, 2018: Evaluating Emergent Constraints on Equilibrium Climate Sensitivity, _J. Climate_, 31, 3921-3942, doi:10.1175/JCLI-D-17-0631.1.
+- Caldwell, P. M., **M. D. Zelinka**, and S. A. Klein, 2018: [Evaluating Emergent Constraints on Equilibrium Climate Sensitivity](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0631.1), _J. Climate_, 31, 3921-3942, doi:10.1175/JCLI-D-17-0631.1.
 
-- Po-Chedley, S., K. C. Armour, C. M. Bitz, **M. D. Zelinka**, B. D Santer, and Q. Fu, 2018: Sources of intermodel spread in the lapse rate and water vapor feedbacks, _J. Climate_, 31, 3187–3206, doi:10.1175/JCLI-D-17-0674.1.
+- Po-Chedley, S., K. C. Armour, C. M. Bitz, **M. D. Zelinka**, B. D Santer, and Q. Fu, 2018: [Sources of intermodel spread in the lapse rate and water vapor feedbacks](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0674.1), _J. Climate_, 31, 3187–3206, doi:10.1175/JCLI-D-17-0674.1.
 
-- Qu, X., A. Hall, A. M. DeAngelis, **M. D. Zelinka**, S. A. Klein, H. Su, B. Tian, and C. Zhai, 2018: On the emergent constraints of climate sensitivity, _J. Climate_, 31, 863–875, doi:10.1175/JCLI-D-17-0482.1.
+- Qu, X., A. Hall, A. M. DeAngelis, **M. D. Zelinka**, S. A. Klein, H. Su, B. Tian, and C. Zhai, 2018: [On the emergent constraints of climate sensitivity](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0482.1), _J. Climate_, 31, 863–875, doi:10.1175/JCLI-D-17-0482.1.
 
 
 
@@ -128,16 +128,16 @@ _Forcings, feedbacks, and ECS values are available [HERE](https://github.com/mze
 
 ## 2017
 
-- Tsushima, Y., F. Brient, S. A. Klein, D. Konsta, C. Nam, X. Qu, K. D. Williams, S. C. Sherwood, K. Suzuki, and **M. D. Zelinka**, 2017: The Cloud Feedback Model Intercomparison Project (CFMIP) Diagnostic Codes Catalogue – metrics, diagnostics and methodologies to evaluate, understand and improve the representation of clouds and cloud feedbacks in climate models, _Geosci. Model Dev._, 10, 4285-4305, doi:10.5194/gmd-10-4285-2017.
+- Tsushima, Y., F. Brient, S. A. Klein, D. Konsta, C. Nam, X. Qu, K. D. Williams, S. C. Sherwood, K. Suzuki, and **M. D. Zelinka**, 2017: [The Cloud Feedback Model Intercomparison Project (CFMIP) Diagnostic Codes Catalogue – metrics, diagnostics and methodologies to evaluate, understand and improve the representation of clouds and cloud feedbacks in climate models](https://www.geosci-model-dev.net/10/4285/2017/), _Geosci. Model Dev._, 10, 4285-4305, doi:10.5194/gmd-10-4285-2017.
 
-- Zelinka M. D., D. A. Randall, M. J. Webb, & S. A. Klein, 2017: Clearing clouds of uncertainty, Nature Clim. Change 7, 674–678 doi:10.1038/nclimate3402.
+- Zelinka M. D., D. A. Randall, M. J. Webb, & S. A. Klein, 2017: [Clearing clouds of uncertainty](http://www.nature.com/nclimate/journal/v7/n10/full/nclimate3402.html), _Nature Clim. Change_, 7, 674–678 doi:10.1038/nclimate3402.
 
-- Zhou, C., **M. D. Zelinka**, and S. A. Klein, 2017: Analyzing the dependence of global cloud feedback on the spatial pattern of sea surface temperature change with a Green’s Function approach, _J. Adv. Model. Earth Syst._, 9, 2174–2189, doi:10.1002/2017MS001096. <br>
+- Zhou, C., **M. D. Zelinka**, and S. A. Klein, 2017: [Analyzing the dependence of global cloud feedback on the spatial pattern of sea surface temperature change with a Green’s Function approach](http://onlinelibrary.wiley.com/doi/10.1002/2017MS001096/abstract), _J. Adv. Model. Earth Syst._, 9, 2174–2189, doi:10.1002/2017MS001096. <br>
 _Download the Green's functions from this paper [HERE](https://github.com/mzelinka/greens-function)._  
 
-- Bonfils, C., G. Anderson, B. D. Santer, T. J. Phillips, K. Taylor, M. Cuntz, **M. D. Zelinka**, K. Marvel, B. I. Cook, I. Cvijanovic, and P. Durack, 2017: Competing influences of anthropogenic warming, ENSO, and plant physiology on future terrestrial aridity, _J. Climate_, 30, 6883-6904, doi:10.1175/JCLI-D-17-0005.1.
+- Bonfils, C., G. Anderson, B. D. Santer, T. J. Phillips, K. Taylor, M. Cuntz, **M. D. Zelinka**, K. Marvel, B. I. Cook, I. Cvijanovic, and P. Durack, 2017: [Competing influences of anthropogenic warming, ENSO, and plant physiology on future terrestrial aridity](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0005.1), _J. Climate_, 30, 6883-6904, doi:10.1175/JCLI-D-17-0005.1.
 
-- Ceppi, P., F. Brient, **M. D. Zelinka**, and D. L. Hartmann, 2017: Cloud feedback mechanisms and their representation in global climate models, _WIREs Climate Change_, e465, doi:10.1002/wcc.465.
+- Ceppi, P., F. Brient, **M. D. Zelinka**, and D. L. Hartmann, 2017: [Cloud feedback mechanisms and their representation in global climate models](http://onlinelibrary.wiley.com/doi/10.1002/wcc.465/full), _WIREs Climate Change_, e465, doi:10.1002/wcc.465.
 
 
 
@@ -145,24 +145,24 @@ _Download the Green's functions from this paper [HERE](https://github.com/mzelin
 
 ## 2016
 
-- Zhou, C., **M. D. Zelinka**, and S. A. Klein, 2016: Impact of decadal cloud variations on the Earth’s energy budget, _Nature Geoscience_, 9, 871–874, doi: 10.1038/ngeo2828. <br> 
+- Zhou, C., **M. D. Zelinka**, and S. A. Klein, 2016: [Impact of decadal cloud variations on the Earth’s energy budget](https://www.nature.com/articles/ngeo2828), _Nature Geoscience_, 9, 871–874, doi: 10.1038/ngeo2828. <br> 
 _Thorsten Mauritsen's News and Views on this article: [Global warming: Clouds cooled the Earth](https://www.nature.com/articles/ngeo2838)._  
 
-- **Zelinka, M. D.**, C. Zhou, and S. A. Klein, 2016: Insights from a Refined Decomposition of Cloud Feedbacks, _Geophys. Res. Lett._, 43, 9259–9269, doi:10.1002/2016GL069917.
+- **Zelinka, M. D.**, C. Zhou, and S. A. Klein, 2016: [Insights from a Refined Decomposition of Cloud Feedbacks](http://onlinelibrary.wiley.com/doi/10.1002/2016GL069917/full), _Geophys. Res. Lett._, 43, 9259–9269, doi:10.1002/2016GL069917.
 
-- Terai, C., S. A. Klein, and **M. D. Zelinka**, 2016: Constraining the low-cloud optical depth feedback at middle and high latitudes using satellite observations, _J. Geophys. Res._, 121, 9696–9716, doi:10.1002/2016JD025233.
+- Terai, C., S. A. Klein, and **M. D. Zelinka**, 2016: [Constraining the low-cloud optical depth feedback at middle and high latitudes using satellite observations](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025233/abstract), _J. Geophys. Res._, 121, 9696–9716, doi:10.1002/2016JD025233.
 
-- Norris, J. R., R. J. Allen, A. T. Evan, **M. D. Zelinka**, C. W. O’Dell, and S. A. Klein, 2016: Evidence for Climate Change in the Satellite Cloud Record, _Nature_, 536, 72–75, doi:10.1038/nature18273.
+- Norris, J. R., R. J. Allen, A. T. Evan, **M. D. Zelinka**, C. W. O’Dell, and S. A. Klein, 2016: [Evidence for Climate Change in the Satellite Cloud Record](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18273.html), _Nature_, 536, 72–75, doi:10.1038/nature18273.
 
-- McCoy, D. T., I. Tan, D. L. Hartmann, **M. D. Zelinka**, T. Storelvmo, 2016: On the relationships among cloud cover, mixed-phase partitioning, and planetary albedo in GCMs, _J. Adv. Model. Earth Syst._, 8, 650–668, doi:10.1002/2015MS000589.
+- McCoy, D. T., I. Tan, D. L. Hartmann, **M. D. Zelinka**, T. Storelvmo, 2016: [On the relationships among cloud cover, mixed-phase partitioning, and planetary albedo in GCMs](http://onlinelibrary.wiley.com/doi/10.1002/2015MS000589/full), _J. Adv. Model. Earth Syst._, 8, 650–668, doi:10.1002/2015MS000589.
 
-- Tan, I., T. Storelvmo, and **M. D. Zelinka**, 2016: Observational constraints on mixed-phase clouds imply higher climate sensitivity, _Science_, 352, 6282, 224-227, doi:10.1126/science.aad5300.
+- Tan, I., T. Storelvmo, and **M. D. Zelinka**, 2016: [Observational constraints on mixed-phase clouds imply higher climate sensitivity](http://science.sciencemag.org/content/352/6282/224), _Science_, 352, 6282, 224-227, doi:10.1126/science.aad5300.
 
-- Yuan, T., L. Oreopoulos, **M. D. Zelinka**, H. Yu, J. Norris, M. Chin, S. Platnick, and K. Meyer, 2016: Positive low cloud and dust feedbacks amplify tropical North Atlantic multidecadal oscillation, _Geophys. Res. Lett._, 43, 1349–1356, doi:10.1002/2016GL067679.
+- Yuan, T., L. Oreopoulos, **M. D. Zelinka**, H. Yu, J. Norris, M. Chin, S. Platnick, and K. Meyer, 2016: [Positive low cloud and dust feedbacks amplify tropical North Atlantic multidecadal oscillation](http://onlinelibrary.wiley.com/doi/10.1002/2016GL067679/full), _Geophys. Res. Lett._, 43, 1349–1356, doi:10.1002/2016GL067679.
 
-- Caldwell, P. M., **M. D. Zelinka**, K. E. Taylor, and K. Marvel, 2016: Quantifying the Sources of Inter-Model Spread in Equilibrium Climate Sensitivity,  _J. Climate_, 29, 513–524, doi:10.1175/JCLI-D-15-0352.1.
+- Caldwell, P. M., **M. D. Zelinka**, K. E. Taylor, and K. Marvel, 2016: [Quantifying the Sources of Inter-Model Spread in Equilibrium Climate Sensitivity](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0352.1),  _J. Climate_, 29, 513–524, doi:10.1175/JCLI-D-15-0352.1.
 
-- Santer, B. D., S. Solomon, D. Ridley, J. Fyfe, F. Beltran, C. Bonfils, J. Painter, and **M. D. Zelinka**, 2016: Volcanic effects on climate, _Nature Clim. Change_, 6, 3-4, doi:10.1038/nclimate2859.
+- Santer, B. D., S. Solomon, D. Ridley, J. Fyfe, F. Beltran, C. Bonfils, J. Painter, and **M. D. Zelinka**, 2016: [Volcanic effects on climate](http://www.nature.com/nclimate/journal/v6/n1/full/nclimate2859.html), _Nature Clim. Change_, 6, 3-4, doi:10.1038/nclimate2859.
 
 
 
@@ -171,18 +171,18 @@ _Thorsten Mauritsen's News and Views on this article: [Global warming: Clouds co
 
 ## 2015
 
-- Zhou, C., **M. D. Zelinka**, A. E. Dessler, S. A. Klein, 2015: The relationship between inter-annual and long-term cloud feedbacks, _Geophys. Res. Lett._, 42, 10,463–10,469, doi:10.1002/2015GL066698.
+- Zhou, C., **M. D. Zelinka**, A. E. Dessler, S. A. Klein, 2015: [The relationship between inter-annual and long-term cloud feedbacks](http://onlinelibrary.wiley.com/doi/10.1002/2015GL066698/abstract), _Geophys. Res. Lett._, 42, 10,463–10,469, doi:10.1002/2015GL066698.
 
-- DeAngelis, A. M., X. Qu, **M. D. Zelinka**, and A. Hall, 2015: An observational radiative constraint on hydrologic cycle intensification, _Nature_, 528, 249-253, doi:10.1038/nature15770. [Corrigendum](https://www.nature.com/articles/nature17621) <br>
+- DeAngelis, A. M., X. Qu, **M. D. Zelinka**, and A. Hall, 2015: [An observational radiative constraint on hydrologic cycle intensification](http://www.nature.com/nature/journal/v528/n7581/full/nature15770.html), _Nature_, 528, 249-253, doi:10.1038/nature15770. [Corrigendum](https://www.nature.com/articles/nature17621) <br>
 _Steve Sherwood's News and Views on this article: [The Sun and the rain](https://www.nature.com/articles/528200a)._  
 
-- McCoy, D. T., D. L. Hartmann, **M. D. Zelinka**, P. Ceppi and D. P. Grosvenor, 2015: Mixed-phase cloud physics and Southern Ocean cloud feedback in climate models, _J. Geophys. Res._, 120, 9539-9554, doi: 10.1002/2015JD023603.
+- McCoy, D. T., D. L. Hartmann, **M. D. Zelinka**, P. Ceppi and D. P. Grosvenor, 2015: [Mixed-phase cloud physics and Southern Ocean cloud feedback in climate models](http://onlinelibrary.wiley.com/doi/10.1002/2015JD023603/abstract), _J. Geophys. Res._, 120, 9539-9554, doi: 10.1002/2015JD023603.
 
-- Marvel, K., **M. D. Zelinka**, S. A. Klein, C. Bonfils, P. M. Caldwell, C. Doutriaux, B. D. Santer, and K. E. Taylor, 2015: External influences on modeled and observed cloud trends, _J. Climate_, 28, 4820-4840, doi:10.1175/JCLI-D-14-00734.1.
+- Marvel, K., **M. D. Zelinka**, S. A. Klein, C. Bonfils, P. M. Caldwell, C. Doutriaux, B. D. Santer, and K. E. Taylor, 2015: [External influences on modeled and observed cloud trends](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00734.1), _J. Climate_, 28, 4820-4840, doi:10.1175/JCLI-D-14-00734.1.
 
-- Santer, B. D., S. Solomon, C. Bonfils, **M. D. Zelinka**, J. F. Painter, F. Beltran, J. C. Fyfe, G. Johannesson, C. Mears, D. A. Ridley, J.-P. Vernier, and F. J. Wentz, 2015: Observed multi-variable signals of late 20th and early 21st century volcanic activity, _Geophys. Res. Lett._, 42, 500–509, doi:10.1002/2014GL062366.
+- Santer, B. D., S. Solomon, C. Bonfils, **M. D. Zelinka**, J. F. Painter, F. Beltran, J. C. Fyfe, G. Johannesson, C. Mears, D. A. Ridley, J.-P. Vernier, and F. J. Wentz, 2015: [Observed multi-variable signals of late 20th and early 21st century volcanic activity](http://onlinelibrary.wiley.com/doi/10.1002/2014GL062366/abstract), _Geophys. Res. Lett._, 42, 500–509, doi:10.1002/2014GL062366.
 
-- Zhou, C., A. E. Dessler, **M. D. Zelinka**, P. Yang, and T. Wang, 2015: Cirrus feedback on inter-annual climate fluctuations, _Geophys. Res. Lett._, 41, 9166–9173, doi:10.1002/2014GL062095.
+- Zhou, C., A. E. Dessler, **M. D. Zelinka**, P. Yang, and T. Wang, 2015: [Cirrus feedback on inter-annual climate fluctuations](http://onlinelibrary.wiley.com/doi/10.1002/2014GL062095/abstract), _Geophys. Res. Lett._, 41, 9166–9173, doi:10.1002/2014GL062095.
 
 
 
@@ -190,16 +190,16 @@ _Steve Sherwood's News and Views on this article: [The Sun and the rain](https:/
 
 ## 2014
 
-- Johnston, M. S., S. Eliasson, P. Eriksson, R. M. Forbes, A. Gettelman, P. Räisänen, and **M. D. Zelinka**, 2014: Diagnosing the average spatio-temporal impact of convective systems – Part 2: A model intercomparison using satellite data, _Atmos. Chem. Phys._, 14, 8701-8721, doi:10.5194/acp-14-8701-2014.
+- Johnston, M. S., S. Eliasson, P. Eriksson, R. M. Forbes, A. Gettelman, P. Räisänen, and **M. D. Zelinka**, 2014: [Diagnosing the average spatio-temporal impact of convective systems – Part 2: A model intercomparison using satellite data](http://www.atmos-chem-phys.net/14/8701/2014/acp-14-8701-2014.html), _Atmos. Chem. Phys._, 14, 8701-8721, doi:10.5194/acp-14-8701-2014.
 
-- **Zelinka, M. D.**, T. Andrews, P. M. Forster, and K. E. Taylor, 2014: Quantifying Components of Aerosol-Cloud-Radiation Interactions in Climate Models, _J. Geophys. Res._, 119, 7599-7615, doi:10.1002/2014JD021710. <br>
+- **Zelinka, M. D.**, T. Andrews, P. M. Forster, and K. E. Taylor, 2014: [Quantifying Components of Aerosol-Cloud-Radiation Interactions in Climate Models](http://onlinelibrary.wiley.com/doi/10.1002/2014JD021710/abstract), _J. Geophys. Res._, 119, 7599-7615, doi:10.1002/2014JD021710. <br>
 _Code to perform Approximate Partial Radiative Perturbation (APRP) calculations is [HERE](https://github.com/mzelinka/aprp)._   
 
-- Ceppi, P., **M. D. Zelinka**, and D. L. Hartmann, 2014: The Response of the Southern Hemispheric Eddy-Driven Jet to Future Changes in Shortwave Radiation in CMIP5, _Geophys. Res. Lett._, 41, 3244-3250, doi:10.1002/2014GL060043.
+- Ceppi, P., **M. D. Zelinka**, and D. L. Hartmann, 2014: [The Response of the Southern Hemispheric Eddy-Driven Jet to Future Changes in Shortwave Radiation in CMIP5](http://onlinelibrary.wiley.com/doi/10.1002/2014GL060043/abstract), _Geophys. Res. Lett._, 41, 3244-3250, doi:10.1002/2014GL060043.
 
-- Caldwell, P. M., C. S. Bretherton, **M. D. Zelinka**, S. A. Klein, B. D. Santer, and B. M. Sanderson, 2014: Statistical Significance of Climate Sensitivity Predictors Obtained by Data Mining, _Geophys. Res. Lett._, 41, 1803–1808, doi:10.1002/2014GL059205.
+- Caldwell, P. M., C. S. Bretherton, **M. D. Zelinka**, S. A. Klein, B. D. Santer, and B. M. Sanderson, 2014: [Statistical Significance of Climate Sensitivity Predictors Obtained by Data Mining](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059205/abstract), _Geophys. Res. Lett._, 41, 1803–1808, doi:10.1002/2014GL059205.
 
-- Santer, B. D., C. Bonfils, J. F. Painter, **M. D. Zelinka**, C. Mears, S. Solomon, G. A. Schmidt, J. C. Fyfe, J. N. S. Cole, L. Nazarenko, K. E. Taylor, and F. J. Wentz, 2014: Volcanic Contribution to Decadal Changes in Tropospheric Temperature, _Nature Geoscience_, 7, 185–189, doi:10.1038/ngeo2098.
+- Santer, B. D., C. Bonfils, J. F. Painter, **M. D. Zelinka**, C. Mears, S. Solomon, G. A. Schmidt, J. C. Fyfe, J. N. S. Cole, L. Nazarenko, K. E. Taylor, and F. J. Wentz, 2014: [Volcanic Contribution to Decadal Changes in Tropospheric Temperature](http://www.nature.com/ngeo/journal/v7/n3/full/ngeo2098.html), _Nature Geoscience_, 7, 185–189, doi:10.1038/ngeo2098.
 
 
 
@@ -207,18 +207,18 @@ _Code to perform Approximate Partial Radiative Perturbation (APRP) calculations 
 
 ## 2013
 
-- Johnston, M. S., S. Eliasson, P. Eriksson, R. M. Forbes, K. Wyser, and **M. D. Zelinka**, 2013: Diagnosing the average spatio-temporal impact of convective systems – Part 1: A methodology for evaluating climate models, _Atmos. Chem. Phys._, 13, 12043-12058, doi:10.5194/acp-13-12043-2013.
+- Johnston, M. S., S. Eliasson, P. Eriksson, R. M. Forbes, K. Wyser, and **M. D. Zelinka**, 2013: [Diagnosing the average spatio-temporal impact of convective systems – Part 1: A methodology for evaluating climate models](http://www.atmos-chem-phys.net/13/12043/2013/acp-13-12043-2013.html), _Atmos. Chem. Phys._, 13, 12043-12058, doi:10.5194/acp-13-12043-2013.
 
-- Grise, K. M., L. M. Polvani, G. Tselioudis, Y. Wu, and **M. D. Zelinka**, 2013: The ozone hole indirect effect: Cloud-radiative anomalies accompanying the poleward shift of the eddy-driven jet in the Southern Hemisphere, _Geophys. Res. Lett._, 40, 1-5, doi:10.1002/grl.50675.
+- Grise, K. M., L. M. Polvani, G. Tselioudis, Y. Wu, and **M. D. Zelinka**, 2013: [The ozone hole indirect effect: Cloud-radiative anomalies accompanying the poleward shift of the eddy-driven jet in the Southern Hemisphere](http://onlinelibrary.wiley.com/doi/10.1002/grl.50675/abstract), _Geophys. Res. Lett._, 40, 1-5, doi:10.1002/grl.50675.
 
-- **Zelinka, M. D.**, S. A. Klein, K. E. Taylor, T. Andrews, M. J. Webb, J. M. Gregory, and P. M. Forster, 2013: Contributions of Different Cloud Types to Feedbacks and Rapid Adjustments in CMIP5, _J. Climate_., 26, 5007–5027. doi: 10.1175/JCLI-D-12-00555.1.
+- **Zelinka, M. D.**, S. A. Klein, K. E. Taylor, T. Andrews, M. J. Webb, J. M. Gregory, and P. M. Forster, 2013: [Contributions of Different Cloud Types to Feedbacks and Rapid Adjustments in CMIP5](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00555.1), _J. Climate_., 26, 5007–5027. doi: 10.1175/JCLI-D-12-00555.1.
 
-- Zhou, C., **M. D. Zelinka**, A. E. Dessler, P. Yang, 2013: An analysis of the short-term cloud feedback using MODIS data, _J. Climate_, 26, 4803–4815. doi: 10.1175/JCLI-D-12-00547.1.
+- Zhou, C., **M. D. Zelinka**, A. E. Dessler, P. Yang, 2013: [An analysis of the short-term cloud feedback using MODIS data](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00547.1), _J. Climate_, 26, 4803–4815. doi: 10.1175/JCLI-D-12-00547.1.
 
-- Klein, S. A., Y. Zhang, **M. D. Zelinka**, R. N. Pincus, J.Boyle, and P. J. Gleckler, 2013: Are climate model simulations of clouds improving? An evaluation using the ISCCP simulator, _J. Geophys. Res._, 118, 1329-1342. doi: 10.1002/jgrd.50141. <br>
+- Klein, S. A., Y. Zhang, **M. D. Zelinka**, R. N. Pincus, J.Boyle, and P. J. Gleckler, 2013: [Are climate model simulations of clouds improving? An evaluation using the ISCCP simulator](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50141/abstract), _J. Geophys. Res._, 118, 1329-1342. doi: 10.1002/jgrd.50141. <br>
 _Cloud error metrics code is available [HERE](https://github.com/mzelinka/klein2013-cloud-error-metrics)._   
 
-- Forster, P. M., T. Andrews, P. Good, J. Gregory, L. Jackson, and **M. D. Zelinka**, 2013: Evaluating adjusted forcing and model spread for historical and future scenarios in the CMIP5 generation of climate models, _J. Geophys. Res._, 118, 1139-1150. doi: 10.1002/jgrd.50174.
+- Forster, P. M., T. Andrews, P. Good, J. Gregory, L. Jackson, and **M. D. Zelinka**, 2013: [Evaluating adjusted forcing and model spread for historical and future scenarios in the CMIP5 generation of climate models](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50174/abstract), _J. Geophys. Res._, 118, 1139-1150. doi: 10.1002/jgrd.50174.
 
 
 
@@ -226,19 +226,19 @@ _Cloud error metrics code is available [HERE](https://github.com/mzelinka/klein2
 
 ## 2012
 
-- **Zelinka, M. D.**, S. A. Klein, and D. L. Hartmann, 2012: Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part I: Cloud Radiative Kernels, _J. Climate_, 25, 3715–3735. doi:10.1175/JCLI-D-11-00248.1. <br>
+- **Zelinka, M. D.**, S. A. Klein, and D. L. Hartmann, 2012: [Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part I: Cloud Radiative Kernels](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00248.1), _J. Climate_, 25, 3715–3735. doi:10.1175/JCLI-D-11-00248.1. <br>
 _Code and kernels for computing cloud feedbacks are available [HERE](https://github.com/mzelinka/cloud-radiative-kernels)._  
 
-- **Zelinka, M. D.**, S. A. Klein, and D. L. Hartmann, 2012: Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part II: Attribution to Changes in Cloud Amount, Altitude, and Optical Depth, _J. Climate_, 25, 3736–3754. doi:10.1175/JCLI-D-11-00249.1.
+- **Zelinka, M. D.**, S. A. Klein, and D. L. Hartmann, 2012: [Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part II: Attribution to Changes in Cloud Amount, Altitude, and Optical Depth](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00249.1), _J. Climate_, 25, 3736–3754. doi:10.1175/JCLI-D-11-00249.1.
 
-- **Zelinka, M. D.** and D. L. Hartmann, 2012: Climate Feedbacks and their Implications for Poleward Energy Flux Changes in a Warming Climate, _J. Climate_, 25, 608-624, doi:10.1175/JCLI-D-11-00096.1.
+- **Zelinka, M. D.** and D. L. Hartmann, 2012: [Climate Feedbacks and their Implications for Poleward Energy Flux Changes in a Warming Climate](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00096.1), _J. Climate_, 25, 608-624, doi:10.1175/JCLI-D-11-00096.1.
 
 
 <p><a name="pubs11"></a></p>
 
 ## 2011
 
-- **Zelinka, M. D.** and D. L. Hartmann, 2011: The Observed Sensitivity of High Clouds to Mean Surface Temperature Anomalies in the Tropics, _J. Geophys. Res._, 116, D23103, doi:10.1029/2011JD016459.
+- **Zelinka, M. D.** and D. L. Hartmann, 2011: [The Observed Sensitivity of High Clouds to Mean Surface Temperature Anomalies in the Tropics](http://onlinelibrary.wiley.com/doi/10.1029/2011JD016459/abstract), _J. Geophys. Res._, 116, D23103, doi:10.1029/2011JD016459.
 
 
 
@@ -246,9 +246,9 @@ _Code and kernels for computing cloud feedbacks are available [HERE](https://git
 
 ## 2010
 
-- **Zelinka, M. D.**, 2010: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming. Ph.D. Dissertation. University of Washington.
+- **Zelinka, M. D.**, 2010: [Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming](https://drive.google.com/open?id=1CRBnpi5V3IOGitM3rSDmooF74UIkyD8m), Ph.D. Dissertation. University of Washington.
 
-- **Zelinka, M. D.** and D. L. Hartmann, 2010: Why is Longwave Cloud Feedback Positive? _J. Geophys. Res._, 115, D16117, doi:10.1029/2010JD013817.
+- **Zelinka, M. D.** and D. L. Hartmann, 2010: [Why is Longwave Cloud Feedback Positive?](http://onlinelibrary.wiley.com/doi/10.1029/2010JD013817/abstract) _J. Geophys. Res._, 115, D16117, doi:10.1029/2010JD013817.
 
 
 
@@ -256,4 +256,4 @@ _Code and kernels for computing cloud feedbacks are available [HERE](https://git
 
 ## 2009
 
-- **Zelinka, M. D.** and D. L. Hartmann, 2009: Response of Humidity and Clouds to Tropical Deep Convection, _J. Climate_, 22, 2389-2404, doi:10.1175/2008JCLI2452.1.
+- **Zelinka, M. D.** and D. L. Hartmann, 2009: [Response of Humidity and Clouds to Tropical Deep Convection](http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI2452.1), _J. Climate_, 22, 2389-2404, doi:10.1175/2008JCLI2452.1.
