@@ -19,7 +19,8 @@ horizontal: false
 </p>
 
 <!-- https://www.w3schools.com/icons/fontawesome5_icons_code.asp -->
-<i class="fab fa-github"></i> = Github repository available
+<i class="fab fa-github"></i> = Github Repository
+<i class="far fa-file"></i> = Additional Coverage
 
 <p><a name="pubs22"></a></p>
 
@@ -43,7 +44,8 @@ horizontal: false
 - Hahn L. C., K. C. Armour, **M. D. Zelinka**, C. M. Bitz, and A. Donohoe, 2021: [Contributions to Polar Amplification in CMIP5 and CMIP6 Models](https://www.frontiersin.org/articles/10.3389/feart.2021.710036/full), _Front. Earth Sci._ 9:710036. doi: 10.3389/feart.2021.710036.
 
 - Muelmenstaedt, J., M. Salzmann , J. E. Kay, **M. D. Zelinka**, P. L. Ma, S. Hornig, and J. Quaas, 2021: [An underestimated negative cloud feedback from cloud lifetime changes](https://www.nature.com/articles/s41558-021-01038-1), _Nature Clim. Change_, 11, 508–513, doi:10.1038/s41558-021-01038-1. <br>
-_Graham Stephens's News and Views on this article: [The cooling of light rains in a warming world](https://www.nature.com/articles/s41558-021-01056-z)_
+<i class="far fa-file"></i> [The cooling of light rains in a warming world](https://www.nature.com/articles/s41558-021-01056-z) <i class="fab fa-github"></i>
+
 
 - Santer, B. D., et al. including **M. D. Zelinka**, 2021: [Using climate model simulations to constrain observations](https://doi.org/10.1175/JCLI-D-20-0768.1), _J. Climate_, doi:10.1175/JCLI-D-20-0768.1.
 
@@ -77,7 +79,7 @@ _This paper was a runner-up for _Science_ Magazine’s [2020 Breakthrough of the
 [<i class="fab fa-github"></i> Meteorological cloud radiative kernels <i class="fab fa-github"></i>](https://github.com/tamyers87/meteorological_cloud_radiative_kernels)
 
 - Dong, Y. K. C. Armour, **M. D. Zelinka**, C. Proistosescu, D. S. Battisti, C. Zhou, and T. Andrews, 2020: [Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191011.xml), _J. Climate_, 33, 7755–7775, doi:10.1175/JCLI-D-19-1011.1. <br>
-__Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y)._
+<em>_Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y).</em>
 
 - **Zelinka, M. D.**, T. A. Myers, D. T. McCoy, S. Po-Chedley, P. M. Caldwell, P. Ceppi, S. A. Klein, and K. E. Taylor, 2020: [Causes of higher climate sensitivity in CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085782), _Geophys. Res. Lett._, 47, doi:10.1029/2019GL085782. <br>
 [<i class="fab fa-github"></i> Forcings, feedbacks, and ECS values (regularly updated) <i class="fab fa-github"></i>](https://github.com/mzelinka/cmip56_forcing_feedback_ecs)
