@@ -41,7 +41,6 @@ horizontal: false
 
 - Muelmenstaedt, J., M. Salzmann , J. E. Kay, **M. D. Zelinka**, P. L. Ma, S. Hornig, and J. Quaas, 2021: [An underestimated negative cloud feedback from cloud lifetime changes](https://www.nature.com/articles/s41558-021-01038-1), _Nature Clim. Change_, 11, 508–513, doi:10.1038/s41558-021-01038-1. 
     - Graham Stephens's News and Views on this article: [The cooling of light rains in a warming world](https://www.nature.com/articles/s41558-021-01056-z)  
-<br>
 
 - Santer, B. D., et al. including **M. D. Zelinka**, 2021: [Using climate model simulations to constrain observations](https://doi.org/10.1175/JCLI-D-20-0768.1), _J. Climate_, doi:10.1175/JCLI-D-20-0768.1.
 
