@@ -30,7 +30,7 @@ horizontal: false
 
 - Qin, Y., **M. D. Zelinka**, and S. A. Klein, 2022: [On the Correspondence between Atmosphere-Only and Coupled Simulations for Radiative Feedbacks and Forcing from CO2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035460), _J. Geophys. Res._, 127, doi:10.1029/2021JD035460.
 
-- **Zelinka, M. D.**, S. A. Klein, Y. Qin, and T. A. Myers, 2022: [Evaluating climate models’ cloud feedbacks against expert judgement](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035198), _J. Geophys. Res._, 127, doi:10.1029/2021JD035198.  
+- **Zelinka, M. D.**, S. A. Klein, Y. Qin, and T. A. Myers, 2022: [Evaluating climate models’ cloud feedbacks against expert judgement](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035198), _J. Geophys. Res._, 127, doi:10.1029/2021JD035198.
     - Code to perform the analysis from this paper is available [HERE](https://github.com/mzelinka/assessed-cloud-fbks).
 
 <p><a name="pubs21"></a></p>
@@ -41,6 +41,8 @@ horizontal: false
 
 - Muelmenstaedt, J., M. Salzmann , J. E. Kay, **M. D. Zelinka**, P. L. Ma, S. Hornig, and J. Quaas, 2021: [An underestimated negative cloud feedback from cloud lifetime changes](https://www.nature.com/articles/s41558-021-01038-1), _Nature Clim. Change_, 11, 508–513, doi:10.1038/s41558-021-01038-1. 
     - Graham Stephens's News and Views on this article: [The cooling of light rains in a warming world](https://www.nature.com/articles/s41558-021-01056-z)  
+<br>
+<br>
 
 - Santer, B. D., et al. including **M. D. Zelinka**, 2021: [Using climate model simulations to constrain observations](https://doi.org/10.1175/JCLI-D-20-0768.1), _J. Climate_, doi:10.1175/JCLI-D-20-0768.1.
 
