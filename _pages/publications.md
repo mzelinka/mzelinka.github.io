@@ -73,13 +73,13 @@ horizontal: false
 - McCoy, D. M., P. Field, A. Bodas-Salcedo, G. S. Elsaesser, and **M. D. Zelinka**, 2020: [A regime-oriented approach to observationally constraining extratropical shortwave cloud feedbacks](https://journals.ametsoc.org/view/journals/clim/33/23/jcliD190987.xml), _J. Climate_, doi:10.1175/JCLI-D-19-0987.1.
 
 - Sherwood, S., et al. including **M. D. Zelinka**, 2020: [A combined assessment of Earth’s climate sensitivity](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019RG000678), _Rev. Geophys._, 58, doi:10.1029/2019RG000678. <br>
-_This paper was a runner-up for _Science_ Magazine’s [2020 Breakthrough of the Year](https://vis.sciencemag.org/breakthrough2020/#/finalists/global-warming-forecasts-sharpen)._  
+<i class="far fa-file"></i> This paper was a runner-up for _Science_ Magazine’s [2020 Breakthrough of the Year](https://vis.sciencemag.org/breakthrough2020/#/finalists/global-warming-forecasts-sharpen). <i class="far fa-file"></i>
 
 - Scott, R. C., T. A. Myers, J. R. Norris, **M. D. Zelinka**, S. A. Klein, M. Sun, and D. R. Doelling, 2020: [Observed Sensitivity of Low-Cloud Radiative Effects to Meteorological Perturbations over the Global Oceans](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191028.xml), _J. Climate_, 33, 7717–7734, doi:10.1175/JCLI-D-19-1028.1. <br>
 <i class="fab fa-github"></i> [Meteorological cloud radiative kernels](https://github.com/tamyers87/meteorological_cloud_radiative_kernels) <i class="fab fa-github"></i>
 
 - Dong, Y. K. C. Armour, **M. D. Zelinka**, C. Proistosescu, D. S. Battisti, C. Zhou, and T. Andrews, 2020: [Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191011.xml), _J. Climate_, 33, 7755–7775, doi:10.1175/JCLI-D-19-1011.1. <br>
-<em>_Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y).</em>
+<i class="far fa-file"></i> _Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y). <i class="far fa-file"></i> 
 
 - **Zelinka, M. D.**, T. A. Myers, D. T. McCoy, S. Po-Chedley, P. M. Caldwell, P. Ceppi, S. A. Klein, and K. E. Taylor, 2020: [Causes of higher climate sensitivity in CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085782), _Geophys. Res. Lett._, 47, doi:10.1029/2019GL085782. <br>
 <i class="fab fa-github"></i> [Forcings, feedbacks, and ECS values (regularly updated)](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) <i class="fab fa-github"></i>
@@ -151,7 +151,7 @@ _This paper was a runner-up for _Science_ Magazine’s [2020 Breakthrough of the
 ## 2016
 
 - Zhou, C., **M. D. Zelinka**, and S. A. Klein, 2016: [Impact of decadal cloud variations on the Earth’s energy budget](https://www.nature.com/articles/ngeo2828), _Nature Geoscience_, 9, 871–874, doi: 10.1038/ngeo2828. <br> 
-_Thorsten Mauritsen's News and Views on this article: [Global warming: Clouds cooled the Earth](https://www.nature.com/articles/ngeo2838)._  
+<i class="far fa-file"></i> [Global warming: Clouds cooled the Earth](https://www.nature.com/articles/ngeo2838). <i class="far fa-file"></i> 
 
 - **Zelinka, M. D.**, C. Zhou, and S. A. Klein, 2016: [Insights from a Refined Decomposition of Cloud Feedbacks](http://onlinelibrary.wiley.com/doi/10.1002/2016GL069917/full), _Geophys. Res. Lett._, 43, 9259–9269, doi:10.1002/2016GL069917.
 
@@ -179,7 +179,7 @@ _Thorsten Mauritsen's News and Views on this article: [Global warming: Clouds co
 - Zhou, C., **M. D. Zelinka**, A. E. Dessler, S. A. Klein, 2015: [The relationship between inter-annual and long-term cloud feedbacks](http://onlinelibrary.wiley.com/doi/10.1002/2015GL066698/abstract), _Geophys. Res. Lett._, 42, 10,463–10,469, doi:10.1002/2015GL066698.
 
 - DeAngelis, A. M., X. Qu, **M. D. Zelinka**, and A. Hall, 2015: [An observational radiative constraint on hydrologic cycle intensification](http://www.nature.com/nature/journal/v528/n7581/full/nature15770.html), _Nature_, 528, 249-253, doi:10.1038/nature15770. [Corrigendum](https://www.nature.com/articles/nature17621) <br>
-_Steve Sherwood's News and Views on this article: [The Sun and the rain](https://www.nature.com/articles/528200a)._  
+<i class="far fa-file"></i> [The Sun and the rain](https://www.nature.com/articles/528200a). <i class="far fa-file"></i> 
 
 - McCoy, D. T., D. L. Hartmann, **M. D. Zelinka**, P. Ceppi and D. P. Grosvenor, 2015: [Mixed-phase cloud physics and Southern Ocean cloud feedback in climate models](http://onlinelibrary.wiley.com/doi/10.1002/2015JD023603/abstract), _J. Geophys. Res._, 120, 9539-9554, doi: 10.1002/2015JD023603.
 
