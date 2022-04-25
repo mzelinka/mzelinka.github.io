@@ -73,9 +73,8 @@ _This paper was a runner-up for _Science_ Magazine’s [2020 Breakthrough of the
 - Scott, R. C., T. A. Myers, J. R. Norris, **M. D. Zelinka**, S. A. Klein, M. Sun, and D. R. Doelling, 2020: [Observed Sensitivity of Low-Cloud Radiative Effects to Meteorological Perturbations over the Global Oceans](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191028.xml), _J. Climate_, 33, 7717–7734, doi:10.1175/JCLI-D-19-1028.1. <br>
 _Meteorological cloud radiative kernels are available [HERE](https://github.com/tamyers87/meteorological_cloud_radiative_kernels)._  
 
-
 - Dong, Y. K. C. Armour, **M. D. Zelinka**, C. Proistosescu, D. S. Battisti, C. Zhou, and T. Andrews, 2020: [Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models](https://journals.ametsoc.org/view/journals/clim/33/18/jcliD191011.xml), _J. Climate_, 33, 7755–7775, doi:10.1175/JCLI-D-19-1011.1. <br>
-_Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y)._  
+__Nature Climate Change_ Research Highlight of this paper: [The pattern effect and climate sensitivity](https://www.nature.com/articles/s41558-020-00946-y)._
 
 - **Zelinka, M. D.**, T. A. Myers, D. T. McCoy, S. Po-Chedley, P. M. Caldwell, P. Ceppi, S. A. Klein, and K. E. Taylor, 2020: [Causes of higher climate sensitivity in CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085782), _Geophys. Res. Lett._, 47, doi:10.1029/2019GL085782. <br>
 _Forcings, feedbacks, and ECS values are available [HERE](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) (regularly updated to include CMIP6 models as they are processed)._  
