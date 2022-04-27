@@ -49,7 +49,7 @@ horizontal: false
 
 - Santer, B. D., et al. including **M. D. Zelinka**, 2021: [Using climate model simulations to constrain observations](https://doi.org/10.1175/JCLI-D-20-0768.1), _J. Climate_, doi:10.1175/JCLI-D-20-0768.1.
 
-- Myers, T. A., R. C. Scott, **M. D. Zelinka**, S. A. Klein, J. R. Norris, and P. M. Caldwell, 2021: [Observational Constraints on Low Cloud Feedback Reduce Uncertainty of Climate Sensitivity](https://www.nature.com/articles/s41558-021-01039-0),_ Nature Clim. Change_, doi:10.1038/s41558-021-01039-0. <br>
+- Myers, T. A., R. C. Scott, **M. D. Zelinka**, S. A. Klein, J. R. Norris, and P. M. Caldwell, 2021: [Observational Constraints on Low Cloud Feedback Reduce Uncertainty of Climate Sensitivity](https://www.nature.com/articles/s41558-021-01039-0), _Nature Clim. Change_, doi:10.1038/s41558-021-01039-0. <br>
 <i class="fab fa-github"></i> [Meteorological cloud radiative kernels](https://github.com/tamyers87/meteorological_cloud_radiative_kernels)  
 
 - Thackeray, C. W., A. Hall, **M. D. Zelinka**, and C. G. Fletcher, 2021: [Assessing prior emergent constraints on surface albedo feedback in CMIP6](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0703.1/JCLI-D-20-0703.1.xml), _J. Climate_, 34(10), 3889-3905, doi:10.1175/JCLI-D-20-0703.1.
