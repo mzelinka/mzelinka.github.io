@@ -52,7 +52,10 @@ nav: true
                                          
 ## Published Work
 <ol style="text-align: left;" reversed="">
-<li>Samset, B., C. Zhou, J. Fuglestvedt, M. Lund, J. Marotzke, <b>M. D. Zelinka</b>, 2022: Earlier emergence of a temperature response to mitigation by filtering annual variability, <em>Nat Commun.</em>, 13, 1578, doi:10.1038/s41467-022-29247-y.</li>
+
+  <li>Hausfather, Z., K. Marvel, G. A. Schmidt, J. W. Nielsen-Gammon, and <b>M. D. Zelinka</b>, 2022: Climate simulations: recognize the ‘hot model’ problem, <em>Nature</em>, doi:10.1038/d41586-022-01192-2.</li>
+  
+  <li>Samset, B., C. Zhou, J. Fuglestvedt, M. Lund, J. Marotzke, <b>M. D. Zelinka</b>, 2022: Earlier emergence of a temperature response to mitigation by filtering annual variability, <em>Nat Commun.</em>, 13, 1578, doi:10.1038/s41467-022-29247-y.</li>
 
 <li>McCoy, D. M., P. Field, M. E. Frazer, <b>M. D. Zelinka</b>, G. S. Elsaesser, J. Mülmenstädt, I. Tan, T. A. Myers,  Z. Lebo, 2022: Extratropical shortwave cloud feedbacks in the context of the global circulation and hydrological cycle, <em>Geophys. Res. Lett.</em>, 49, doi:10.1029/2021GL097154.</li>
 
