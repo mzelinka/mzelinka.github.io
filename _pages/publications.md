@@ -26,6 +26,8 @@ horizontal: false
 
 ## 2022
 
+- Hausfather, Z., K. Marvel, G. A. Schmidt, J. W. Nielsen-Gammon, and **M. D. Zelinka**, 2022: [Climate simulations: recognize the ‘hot model’ problem](https://www.nature.com/articles/d41586-022-01192-2), _Nature_, doi:10.1038/d41586-022-01192-2.
+
 - Samset, B., C. Zhou, J. Fuglestvedt, M. Lund, J. Marotzke, **M. D. Zelinka**, 2022: [Earlier emergence of a temperature response to mitigation by filtering annual variability](https://www.nature.com/articles/s41467-022-29247-y), _Nat Commun._, 13, 1578, doi:10.1038/s41467-022-29247-y.
 
 - McCoy, D. M., P. Field, M. E. Frazer, **M. D. Zelinka**, G. S. Elsaesser, J. Mülmenstädt, I. Tan, T. A. Myers,  Z. Lebo, 2022: [Extratropical shortwave cloud feedbacks in the context of the global circulation and hydrological cycle](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097154), _Geophys. Res. Lett._, 49, doi:10.1029/2021GL097154.
