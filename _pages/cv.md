@@ -45,8 +45,6 @@ nav: true
 <ul style="text-align: left">
 <li><b>Zelinka, M. D.</b>, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: Detailing Cloud Property Feedbacks with a Regime-Based Decomposition, <em>Climate Dyn.</em>, submitted.</li>
 
-<li>Hausfather, Z. K. Marvel, G. Schmidt, J. Nielsen-Gammon, and <b>M. D. Zelinka</b>, 2022: Consistent and Credible Climate Model Projections, submitted.</li>
-
 <li>Santer, B. D, et al. including <b>M. D. Zelinka</b>, 2022: Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature, <em>J. Climate</em>, submitted.</li>
 </ul>
                                          
