@@ -26,6 +26,8 @@ horizontal: false
 
 ## 2022
 
+- Santer, B. D, et al. including **M. D. Zelinka**, 2022: Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature, _J. Climate_, in press.
+
 - Hausfather, Z., K. Marvel, G. A. Schmidt, J. W. Nielsen-Gammon, and **M. D. Zelinka**, 2022: [Climate simulations: recognize the ‘hot model’ problem](https://www.nature.com/articles/d41586-022-01192-2), _Nature_, doi:10.1038/d41586-022-01192-2.
 
 - Samset, B., C. Zhou, J. Fuglestvedt, M. Lund, J. Marotzke, **M. D. Zelinka**, 2022: [Earlier emergence of a temperature response to mitigation by filtering annual variability](https://www.nature.com/articles/s41467-022-29247-y), _Nat Commun._, 13, 1578, doi:10.1038/s41467-022-29247-y.
