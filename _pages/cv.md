@@ -204,7 +204,6 @@ of the Intergovernmental Panel on Climate Change _Masson-Delmotte, V., P. Zhai, 
 S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K.
 Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)_. Cambridge University Press, Cambridge, United
 Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
-
 - McCoy, D.T., D. L. Hartmann, and <b>M. D. Zelinka</b>, 2017. Mixed-Phase Cloud Feedbacks. In: Andronache, C. (Ed.), _Mixed-phase Clouds: Observations and Modeling_. Elsevier.
 - Tan, I., T. Storelvmo, and <b>M. D. Zelinka</b>, 2017. The climatic impact of thermodynamic phase partitioning in mixed-phase clouds. In: Andronache, C. (Ed.), _Mixed-phase Clouds: Observations and Modeling_. Elsevier.
 - Dessler, A.E. and <b>M. D. Zelinka</b>, 2015. Climate Feedbacks. In: Gerald R. North (editor-in-chief), John Pyle and Fuqing Zhang (editors). _Encyclopedia of Atmospheric Sciences_, 2nd edition, Vol 2, pp. 18–25.
