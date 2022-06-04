@@ -1,8 +1,8 @@
 ---
 layout: page
 title: submenus
-nav: true
 nav_order: 3
+nav: false
 dropdown: true
 children: 
     - title: publications
