@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 description: 
 nav: true
-horizontal: false
+nav_order: 2
 ---
 
 ## 2022
