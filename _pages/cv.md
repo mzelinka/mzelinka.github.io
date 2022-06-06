@@ -208,6 +208,8 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Honors & Awards
 - American Meteorological Society Henry G. Houghton Award, 2022
+- Eos Research Spotlight for Zelinka et al. (2022)
+- Editors’ Citation for Excellence in Refereeing - _Geophysical Research Letters_, 2021
 - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Zelinka et al. (2020)
 - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Sherwood et al. (2020)
 - Sherwood et al. (2020) named runner-up for Science Magazine's 2020 Breakthrough of the Year
@@ -228,7 +230,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 - Eos Research Spotlight for McCoy et al. (2016)
 - LLNL Spot Award for “Outstanding Contributions to Climate Science”, 2015
 - Award recipient, NASA New Investigator Program in Earth Science, 2013
-- Editors’ Citation for Excellence in Refereeing for Journal of Geophysical Research-Atmospheres, 2012
+- Editors’ Citation for Excellence in Refereeing for _Journal of Geophysical Research_, 2012
 - Stephen Henry Schneider Symposium Student Scholarship, 2011
 - AGU Journal Highlight for Zelinka and Hartmann (2010)
 - NASA Earth and Space Science Fellowship, 2006-2008
