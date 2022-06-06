@@ -208,7 +208,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Honors & Awards
 - American Meteorological Society Henry G. Houghton Award, 2022
-- Eos Research Spotlight for Zelinka et al. (2022)
+- _Eos_ Research Spotlight for Zelinka et al. (2022)
 - Editors’ Citation for Excellence in Refereeing - _Geophysical Research Letters_, 2021
 - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Zelinka et al. (2020)
 - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Sherwood et al. (2020)
@@ -216,7 +216,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 - <em>Nature</em> Climate Change Research Highlight for Dong et al. (2020)
 - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Sherwood et al. (2020)
 - US CLIVAR Research Highlight for Zelinka et al. (2020)
-- Eos Research Spotlight for Zelinka et al. (2020)
+- _Eos_ Research Spotlight for Zelinka et al. (2020)
 - LLNL Outstanding Mentor Award, 2018
 - LLNL Early and Mid-Career Recognition Program Award, 2018
 - Eos Research Spotlight for Zhou et al. (2017)
@@ -287,10 +287,11 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
    - _Journal of Climate_
    - _Journal of Geophysical Research – Atmospheres_
    - _Journal of the Meteorological Society of Japan_
-   - _<em>Nature</em>_
-   - _<em>Nature</em> Climate Change_
-   - _<em>Nature</em> Communications_
-   - _<em>Nature Geoscience</em>_
+   - _Nature_
+   - _Nature Climate Change_
+   - _Nature Communications_
+   - _Nature Geoscience_
+   - _npj Climate and Atmospheric Science_
    - _Proceedings of the National Academy of Sciences_
    - _Scientific Reports_
    - _Surveys in Geophysics_
