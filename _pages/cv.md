@@ -50,7 +50,7 @@ nav: true
 ## Published Work
 <ol style="text-align: left;" reversed="">
 
-  <li>Santer, B. D, et al. including <b>M. D. Zelinka</b>, 2022: Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature, <em>J. Climate</em>, in press.</li>
+  <li>Santer, B. D, et al. including <b>M. D. Zelinka</b>, 2022: Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature, <em>J. Climate</em>, doi:10.1175/JCLI-D-21-0766.1.</li>
   
   <li>Hausfather, Z., K. Marvel, G. A. Schmidt, J. W. Nielsen-Gammon, and <b>M. D. Zelinka</b>, 2022: Climate simulations: recognize the ‘hot model’ problem, <em>Nature</em>, doi:10.1038/d41586-022-01192-2.</li>
   
