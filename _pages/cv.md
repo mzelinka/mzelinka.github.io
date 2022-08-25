@@ -296,10 +296,19 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
    - _Scientific Reports_
    - _Surveys in Geophysics_
 
+## Advisees
+- Post-Docs
+    - Yi Qin (Post-doc, LLNL)
+    - Timothy Myers (Research Scientist, NOAA/CIRES)
+    - Chen Zhou (Associate Professor, Nanjing University)
+- Undergraduates
+    - Thea Moellerstedt (Student, UC Berkeley)
+    - Scott Feldman (Meteorologist, Verisk Weather Solutions)
+
 ## Talks & Presentations
 
+- “Moving the field forward” Panel, Pattern Effect Workshop, 12 May 2022 (panelist, invited)
 - Yale University, School of the Environment, ENV 630, 21 Apr 2022 (oral, invited)
-- “Moving the field forward” Panel, Pattern Effect Workshop, 12 Apr 2022 (panelist, invited)
 - American Meteorological Society Annual Meeting, 27 Jan 2022 (oral)
 - American Geophysical Union Fall Meeting: Process-Oriented Diagnostics for Weather and Climate Models Session, 16 Dec 2021 (poster)
 - American Geophysical Union Fall Meeting: Process-Oriented Analysis of Cloud and Precipitation Physics Session, 15 Dec 2021 (poster)
