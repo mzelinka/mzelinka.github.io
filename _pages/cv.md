@@ -277,6 +277,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
    - _Climate Dynamics_
    - _Climatic Change_
    - _Earth System Dynamics_
+   - _Earth System Science Data_
    - _Environmental Research Letters_
    - _Geophysical Research Letters_
    - _Geoscientific Model Development_
