@@ -26,6 +26,8 @@ nav_order: 2
 
 ## 2022
 
+- **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), Clim Dyn., doi:10.1007/s00382-022-06488-7.
+
 - Santer, B. D, et al. including **M. D. Zelinka**, 2022: [Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0766.1/JCLI-D-21-0766.1.xml), _J. Climate_, 35(18), 6075-6100, doi:10.1175/JCLI-D-21-0766.1.
 
 - Hausfather, Z., K. Marvel, G. A. Schmidt, J. W. Nielsen-Gammon, and **M. D. Zelinka**, 2022: [Climate simulations: recognize the ‘hot model’ problem](https://www.nature.com/articles/d41586-022-01192-2), _Nature_, doi:10.1038/d41586-022-01192-2.
