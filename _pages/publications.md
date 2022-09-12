@@ -26,7 +26,8 @@ nav_order: 2
 
 ## 2022
 
-- **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), Clim Dyn., doi:10.1007/s00382-022-06488-7.
+- **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), Clim Dyn., doi:10.1007/s00382-022-06488-7. <br>
+<i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/cloud-regime-feedbacks)
 
 - Santer, B. D, et al. including **M. D. Zelinka**, 2022: [Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0766.1/JCLI-D-21-0766.1.xml), _J. Climate_, 35(18), 6075-6100, doi:10.1175/JCLI-D-21-0766.1.
 
