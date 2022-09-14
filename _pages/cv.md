@@ -415,9 +415,10 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Outreach Activities
 
-- Speaker, Science on Saturday, The Future in Focus: Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 26 Feb 2022.
-- Speaker, San Joaquin County Office of Education Climate Change Summit, 26 Sep 2020
-- Speaker, Wild and Scenic Film Festival, Bankhead Theater, Livermore, CA, Jan 2020
+- Castro Valley Rotary Club, 13 Sep 2022.
+- Science on Saturday, The Future in Focus: Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 26 Feb 2022.
+- San Joaquin County Office of Education Climate Change Summit, 26 Sep 2020
+- Wild and Scenic Film Festival, Bankhead Theater, Livermore, CA, Jan 2020
 - Department of Atmospheric Sciences and Program on Climate Change Outreach Teams, Sep 2004 – Dec 2010
    - Gave talks at libraries, churches, and schools about climate change
    - Gave demonstrations about physical processes relevant to weather and climate at elementary and middle school classrooms and science fairs
