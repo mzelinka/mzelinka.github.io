@@ -44,6 +44,8 @@ nav: true
 
 <ul style="text-align: left">
 
+<li>Zhou, C., M. Wang, <b>M. D. Zelinka</b>, Y. Liu, Y. Dong, K. C. Armour, 2022: Explaining the Forcing Efficacy with Pattern Effect and Feedback Nonlinearity, <em>Geophys. Res. Lett.</em>, submitted.</li>
+  
 </ul>
                                          
 ## Published Work
