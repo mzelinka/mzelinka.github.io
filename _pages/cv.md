@@ -44,6 +44,8 @@ nav: true
 
 <ul style="text-align: left">
 
+<li>Myers, T. A., <b>M. D. Zelinka</b>, and S. A. Klein, 2022: Observational Constraints on the Cloud Feedback Pattern Effect, <em>J. Climate.</em>, submitted.</li>
+
 <li>Zhou, C., M. Wang, <b>M. D. Zelinka</b>, Y. Liu, Y. Dong, K. C. Armour, 2022: Explaining the Forcing Efficacy with Pattern Effect and Feedback Nonlinearity, <em>Geophys. Res. Lett.</em>, submitted.</li>
   
 </ul>
@@ -302,7 +304,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Advisees
 - Post-Docs
-    - Yi Qin (Post-doc, LLNL)
+    - Yi Qin (Post-doc, PNNL)
     - Timothy Myers (Research Scientist, NOAA/CIRES)
     - Chen Zhou (Associate Professor, Nanjing University)
 - Undergraduates
