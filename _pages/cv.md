@@ -313,6 +313,8 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Talks & Presentations
 
+- American Geophysical Union Fall Meeting: Atmospheric Physics, Radiation, Clouds, and Aerosols Session, 15 Dec 2022 (oral, invited)
+- American Geophysical Union Fall Meeting: Atmospheric Dynamics & Climate Session, 15 Dec 2022 (oral)
 - “Moving the field forward” Panel, Pattern Effect Workshop, 12 May 2022 (panelist, invited)
 - Yale University, School of the Environment, ENV 630, 21 Apr 2022 (oral, invited)
 - American Meteorological Society Annual Meeting, 27 Jan 2022 (oral)
