@@ -9,7 +9,8 @@ nav_order: 2
 
 
 <p>
-  <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs23">2023</a> |   <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs20">2020</a> | <a href="https://mzelinka.github.io/publications/#pubs19">2019</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs18">2018</a> | <a href="https://mzelinka.github.io/publications/#pubs17">2017</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs16">2016</a> | <a href="https://mzelinka.github.io/publications/#pubs15">2015</a> | 
@@ -22,11 +23,16 @@ nav_order: 2
 <i class="fab fa-github"></i> = Github Repository  
 <i class="far fa-file"></i> = Additional Coverage
 
-<p><a name="pubs22"></a></p>
+<p><a name="pubs23"></a></p>
+## 2023
 
+- Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence](url), _Geophys. Res. Lett._, doi:10.1029/2022GL101700. 
+
+
+<p><a name="pubs22"></a></p>
 ## 2022
 
-- **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), Clim Dyn., doi:10.1007/s00382-022-06488-7. <br>
+- **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), _Clim Dyn._, doi:10.1007/s00382-022-06488-7. <br>
 <i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/cloud-regime-feedbacks)
 
 - Santer, B. D, et al. including **M. D. Zelinka**, 2022: [Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0766.1/JCLI-D-21-0766.1.xml), _J. Climate_, 35(18), 6075-6100, doi:10.1175/JCLI-D-21-0766.1.
