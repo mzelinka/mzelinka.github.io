@@ -44,15 +44,15 @@ nav: true
 
 <ul style="text-align: left">
 
-<li>Myers, T. A., <b>M. D. Zelinka</b>, and S. A. Klein, 2022: Observational Constraints on the Cloud Feedback Pattern Effect, <em>J. Climate</em>, submitted.</li>
-
-<li>Zhou, C., M. Wang, <b>M. D. Zelinka</b>, Y. Liu, Y. Dong, K. C. Armour, 2022: Explaining the Forcing Efficacy with Pattern Effect and Feedback Nonlinearity, <em>Geophys. Res. Lett.</em>, submitted.</li>
-  
+<li>Myers, T. A., <b>M. D. Zelinka</b>, and S. A. Klein, 2023: Observational Constraints on the Cloud Feedback Pattern Effect, <em>J. Climate</em>, submitted.</li>
+ 
 </ul>
                                          
 ## Published Work
 <ol style="text-align: left;" reversed="">
   
+<li>Zhou, C., M. Wang, <b>M. D. Zelinka</b>, Y. Liu, Y. Dong, K. C. Armour, 2023: Explaining the Forcing Efficacy with Pattern Effect and Feedback Nonlinearity, <em>Geophys. Res. Lett.</em>, in press.</li>
+
 <li><b>Zelinka, M. D.</b>, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: Detailing Cloud Property Feedbacks with a Regime-Based Decomposition, <em>Clim Dyn.</em>, doi:10.1007/s00382-022-06488-7.</li>
 
   <li>Santer, B. D, et al. including <b>M. D. Zelinka</b>, 2022: Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature, <em>J. Climate</em>, 35(18), 6075-6100, doi:10.1175/JCLI-D-21-0766.1.</li>
