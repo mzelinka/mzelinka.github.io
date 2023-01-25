@@ -51,7 +51,7 @@ nav: true
 ## Published Work
 <ol style="text-align: left;" reversed="">
   
-<li>Zhou, C., M. Wang, <b>M. D. Zelinka</b>, Y. Liu, Y. Dong, K. C. Armour, 2023: Explaining the Forcing Efficacy with Pattern Effect and Feedback Nonlinearity, <em>Geophys. Res. Lett.</em>, in press.</li>
+<li>Zhou, C., M. Wang, <b>M. D. Zelinka</b>, Y. Liu, Y. Dong, K. C. Armour, 2023: Explaining Forcing Efficacy with Pattern Effect and State Dependence, <em>Geophys. Res. Lett.</em>, doi:10.1029/2022GL101700.</li>
 
 <li><b>Zelinka, M. D.</b>, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: Detailing Cloud Property Feedbacks with a Regime-Based Decomposition, <em>Clim Dyn.</em>, doi:10.1007/s00382-022-06488-7.</li>
 
