@@ -26,7 +26,7 @@ nav_order: 2
 <p><a name="pubs23"></a></p>
 ## 2023
 
-- Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence]([url](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101700)), _Geophys. Res. Lett._, doi:10.1029/2022GL101700. 
+- Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101700), _Geophys. Res. Lett._, doi:10.1029/2022GL101700. 
 
 
 <p><a name="pubs22"></a></p>
