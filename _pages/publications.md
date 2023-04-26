@@ -28,12 +28,11 @@ nav_order: 2
 
 - Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101700), _Geophys. Res. Lett._, doi:10.1029/2022GL101700. 
 
+- **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2023: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), _Clim Dyn._, 60, 2983–3003, doi:10.1007/s00382-022-06488-7. <br>
+<i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/cloud-regime-feedbacks)
 
 <p><a name="pubs22"></a></p>
 ## 2022
-
-- **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2022: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), _Clim Dyn._, doi:10.1007/s00382-022-06488-7. <br>
-<i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/cloud-regime-feedbacks)
 
 - Santer, B. D, et al. including **M. D. Zelinka**, 2022: [Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0766.1/JCLI-D-21-0766.1.xml), _J. Climate_, 35(18), 6075-6100, doi:10.1175/JCLI-D-21-0766.1.
 
