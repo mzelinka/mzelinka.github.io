@@ -315,6 +315,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Talks & Presentations
 
+- Yale University, School of the Environment, ENV 630, 27 Apr 2023 (oral, invited)
 - American Geophysical Union Fall Meeting: Atmospheric Physics, Radiation, Clouds, and Aerosols Session, 15 Dec 2022 (oral, invited)
 - American Geophysical Union Fall Meeting: Atmospheric Dynamics & Climate Session, 15 Dec 2022 (oral)
 - “Moving the field forward” Panel, Pattern Effect Workshop, 12 May 2022 (panelist, invited)
@@ -423,6 +424,8 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Outreach Activities
 
+- LLNL - Las Positas College Science and Engineering Seminar Series, 20 Apr 2023.
+- Science on Saturday, The Future in Focus: Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 4 Mar 2023.
 - Castro Valley Rotary Club, 13 Sep 2022.
 - Science on Saturday, The Future in Focus: Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 26 Feb 2022.
 - San Joaquin County Office of Education Climate Change Summit, 26 Sep 2020
