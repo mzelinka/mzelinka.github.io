@@ -50,12 +50,13 @@ nav: true
 
 <li><b>Zelinka, M. D.</b>, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Aerosol Effective Radiative Forcings in CMIP Models, <em>Atmos. Chem. Phys.</em>, submitted.</li>
 
-<li>Myers, T. A., <b>M. D. Zelinka</b>, and S. A. Klein, 2023: Observational Constraints on the Cloud Feedback Pattern Effect, <em>J. Climate</em>, submitted.</li>
  
 </ul>
                                          
 ## Published Work
 <ol style="text-align: left;" reversed="">
+  
+<li>Myers, T. A., <b>M. D. Zelinka</b>, and S. A. Klein, 2023: Observational Constraints on the Cloud Feedback Pattern Effect, <em>J. Climate</em>, in press.</li>
   
 <li>Zhou, C., M. Wang, <b>M. D. Zelinka</b>, Y. Liu, Y. Dong, K. C. Armour, 2023: Explaining Forcing Efficacy with Pattern Effect and State Dependence, <em>Geophys. Res. Lett.</em>, doi:10.1029/2022GL101700.</li>
 
