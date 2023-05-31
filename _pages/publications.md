@@ -26,6 +26,8 @@ nav_order: 2
 <p><a name="pubs23"></a></p>
 ## 2023
 
+- Myers, T. A., **M. D. Zelinka**, and S. A. Klein, 2023: Observational Constraints on the Cloud Feedback Pattern Effect, _J. Climate_, in press.
+
 - Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101700), _Geophys. Res. Lett._, doi:10.1029/2022GL101700. 
 
 - **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2023: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), _Clim Dyn._, 60, 2983–3003, doi:10.1007/s00382-022-06488-7. <br>
