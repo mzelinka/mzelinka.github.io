@@ -50,7 +50,7 @@ nav: true
 
 <li>Chao, L.-W., <b>M. D. Zelinka</b>, and A. E. Dessler, 2023: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, <em>J. Geophys. Res.</em>, submitted.</li>  
   
-<li>Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, <b>M. D. Zelinka</b>, H. Chepfer, T. Khadir, and R. Roehrig, 2023: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, <em>Communications Earth & Environment</em>, submitted.</li>
+<li>Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, <b>M. D. Zelinka</b>, H. Chepfer, T. Khadir, and R. Roehrig, 2023: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, <em>Commun. Earth Environ.</em>, submitted.</li>
 
 <li>Bonan, D. B., N. Feldl, <b>M. D. Zelinka</b>, and L. C. Hahn, 2023: Contributions to regional precipitation change and its polar-amplified pattern under warming, <em>Environmental Research: Climate</em>, submitted.</li>
 
