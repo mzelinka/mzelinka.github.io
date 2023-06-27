@@ -54,7 +54,6 @@ nav: true
 
 <li>Bonan, D. B., N. Feldl, <b>M. D. Zelinka</b>, and L. C. Hahn, 2023: Contributions to regional precipitation change and its polar-amplified pattern under warming, <em>Environmental Research: Climate</em>, submitted.</li>
 
-<li><b>Zelinka, M. D.</b>, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Aerosol Effective Radiative Forcings in CMIP Models, <em>Atmos. Chem. Phys.</em>, submitted.</li>
 
  
 </ul>
@@ -62,6 +61,8 @@ nav: true
 ## Published Work
 <ol style="text-align: left;" reversed="">
   
+<li><b>Zelinka, M. D.</b>, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Comparison of Methods to Estimate Aerosol Effective Radiative Forcings in CMIP Models, <em>Atmos. Chem. Phys.</em>, in press</li>
+
 <li>Myers, T. A., <b>M. D. Zelinka</b>, and S. A. Klein, 2023: Observational Constraints on the Cloud Feedback Pattern Effect, <em>J. Climate</em>, doi:10.1175/JCLI-D-22-0862.1, in press.</li>
   
 <li>Zhou, C., M. Wang, <b>M. D. Zelinka</b>, Y. Liu, Y. Dong, K. C. Armour, 2023: Explaining Forcing Efficacy with Pattern Effect and State Dependence, <em>Geophys. Res. Lett.</em>, doi:10.1029/2022GL101700.</li>
