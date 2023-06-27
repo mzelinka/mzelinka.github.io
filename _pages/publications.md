@@ -26,6 +26,8 @@ nav_order: 2
 <p><a name="pubs23"></a></p>
 ## 2023
 
+- **Zelinka, M. D.**, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Comparison of Methods to Estimate Aerosol Effective Radiative Forcings in CMIP Models, _Atmos. Chem. Phys._, in press.
+
 - Myers, T. A., **M. D. Zelinka**, and S. A. Klein, 2023: [Observational Constraints on the Cloud Feedback Pattern Effect](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0862.1/JCLI-D-22-0862.1.xml), _J. Climate_, doi:10.1175/JCLI-D-22-0862.1, in press.
 
 - Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101700), _Geophys. Res. Lett._, doi:10.1029/2022GL101700. 
