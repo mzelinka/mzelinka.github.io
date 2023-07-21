@@ -26,7 +26,7 @@ nav_order: 2
 <p><a name="pubs23"></a></p>
 ## 2023
 
-- Bonan, D. B., N. Feldl, **M. D. Zelinka**, and L. C. Hahn, 2023: Contributions to regional precipitation change and its polar-amplified pattern under warming, _Environ. Res.: Climate_, 2, 035010, doi:10.1088/2752-5295/ace27a.
+- Bonan, D. B., N. Feldl, **M. D. Zelinka**, and L. C. Hahn, 2023: [Contributions to regional precipitation change and its polar-amplified pattern under warming](https://iopscience.iop.org/article/10.1088/2752-5295/ace27a), _Environ. Res.: Climate_, 2, 035010, doi:10.1088/2752-5295/ace27a.
 
 - **Zelinka, M. D.**, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Comparison of Methods to Estimate Aerosol Effective Radiative Forcings in CMIP Models, _Atmos. Chem. Phys._, in press.
 
