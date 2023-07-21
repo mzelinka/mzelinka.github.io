@@ -52,8 +52,7 @@ nav: true
   
 <li>Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, <b>M. D. Zelinka</b>, H. Chepfer, T. Khadir, and R. Roehrig, 2023: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, <em>Commun. Earth Environ.</em>, submitted.</li>
 
-<li>Bonan, D. B., N. Feldl, <b>M. D. Zelinka</b>, and L. C. Hahn, 2023: Contributions to regional precipitation change and its polar-amplified pattern under warming, <em>Environmental Research: Climate</em>, submitted.</li>
-
+<li>Zhao, X. et al including <b>M. D. Zelinka</b>, 2023: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, <em>Geophys. Res. Lett.</em>, submitted.</li>
 
  
 </ul>
@@ -61,6 +60,8 @@ nav: true
 ## Published Work
 <ol style="text-align: left;" reversed="">
   
+<li>Bonan, D. B., N. Feldl, <b>M. D. Zelinka</b>, and L. C. Hahn, 2023: Contributions to regional precipitation change and its polar-amplified pattern under warming, <em>Environ. Res.: Climate</em>, 2, 035010, doi:10.1088/2752-5295/ace27a.</li>
+
 <li><b>Zelinka, M. D.</b>, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Comparison of Methods to Estimate Aerosol Effective Radiative Forcings in CMIP Models, <em>Atmos. Chem. Phys.</em>, in press</li>
 
 <li>Myers, T. A., <b>M. D. Zelinka</b>, and S. A. Klein, 2023: Observational Constraints on the Cloud Feedback Pattern Effect, <em>J. Climate</em>, doi:10.1175/JCLI-D-22-0862.1, in press.</li>
