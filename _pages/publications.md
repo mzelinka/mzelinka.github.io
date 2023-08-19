@@ -28,7 +28,7 @@ nav_order: 2
 
 - Bonan, D. B., N. Feldl, **M. D. Zelinka**, and L. C. Hahn, 2023: [Contributions to regional precipitation change and its polar-amplified pattern under warming](https://iopscience.iop.org/article/10.1088/2752-5295/ace27a), _Environ. Res.: Climate_, 2, 035010, doi:10.1088/2752-5295/ace27a.
 
-- **Zelinka, M. D.**, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Comparison of Methods to Estimate Aerosol Effective Radiative Forcings in CMIP Models, _Atmos. Chem. Phys._, in press. <br>
+- **Zelinka, M. D.**, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: [Comparison of methods to estimate aerosol effective radiative forcings in climate models](https://acp.copernicus.org/articles/23/8879/2023/acp-23-8879-2023.html), _Atmos. Chem. Phys._, 23, 8879–8898, doi:10.5194/acp-23-8879-2023. <br>
 <i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/aprp)
 
 - Myers, T. A., **M. D. Zelinka**, and S. A. Klein, 2023: [Observational Constraints on the Cloud Feedback Pattern Effect](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0862.1/JCLI-D-22-0862.1.xml), _J. Climate_, doi:10.1175/JCLI-D-22-0862.1, in press.
