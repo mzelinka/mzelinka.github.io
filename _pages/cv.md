@@ -271,10 +271,11 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Professional Activities, Service, & Leadership Roles
 - CFMIP Committee, Jul 2023 - present
+- Discussion Leader, 2023 Gordon Research Conference on Radiation and Climate
 - AGU Global Environmental Change Fellows Committee, Jan 2022 - present
 - Contributing Author for IPCC 6th Assessment Report, 2019 - 2021
 - Convener, Extratropical Cloud Feedbacks Session, 2020 CFMIP Meeting
-- Discussion Leader, Climate Sensitivity Session, 2019 Gordon Research Conference on Radiation and Climate
+- Discussion Leader, 2019 Gordon Research Conference on Radiation and Climate
 - Program Committee Member, American Physical Society Topical Group on the Physics of Climate, Jun 2018 - present
 - LLNL Physical and Life Sciences Postdoc Committee, Sep 2017 - Jan 2020
 - PCMDI Leader Search Committee, Feb 2017 - June 2018
@@ -282,7 +283,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 - Contributor to Climate Feedback, a worldwide network of scientists who collectively assess the credibility of influential climate change media coverage
 - Participant, DOE Biological and Environmental Research Advisory Committee Grand Challenges II Workshop, 2017
 - Co-convener, Climate Sensitivity and Feedbacks: Advances and New Paradigms Session, 2013 - 2016 AGU Fall Meetings
-- Discussion Leader, Cloud Feedbacks Session, 2013 Gordon Research Seminar on Radiation and Climate
+- Discussion Leader, 2013 Gordon Research Seminar on Radiation and Climate
 - Co-convener, Atmospheric Feedbacks and Climate Change: Observations, Theory, and Modeling Session, 2012 AGU Fall Meeting
 - Chair, 2011 Gordon Research Seminar on Radiation and Climate
 - Organizer, University of Washington Graduate Climate Conferences, 2006, 2007, 2009, 2010
@@ -334,7 +335,6 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Talks & Presentations
 
-- Gordon Research Conference on Radiation and Climate, 26 Jul 2023 (invited discussion leader)
 - Joint CFMIP-GASS Meeting on Cloud, Precipitation, Circulation, & Climate Sensitivity, 9 Jul 2023 (oral)
 - Yale University, School of the Environment, ENV 630, 27 Apr 2023 (oral, invited)
 - American Geophysical Union Fall Meeting: Atmospheric Physics, Radiation, Clouds, and Aerosols Session, 15 Dec 2022 (oral, invited)
@@ -358,7 +358,6 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 - Global Model Cloud-Aerosol Research Webinar Series, 2 April 2020 (oral, invited)
 - UC Davis Department of Land, Air and Water Resources, 16 October 2019 (oral, invited)
 - CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 1 October 2019 (oral)
-- Gordon Research Conference on Radiation and Climate, 25 Jul 2019 (invited discussion leader)
 - Geophysical Fluid Dynamics Laboratory, 23 May 2019 (oral, invited)
 - George Mason University Center for Ocean-Land-Atmosphere Studies, 9 May 2019 (oral, invited)
 - CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 17 October 2018 (oral)
