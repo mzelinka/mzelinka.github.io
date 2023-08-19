@@ -44,7 +44,7 @@ nav: true
 
 <ul style="text-align: left">
 
-<li>Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and <b>M. D. Zelinka</b>, 2023: Steady global surface warming through 2022, after a recent step up in warming rate, submitted.</li>
+<li>Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and <b>M. D. Zelinka</b>, 2023: Steady global surface warming through 2022, after a recent step up in warming rate, <em>Commun. Earth Environ.</em>, submitted.</li>
 
 <li>Qin, Y., X. Zheng, S. A. Klein, <b>M. D. Zelinka</b>, P.-L. Ma, J.-C. Golaz, S. Xie, 2023: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, <em>J. Adv. Model. Earth Syst.</em>, submitted.</li>  
 
@@ -54,7 +54,9 @@ nav: true
 
 <li>Zhao, X. et al including <b>M. D. Zelinka</b>, 2023: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, <em>Geophys. Res. Lett.</em>, submitted.</li>
 
- 
+<li>Rugenstein, M., <b>M. D. Zelinka</b>, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: Patterns of Surface Warming Matter for Climate Sensitivity, <em>Eos</em>, submitted.</li>
+
+
 </ul>
                                          
 ## Published Work
@@ -62,7 +64,7 @@ nav: true
   
 <li>Bonan, D. B., N. Feldl, <b>M. D. Zelinka</b>, and L. C. Hahn, 2023: Contributions to regional precipitation change and its polar-amplified pattern under warming, <em>Environ. Res.: Climate</em>, 2, 035010, doi:10.1088/2752-5295/ace27a.</li>
 
-<li><b>Zelinka, M. D.</b>, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Comparison of Methods to Estimate Aerosol Effective Radiative Forcings in CMIP Models, <em>Atmos. Chem. Phys.</em>, in press</li>
+<li><b>Zelinka, M. D.</b>, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: Comparison of methods to estimate aerosol effective radiative forcings in climate models, <em>Atmos. Chem. Phys.</em>, 23, 8879–8898, doi:10.5194/acp-23-8879-2023.</li>
 
 <li>Myers, T. A., <b>M. D. Zelinka</b>, and S. A. Klein, 2023: Observational Constraints on the Cloud Feedback Pattern Effect, <em>J. Climate</em>, doi:10.1175/JCLI-D-22-0862.1, in press.</li>
   
@@ -268,6 +270,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 
 ## Professional Activities, Service, & Leadership Roles
+- CFMIP Committee, Jul 2023 - present
 - AGU Global Environmental Change Fellows Committee, Jan 2022 - present
 - Contributing Author for IPCC 6th Assessment Report, 2019 - 2021
 - Convener, Extratropical Cloud Feedbacks Session, 2020 CFMIP Meeting
@@ -319,15 +322,20 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Advisees
 - Post-Docs
+    - Li-Wei Chao
     - Yi Qin (Post-doc, PNNL)
     - Timothy Myers (Research Scientist, NOAA/CIRES)
     - Chen Zhou (Associate Professor, Nanjing University)
-- Undergraduates
-    - Thea Moellerstedt (Student, UC Berkeley)
+- Graduate Students
+    - Zac Espinosa (University of Washington)
+- Undergraduate Students
+    - Thea Moellerstedt (UC Berkeley)
     - Scott Feldman (Meteorologist, Verisk Weather Solutions)
 
 ## Talks & Presentations
 
+- Gordon Research Conference on Radiation and Climate, 26 Jul 2023 (invited discussion leader)
+- Joint CFMIP-GASS Meeting on Cloud, Precipitation, Circulation, & Climate Sensitivity, 9 Jul 2023 (oral)
 - Yale University, School of the Environment, ENV 630, 27 Apr 2023 (oral, invited)
 - American Geophysical Union Fall Meeting: Atmospheric Physics, Radiation, Clouds, and Aerosols Session, 15 Dec 2022 (oral, invited)
 - American Geophysical Union Fall Meeting: Atmospheric Dynamics & Climate Session, 15 Dec 2022 (oral)
@@ -350,6 +358,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 - Global Model Cloud-Aerosol Research Webinar Series, 2 April 2020 (oral, invited)
 - UC Davis Department of Land, Air and Water Resources, 16 October 2019 (oral, invited)
 - CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 1 October 2019 (oral)
+- Gordon Research Conference on Radiation and Climate, 25 Jul 2019 (invited discussion leader)
 - Geophysical Fluid Dynamics Laboratory, 23 May 2019 (oral, invited)
 - George Mason University Center for Ocean-Land-Atmosphere Studies, 9 May 2019 (oral, invited)
 - CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, 17 October 2018 (oral)
@@ -437,6 +446,7 @@ Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 ## Outreach Activities
 
+- LLNL Technical Lightning Talk: Community Cohorts program for new hires, 24 Aug 2023.
 - LLNL - Las Positas College Science and Engineering Seminar Series, 20 Apr 2023.
 - Science on Saturday, The Future in Focus: Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 4 Mar 2023.
 - Castro Valley Rotary Club, 13 Sep 2022.
