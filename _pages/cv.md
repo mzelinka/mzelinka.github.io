@@ -224,15 +224,12 @@ nav: true
 
 
 ## Book Chapters
-- Contributing author to Forster et al. 2021: The Earth’s Energy Budget, Climate Feedbacks, and Climate Sensitivity. In: 
-_Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report
-of the Intergovernmental Panel on Climate Change_. Masson-Delmotte et al. (eds.). Cambridge University Press, Cambridge, United
-Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
+- Contributing author to Forster et al. 2021: The Earth’s Energy Budget, Climate Feedbacks, and Climate Sensitivity. In: _Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change_. Masson-Delmotte et al. (eds.). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
 
 - McCoy, D.T., D. L. Hartmann, and **M. D. Zelinka**, 2017. Mixed-Phase Cloud Feedbacks. In: _Mixed-phase Clouds: Observations and Modeling_. Elsevier. Andronache, C. (Ed.).
-- 
+  
 - Tan, I., T. Storelvmo, and **M. D. Zelinka**, 2017. The climatic impact of thermodynamic phase partitioning in mixed-phase clouds. In: _Mixed-phase Clouds: Observations and Modeling_. Elsevier. Andronache, C. (Ed.).
-- 
+  
 - Dessler, A.E. and **M. D. Zelinka**, 2015. Climate Feedbacks. In: _Encyclopedia of Atmospheric Sciences_, 2nd edition, Vol 2, pp. 18–25. Gerald R. North (editor-in-chief), John Pyle and Fuqing Zhang (editors). 
 
 ## Honors & Awards
