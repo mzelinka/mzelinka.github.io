@@ -9,7 +9,7 @@ nav_order: 2
 
 
 <p>
-  <a href="https://mzelinka.github.io/publications/#pubs23">2023</a> |   <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | 
+  <a href="https://mzelinka.github.io/publications/#subm">Submitted</a> |   <a href="https://mzelinka.github.io/publications/#pubs23">2023</a> |   <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs20">2020</a> | <a href="https://mzelinka.github.io/publications/#pubs19">2019</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs18">2018</a> | <a href="https://mzelinka.github.io/publications/#pubs17">2017</a> | 
@@ -22,6 +22,21 @@ nav_order: 2
 <!-- https://www.w3schools.com/icons/fontawesome5_icons_code.asp -->
 <i class="fab fa-github"></i> = Github Repository  
 <i class="far fa-file"></i> = Additional Coverage
+
+<p><a name="subm"></a></p>
+## Submitted
+
+- Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and **M. D. Zelinka**, 2023: Steady global surface warming through 2022, after a recent step up in warming rate, _Commun. Earth Environ._, submitted.
+
+- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2023: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, submitted.  
+
+- Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2023: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, submitted.  
+  
+- Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2023: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, submitted.
+
+- Zhao, X. et al including **M. D. Zelinka**, 2023: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, submitted.
+
+- Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: Patterns of Surface Warming Matter for Climate Sensitivity, _Eos_, submitted.
 
 <p><a name="pubs23"></a></p>
 ## 2023
