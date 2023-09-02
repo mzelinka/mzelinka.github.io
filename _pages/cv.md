@@ -40,9 +40,11 @@ nav: true
 - Post-doctoral research scholar, Lawrence Livermore National Laboratory, January 2011 – March 2013
 - Graduate research assistant, Department of Atmospheric Sciences, University of Washington, September 2004 – December 2010
 
-## Submitted Work
+## Publications
+[See Publications Tab](https://mzelinka.github.io/publications/)
+<!--## Submitted Work-->
 
-<!-- <ul style="text-align: left">-->
+<!-- <ul style="text-align: left">
 
 - Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and **M. D. Zelinka**, 2023: Steady global surface warming through 2022, after a recent step up in warming rate, _Commun. Earth Environ._, submitted.
 
@@ -54,13 +56,14 @@ nav: true
 
 - Zhao, X. et al including **M. D. Zelinka**, 2023: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, submitted.
 
-- Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: Patterns of Surface Warming Matter for Climate Sensitivity, _Eos_, submitted.{: reversed="reversed"}
+- Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: Patterns of Surface Warming Matter for Climate Sensitivity, _Eos_, submitted.
 
-<!-- </ul>-->
+<!-- </ul>
+-->
                                          
-## Published Work
+<!--## Published Work-->
 
-<!--<ol style="text-align: left;" reversed="">-->
+<!--<ol style="text-align: left;" reversed="">
   
 - Bonan, D. B., N. Feldl, **M. D. Zelinka**, and L. C. Hahn, 2023: Contributions to regional precipitation change and its polar-amplified pattern under warming, _Environ. Res.: Climate_, 2, 035010, doi:10.1088/2752-5295/ace27a.
 
@@ -218,7 +221,6 @@ nav: true
 
 - **Zelinka, M. D.** and D. L. Hartmann, 2009: Response of Humidity and Clouds to Tropical Deep Convection. _J. Climate_, 22, 2389-2404. doi:10.1175/2008JCLI2452.1.
 
-<!-- </ol> -->
 <!-- </ol> -->
 
 
