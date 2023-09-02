@@ -33,8 +33,7 @@ nav: true
 - Post-doctoral research scholar, Lawrence Livermore National Laboratory, January 2011 – March 2013
 - Graduate research assistant, Department of Atmospheric Sciences, University of Washington, September 2004 – December 2010
 
-## Publications
-[See Publications Tab](https://mzelinka.github.io/publications/)
+## [Click Here for Publications](https://mzelinka.github.io/publications/)
 <!--## Submitted Work-->
 
 <!-- <ul style="text-align: left">
