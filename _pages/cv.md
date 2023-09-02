@@ -8,7 +8,7 @@ nav: true
 
 ## [Download PDF]({{ '/assets/pdf/Zelinka_CV.pdf' | relative_url }}) 
 
-<!--<br>-->
+<br>
 
 ## Research Interests  
 - climate sensitivity
