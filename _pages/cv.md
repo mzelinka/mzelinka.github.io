@@ -148,7 +148,7 @@ nav: true
     - Scott Feldman (Meteorologist, Verisk Weather Solutions)
 
 ## Talks & Presentations
-- University of CambridgeCentre for Atmospheric Science,Department of Chemistry, 24 October 2023 (oral, invited)
+- University of Cambridge Centre for Atmospheric Science,Department of Chemistry, 24 October 2023 (oral, invited)
 - Joint CFMIP-GASS Meeting on Cloud, Precipitation, Circulation, & Climate Sensitivity, 9 Jul 2023 (oral)
 - Yale University, School of the Environment, ENV 630, 27 Apr 2023 (oral, invited)
 - American Geophysical Union Fall Meeting: Atmospheric Physics, Radiation, Clouds, and Aerosols Session, 15 Dec 2022 (oral, invited)
