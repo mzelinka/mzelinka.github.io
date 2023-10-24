@@ -26,8 +26,6 @@ nav_order: 2
 <p><a name="subm"></a></p>
 ## Submitted
 
-- Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and **M. D. Zelinka**, 2023: Steady global surface warming through 2022, after a recent step up in warming rate, _Commun. Earth Environ._, submitted.
-
 - Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2023: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, submitted.  
 
 - Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2023: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, submitted.  
@@ -40,6 +38,8 @@ nav_order: 2
 
 <p><a name="pubs23"></a></p>
 ## 2023
+
+- Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and **M. D. Zelinka**, 2023: Steady global surface warming through 2022, after a recent step up in warming rate, _Commun. Earth Environ._, in press.
 
 - Bonan, D. B., N. Feldl, **M. D. Zelinka**, and L. C. Hahn, 2023: [Contributions to regional precipitation change and its polar-amplified pattern under warming](https://iopscience.iop.org/article/10.1088/2752-5295/ace27a), _Environ. Res.: Climate_, 2, 035010, doi:10.1088/2752-5295/ace27a.
 
