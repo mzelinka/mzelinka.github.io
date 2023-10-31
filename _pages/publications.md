@@ -34,10 +34,10 @@ nav_order: 2
 
 - Zhao, X. et al including **M. D. Zelinka**, 2023: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, submitted.
 
-- Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: Patterns of Surface Warming Matter for Climate Sensitivity, _Eos_, submitted.
-
 <p><a name="pubs23"></a></p>
 ## 2023
+
+- Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: [Patterns of Surface Warming Matter for Climate Sensitivity](https://doi.org/10.1029/2023EO230411), _Eos_, 104.
 
 - Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and **M. D. Zelinka**, 2023: Steady global surface warming through 2022, after a recent step up in warming rate, _Commun. Earth Environ._, in press.
 
