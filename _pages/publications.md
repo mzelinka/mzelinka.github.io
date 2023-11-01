@@ -39,7 +39,7 @@ nav_order: 2
 
 - Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: [Patterns of Surface Warming Matter for Climate Sensitivity](https://eos.org/features/patterns-of-surface-warming-matter-for-climate-sensitivity), _Eos_, 104, doi:10.1029/2023EO230411.
 
-- Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and **M. D. Zelinka**, 2023: Steady global surface warming through 2022, after a recent step up in warming rate, _Commun. Earth Environ._, in press.
+- Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and **M. D. Zelinka**, 2023: [Steady global surface warming from 1973 to 2022 but increased warming rate after 1990](https://www.nature.com/articles/s43247-023-01061-4), _Commun. Earth Environ._, 4, 400, doi:10.1038/s43247-023-01061-4.
 
 - Bonan, D. B., N. Feldl, **M. D. Zelinka**, and L. C. Hahn, 2023: [Contributions to regional precipitation change and its polar-amplified pattern under warming](https://iopscience.iop.org/article/10.1088/2752-5295/ace27a), _Environ. Res.: Climate_, 2, 035010, doi:10.1088/2752-5295/ace27a.
 
