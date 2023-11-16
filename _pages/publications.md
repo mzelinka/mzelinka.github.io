@@ -26,6 +26,8 @@ nav_order: 2
 <p><a name="subm"></a></p>
 ## Submitted
 
+- Lee, J. et al. including **M. D. Zelinka**, 2023: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
+
 - Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2023: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, submitted.  
 
 - Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2023: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, submitted.  
