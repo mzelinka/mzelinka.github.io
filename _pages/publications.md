@@ -28,8 +28,6 @@ nav_order: 2
 
 - Lee, J. et al. including **M. D. Zelinka**, 2023: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
 
-- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2023: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, submitted.  
-
 - Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2023: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, submitted.  
   
 - Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2023: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, submitted.
@@ -38,6 +36,8 @@ nav_order: 2
 
 <p><a name="pubs23"></a></p>
 ## 2023
+
+- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2023: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, in press.
 
 - Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: [Patterns of Surface Warming Matter for Climate Sensitivity](https://eos.org/features/patterns-of-surface-warming-matter-for-climate-sensitivity), _Eos_, 104, doi:10.1029/2023EO230411.
 
