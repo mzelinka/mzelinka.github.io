@@ -193,7 +193,7 @@ nav_order: 2
 
 - Terai, C., S. A. Klein, and **M. D. Zelinka**, 2016: [Constraining the low-cloud optical depth feedback at middle and high latitudes using satellite observations](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025233/abstract), _J. Geophys. Res._, 121, 9696–9716, doi:10.1002/2016JD025233.
 
-- Norris, J. R., R. J. Allen, A. T. Evan, **M. D. Zelinka**, C. W. O’Dell, and S. A. Klein, 2016: [Evidence for Climate Change in the Satellite Cloud Record](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18273.html), _Nature_, 536, 72–75, doi:10.1038/nature18273.
+- Norris, J. R., R. J. Allen, A. T. Evan, **M. D. Zelinka**, C. W. O’Dell, and S. A. Klein, 2016: [Evidence for Climate Change in the Satellite Cloud Record](https://www.nature.com/articles/nature18273), _Nature_, 536, 72–75, doi:10.1038/nature18273.
 
 - McCoy, D. T., I. Tan, D. L. Hartmann, **M. D. Zelinka**, T. Storelvmo, 2016: [On the relationships among cloud cover, mixed-phase partitioning, and planetary albedo in GCMs](http://onlinelibrary.wiley.com/doi/10.1002/2015MS000589/full), _J. Adv. Model. Earth Syst._, 8, 650–668, doi:10.1002/2015MS000589.
 
