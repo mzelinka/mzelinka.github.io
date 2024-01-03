@@ -26,13 +26,15 @@ nav_order: 2
 <p><a name="subm"></a></p>
 ## Submitted
 
-- Lee, J. et al. including **M. D. Zelinka**, 2023: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
+- Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback, _J. Climate_, submitted.
 
-- Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2023: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, submitted.  
+- Lee, J. et al. including **M. D. Zelinka**, 2024: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
+
+- Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, submitted.  
   
-- Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2023: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, submitted.
+- Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2024: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, submitted.
 
-- Zhao, X. et al including **M. D. Zelinka**, 2023: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, submitted.
+- Zhao, X. et al including **M. D. Zelinka**, 2024: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, submitted.
 
 <p><a name="pubs23"></a></p>
 ## 2023
