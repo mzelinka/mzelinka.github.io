@@ -37,10 +37,23 @@ nav: true
 
 
 ## Book Chapters
-- Contributing author to Forster et al. 2021: The Earth’s Energy Budget, Climate Feedbacks, and Climate Sensitivity. In: _Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change_. Masson-Delmotte et al. (eds.). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 923–1054, doi:10.1017/9781009157896.009.
-- McCoy, D.T., D. L. Hartmann, and **M. D. Zelinka**, 2017. Mixed-Phase Cloud Feedbacks. In: _Mixed-phase Clouds: Observations and Modeling_. Elsevier. Andronache, C. (Ed.).
-- Tan, I., T. Storelvmo, and **M. D. Zelinka**, 2017. The climatic impact of thermodynamic phase partitioning in mixed-phase clouds. In: _Mixed-phase Clouds: Observations and Modeling_. Elsevier. Andronache, C. (Ed.).
-- Dessler, A.E. and **M. D. Zelinka**, 2015. Climate Feedbacks. In: _Encyclopedia of Atmospheric Sciences_, 2nd edition, Vol 2, pp. 18–25. Gerald R. North (editor-in-chief), John Pyle and Fuqing Zhang (editors). 
+- McCoy, D. T., M. E. Frazer, J. Muelmenstaedt, I. Tan, C. R. Terai, and **M. D. Zelinka**, 2024: Extratropical
+Cloud Feedbacks, in _Clouds and their Climatic Impacts: Radiation, Circulation, and Precipitation_, S. C. Sullivan
+(Ed) and C. Hoose (Ed), American Geophysical Union.
+
+- Contributing author to Forster et al. 2021: The Earth’s Energy Budget, Climate Feedbacks, and Climate Sensitivity,
+in _Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment
+Report of the Intergovernmental Panel on Climate Change_. Masson-Delmotte et al. (eds.). Cambridge University
+Press, Cambridge, United Kingdom and New York, NY, USA, pp. 923-1054, doi:10.1017/9781009157896.009.
+
+- McCoy, D.T., D. L. Hartmann, and **M. D. Zelinka**, 2017: Mixed-Phase Cloud Feedbacks, in _Mixed-phase
+Clouds: Observations and Modeling_, Andronache, C. (Ed.), Elsevier.
+
+- Tan, I., T. Storelvmo, and **M. D. Zelinka**, 2017: The climatic impact of thermodynamic phase partitioning
+in mixed-phase clouds, in _Mixed-phase Clouds: Observations and Modeling_, Andronache, C. (Ed.), Elsevier.
+
+- Dessler, A.E. and **M. D. Zelinka**, 2015: Climate Feedbacks, in _Encyclopedia of Atmospheric Sciences, 2nd
+edition_, Vol 2, pp. 18-25, G. R. North (editor-in-chief), J. Pyle and F. Zhang (editors).
 
 ## Honors & Awards
 - American Meteorological Society Henry G. Houghton Award, 2022
@@ -84,6 +97,9 @@ nav: true
 
 
 ## Professional Activities, Service, & Leadership Roles
+- External Peer Reviewer, NASA Langley Research Center Science Directorate, Nov 2023
+- Programme Advisory Group, Uncertainty in Climate Sensitivity due to Clouds (CloudSense) Research
+Programme, Sep 2023 – present
 - CFMIP Committee, Jul 2023 - present
 - Discussion Leader, 2023 Gordon Research Conference on Radiation and Climate
 - AGU Global Environmental Change Fellows Committee, Jan 2022 - present
@@ -144,10 +160,13 @@ nav: true
 - Graduate Students
     - Zac Espinosa (University of Washington)
 - Undergraduate Students
+    - Russell Hunter (Duke Univesity / Second Lieutenant, US Space Force)
     - Thea Moellerstedt (UC Berkeley)
     - Scott Feldman (Meteorologist, Verisk Weather Solutions)
 
 ## Talks & Presentations
+- AGU Fall Meeting: The Flows of Energy Through the Climate System Session, 12 Dec 2023 (oral, invited)
+- AGU Fall Meeting: Climate Sensitivity and Feedbacks Session, 11 Dec 2023 (oral, invited)
 - University of Cambridge Centre for Atmospheric Science, Department of Chemistry, 24 October 2023 (oral, invited)
 - Joint CFMIP-GASS Meeting on Cloud, Precipitation, Circulation, & Climate Sensitivity, 9 Jul 2023 (oral)
 - Yale University, School of the Environment, ENV 630, 27 Apr 2023 (oral, invited)
