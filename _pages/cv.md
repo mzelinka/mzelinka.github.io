@@ -105,7 +105,7 @@ edition_, Vol 2, pp. 18-25, G. R. North (editor-in-chief), J. Pyle and F. Zhang 
 - External Peer Reviewer, NASA Langley Research Center Science Directorate, Nov 2023
 - Programme Advisory Group, Uncertainty in Climate Sensitivity due to Clouds (CloudSense) Research
 Programme, Sep 2023 – present
-- CFMIP Committee, Jul 2023 - present
+- CFMIP Scientific Steering Committee, Jul 2023 - present
 - Discussion Leader, 2023 Gordon Research Conference on Radiation and Climate
 - AGU Global Environmental Change Fellows Committee, Jan 2022 - present
 - Contributing Author for IPCC 6th Assessment Report, 2019 - 2021
