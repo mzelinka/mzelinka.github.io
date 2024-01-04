@@ -4,7 +4,7 @@ permalink: /cv/
 title: curriculum vitae
 description: 
 nav: true
-nav_order: 5
+nav_order: 1
 cv_pdf: Zelinka_CV.pdf
 toc:
   sidebar: left
