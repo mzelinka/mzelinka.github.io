@@ -11,14 +11,23 @@ horizontal: false
 
 
 <p>
-  <a href="https://mzelinka.github.io/publications/#subm">Submitted</a> |   <a href="https://mzelinka.github.io/publications/#pubs23">2023</a> |   <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | 
+  <a href="https://mzelinka.github.io/publications/#subm">Submitted</a> |   
+  <a href="https://mzelinka.github.io/publications/#pubs23">2024</a> |   
+  <a href="https://mzelinka.github.io/publications/#pubs23">2023</a> |   
+  <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs20">2020</a> | <a href="https://mzelinka.github.io/publications/#pubs19">2019</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs18">2018</a> | <a href="https://mzelinka.github.io/publications/#pubs17">2017</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs16">2016</a> | <a href="https://mzelinka.github.io/publications/#pubs15">2015</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs14">2014</a> | <a href="https://mzelinka.github.io/publications/#pubs13">2013</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs12">2012</a> | <a href="https://mzelinka.github.io/publications/#pubs11">2011</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs10">2010</a> | <a href="https://mzelinka.github.io/publications/#pubs09">2009</a>
+  <a href="https://mzelinka.github.io/publications/#pubs20">2020</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs19">2019</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs18">2018</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs17">2017</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs16">2016</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs15">2015</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs14">2014</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs13">2013</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs12">2012</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs11">2011</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs10">2010</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs09">2009</a>
 </p>
 
 <!-- https://www.w3schools.com/icons/fontawesome5_icons_code.asp -->
@@ -31,17 +40,20 @@ horizontal: false
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback, _J. Climate_, submitted.
 
 - Lee, J. et al. including **M. D. Zelinka**, 2024: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
-
-- Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, submitted.  
-  
+ 
 - Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2024: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, submitted.
 
 - Zhao, X. et al including **M. D. Zelinka**, 2024: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, submitted.
 
+<p><a name="pubs24"></a></p>
+## 2024
+
+- Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, in press.  
+
+- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2024: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, in press.
+
 <p><a name="pubs23"></a></p>
 ## 2023
-
-- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2023: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, in press.
 
 - Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: [Patterns of Surface Warming Matter for Climate Sensitivity](https://eos.org/features/patterns-of-surface-warming-matter-for-climate-sensitivity), _Eos_, 104, doi:10.1029/2023EO230411.
 
