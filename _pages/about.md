@@ -6,7 +6,7 @@ subtitle: Climate & Atmospheric Scientist | Lawrence Livermore National Laborato
 
 profile:
   align: right
-  image: headshot2_degraded.jpg
+  image: Zelinka_headshot2022a.jpg
 
       
 news: false  # includes a list of news items
