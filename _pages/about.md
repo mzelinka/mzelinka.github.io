@@ -6,7 +6,6 @@ subtitle: Climate & Atmospheric Scientist | Lawrence Livermore National Laborato
 
 profile:
   align: right
-
   image: headshot2_degraded.jpg
 
       

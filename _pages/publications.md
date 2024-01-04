@@ -9,7 +9,8 @@ nav_order: 2
 
 
 <p>
-  <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | 
+  <a href="https://mzelinka.github.io/publications/#subm">Submitted</a> |   <a href="https://mzelinka.github.io/publications/#pubs23">2023</a> |   <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | 
+  <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs20">2020</a> | <a href="https://mzelinka.github.io/publications/#pubs19">2019</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs18">2018</a> | <a href="https://mzelinka.github.io/publications/#pubs17">2017</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs16">2016</a> | <a href="https://mzelinka.github.io/publications/#pubs15">2015</a> | 
@@ -22,11 +23,44 @@ nav_order: 2
 <i class="fab fa-github"></i> = Github Repository  
 <i class="far fa-file"></i> = Additional Coverage
 
-<p><a name="pubs22"></a></p>
+<p><a name="subm"></a></p>
+## Submitted
 
+- Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback, _J. Climate_, submitted.
+
+- Lee, J. et al. including **M. D. Zelinka**, 2024: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
+
+- Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, submitted.  
+  
+- Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2024: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, submitted.
+
+- Zhao, X. et al including **M. D. Zelinka**, 2024: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, submitted.
+
+<p><a name="pubs23"></a></p>
+## 2023
+
+- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2023: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, in press.
+
+- Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: [Patterns of Surface Warming Matter for Climate Sensitivity](https://eos.org/features/patterns-of-surface-warming-matter-for-climate-sensitivity), _Eos_, 104, doi:10.1029/2023EO230411.
+
+- Samset, B., C. Zhou, J. S. Fuglestvedt, M. T. Lund, J. Marotzke, and **M. D. Zelinka**, 2023: [Steady global surface warming from 1973 to 2022 but increased warming rate after 1990](https://www.nature.com/articles/s43247-023-01061-4), _Commun. Earth Environ._, 4, 400, doi:10.1038/s43247-023-01061-4.
+
+- Bonan, D. B., N. Feldl, **M. D. Zelinka**, and L. C. Hahn, 2023: [Contributions to regional precipitation change and its polar-amplified pattern under warming](https://iopscience.iop.org/article/10.1088/2752-5295/ace27a), _Environ. Res.: Climate_, 2, 035010, doi:10.1088/2752-5295/ace27a.
+
+- **Zelinka, M. D.**, C. J. Smith, Y. Qin, and K. E. Taylor, 2023: [Comparison of methods to estimate aerosol effective radiative forcings in climate models](https://acp.copernicus.org/articles/23/8879/2023/acp-23-8879-2023.html), _Atmos. Chem. Phys._, 23, 8879–8898, doi:10.5194/acp-23-8879-2023. <br>
+<i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/aprp)
+
+- Myers, T. A., **M. D. Zelinka**, and S. A. Klein, 2023: [Observational Constraints on the Cloud Feedback Pattern Effect](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0862.1/JCLI-D-22-0862.1.xml), _J. Climate_, 36, 6533–6545, doi:10.1175/JCLI-D-22-0862.1.
+  
+- Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101700), _Geophys. Res. Lett._, doi:10.1029/2022GL101700. 
+
+- **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2023: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), _Clim Dyn._, 60, 2983–3003, doi:10.1007/s00382-022-06488-7. <br>
+<i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/cloud-regime-feedbacks)
+
+<p><a name="pubs22"></a></p>
 ## 2022
 
-- Santer, B. D, et al. including **M. D. Zelinka**, 2022: Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature, _J. Climate_, in press.
+- Santer, B. D, et al. including **M. D. Zelinka**, 2022: [Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0766.1/JCLI-D-21-0766.1.xml), _J. Climate_, 35(18), 6075-6100, doi:10.1175/JCLI-D-21-0766.1.
 
 - Hausfather, Z., K. Marvel, G. A. Schmidt, J. W. Nielsen-Gammon, and **M. D. Zelinka**, 2022: [Climate simulations: recognize the ‘hot model’ problem](https://www.nature.com/articles/d41586-022-01192-2), _Nature_, doi:10.1038/d41586-022-01192-2.
 
@@ -161,7 +195,7 @@ nav_order: 2
 
 - Terai, C., S. A. Klein, and **M. D. Zelinka**, 2016: [Constraining the low-cloud optical depth feedback at middle and high latitudes using satellite observations](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025233/abstract), _J. Geophys. Res._, 121, 9696–9716, doi:10.1002/2016JD025233.
 
-- Norris, J. R., R. J. Allen, A. T. Evan, **M. D. Zelinka**, C. W. O’Dell, and S. A. Klein, 2016: [Evidence for Climate Change in the Satellite Cloud Record](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18273.html), _Nature_, 536, 72–75, doi:10.1038/nature18273.
+- Norris, J. R., R. J. Allen, A. T. Evan, **M. D. Zelinka**, C. W. O’Dell, and S. A. Klein, 2016: [Evidence for Climate Change in the Satellite Cloud Record](https://www.nature.com/articles/nature18273), _Nature_, 536, 72–75, doi:10.1038/nature18273.
 
 - McCoy, D. T., I. Tan, D. L. Hartmann, **M. D. Zelinka**, T. Storelvmo, 2016: [On the relationships among cloud cover, mixed-phase partitioning, and planetary albedo in GCMs](http://onlinelibrary.wiley.com/doi/10.1002/2015MS000589/full), _J. Adv. Model. Earth Syst._, 8, 650–668, doi:10.1002/2015MS000589.
 

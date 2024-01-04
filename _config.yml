@@ -15,7 +15,7 @@ footer_text: >
 keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: #mdz_logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: m_logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 
 url: https://mzelinka.github.io # the base hostname & protocol for your site
@@ -114,9 +114,13 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
 google_analytics:  UA-227544327-1 # your google-analytics ID (format: UA-XXXXXXXXX)
+<<<<<<< HEAD
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
+=======
+ga4_analytics: G-5S1P537C62     #This is your GA4 measurement ID
+>>>>>>> 313042f16add2aafcc7e71126c69a444df0b0c3b
 google_site_verification:  google617a235be836bfa0 # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
@@ -124,6 +128,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: al-folio # blog_name will be displayed in your blog page
+<<<<<<< HEAD
+=======
+blog_nav_title: #blog # your blog must have a title for it to be displayed in the nav bar
+>>>>>>> 313042f16add2aafcc7e71126c69a444df0b0c3b
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
