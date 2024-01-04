@@ -124,10 +124,6 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: al-folio # blog_name will be displayed in your blog page
-<<<<<<< HEAD
-=======
-blog_nav_title: #blog # your blog must have a title for it to be displayed in the nav bar
->>>>>>> 313042f16add2aafcc7e71126c69a444df0b0c3b
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
