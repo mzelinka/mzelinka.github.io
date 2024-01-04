@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mzelinka
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mzelinka/cmip56_forcing_feedback_ecs 
+  - mzelinka/aprp 
+  - mzelinka/assessed-cloud-fbks 
