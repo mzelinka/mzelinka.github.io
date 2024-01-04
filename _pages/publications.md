@@ -12,7 +12,7 @@ horizontal: false
 
 <p>
   <a href="https://mzelinka.github.io/publications/#subm">Submitted</a> |   
-  <a href="https://mzelinka.github.io/publications/#pubs23">2024</a> |   
+  <a href="https://mzelinka.github.io/publications/#pubs24">2024</a> |   
   <a href="https://mzelinka.github.io/publications/#pubs23">2023</a> |   
   <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | 
   <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | 
