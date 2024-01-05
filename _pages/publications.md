@@ -12,31 +12,10 @@ toc:
 ---
 
 
-<p>
-  <a href="https://mzelinka.github.io/publications/#subm">Submitted</a> |   
-  <a href="https://mzelinka.github.io/publications/#pubs24">2024</a> |   
-  <a href="https://mzelinka.github.io/publications/#pubs23">2023</a> |   
-  <a href="https://mzelinka.github.io/publications/#pubs22">2022</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs21">2021</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs20">2020</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs19">2019</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs18">2018</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs17">2017</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs16">2016</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs15">2015</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs14">2014</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs13">2013</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs12">2012</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs11">2011</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs10">2010</a> | 
-  <a href="https://mzelinka.github.io/publications/#pubs09">2009</a>
-</p>
-
 <!-- https://www.w3schools.com/icons/fontawesome5_icons_code.asp -->
 <i class="fab fa-github"></i> = Github Repository  
 <i class="far fa-file"></i> = Additional Coverage
 
-<p><a name="subm"></a></p>
 ## Submitted
 
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback, _J. Climate_, submitted.
@@ -47,7 +26,6 @@ toc:
 
 - Zhao, X. et al including **M. D. Zelinka**, 2024: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, submitted.
 
-<p><a name="pubs24"></a></p>
 ## 2024
 
 - Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, in press.  
