@@ -11,7 +11,7 @@ toc:
 ---
 
 
-## [Download PDF]({{ '/assets/pdf/Zelinka_CV.pdf' | relative_url }}) 
+<!-- comment out for now --> ## [Download PDF]({{ '/assets/pdf/Zelinka_CV.pdf' | relative_url }}) 
 
 <br>
 
