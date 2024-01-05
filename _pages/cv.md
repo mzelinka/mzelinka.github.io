@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: curriculum vitae
 description: 
@@ -8,8 +8,8 @@ nav_order: 1
 cv_pdf: Zelinka_CV.pdf
 toc:
   sidebar: left
-  
 ---
+
 
 ## [Download PDF]({{ '/assets/pdf/Zelinka_CV.pdf' | relative_url }}) 
 
