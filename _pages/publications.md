@@ -32,7 +32,7 @@ toc:
 
 - Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2024: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, in press.
 
-<p><a name="pubs23"></a></p>
+
 ## 2023
 
 - Rugenstein, M., **M. D. Zelinka**, K. Karnauskas, P. Ceppi, and T. Andrews, 2023: [Patterns of Surface Warming Matter for Climate Sensitivity](https://eos.org/features/patterns-of-surface-warming-matter-for-climate-sensitivity), _Eos_, 104, doi:10.1029/2023EO230411.
@@ -51,7 +51,6 @@ toc:
 - **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2023: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), _Clim Dyn._, 60, 2983–3003, doi:10.1007/s00382-022-06488-7. <br>
 <i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/cloud-regime-feedbacks)
 
-<p><a name="pubs22"></a></p>
 ## 2022
 
 - Santer, B. D, et al. including **M. D. Zelinka**, 2022: [Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0766.1/JCLI-D-21-0766.1.xml), _J. Climate_, 35(18), 6075-6100, doi:10.1175/JCLI-D-21-0766.1.
@@ -69,7 +68,7 @@ toc:
 - **Zelinka, M. D.**, S. A. Klein, Y. Qin, and T. A. Myers, 2022: [Evaluating climate models’ cloud feedbacks against expert judgement](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035198), _J. Geophys. Res._, 127, doi:10.1029/2021JD035198. <br>
 <i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/assessed-cloud-fbks) 
 
-<p><a name="pubs21"></a></p>
+
 
 ## 2021
 
@@ -96,7 +95,7 @@ toc:
 
 
 
-<p><a name="pubs20"></a></p>
+
 
 ## 2020
 
@@ -120,7 +119,7 @@ toc:
 
 
 
-<p><a name="pubs19"></a></p>
+
 
 ## 2019
 
@@ -144,7 +143,7 @@ toc:
 
 
 
-<p><a name="pubs18"></a></p>
+
 
 ## 2018
 
@@ -160,7 +159,7 @@ toc:
 
 
 
-<p><a name="pubs17"></a></p>
+
 
 ## 2017
 
@@ -178,7 +177,7 @@ toc:
 
 
 
-<p><a name="pubs16"></a></p>
+
 
 ## 2016
 
@@ -204,7 +203,7 @@ toc:
 
 
 
-<p><a name="pubs15"></a></p>
+
 
 ## 2015
 
@@ -223,7 +222,7 @@ toc:
 
 
 
-<p><a name="pubs14"></a></p>
+
 
 ## 2014
 
@@ -240,7 +239,7 @@ toc:
 
 
 
-<p><a name="pubs13"></a></p>
+
 
 ## 2013
 
@@ -259,7 +258,7 @@ toc:
 
 
 
-<p><a name="pubs12"></a></p>
+
 
 ## 2012
 
@@ -271,7 +270,7 @@ toc:
 - **Zelinka, M. D.** and D. L. Hartmann, 2012: [Climate Feedbacks and their Implications for Poleward Energy Flux Changes in a Warming Climate](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00096.1), _J. Climate_, 25, 608-624, doi:10.1175/JCLI-D-11-00096.1.
 
 
-<p><a name="pubs11"></a></p>
+
 
 ## 2011
 
@@ -279,7 +278,7 @@ toc:
 
 
 
-<p><a name="pubs10"></a></p>
+
 
 ## 2010
 
@@ -289,7 +288,7 @@ toc:
 
 
 
-<p><a name="pubs09"></a></p>
+
 
 ## 2009
 
