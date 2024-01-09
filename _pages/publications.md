@@ -30,7 +30,7 @@ toc:
 
 - Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models, _J. Geophys. Res._, in press.  
 
-- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2024: Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2, _J. Adv. Model. Earth Syst._, in press.
+- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2024: [Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003875), _J. Adv. Model. Earth Syst._, doi:10.1029/2023MS003875.
 
 
 ## 2023
