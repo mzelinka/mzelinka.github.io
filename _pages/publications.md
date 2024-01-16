@@ -65,7 +65,7 @@ toc:
 
 - Qin, Y., **M. D. Zelinka**, and S. A. Klein, 2022: [On the Correspondence between Atmosphere-Only and Coupled Simulations for Radiative Feedbacks and Forcing from CO2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035460), _J. Geophys. Res._, 127, doi:10.1029/2021JD035460.
 
-- **Zelinka, M. D.**, S. A. Klein, Y. Qin, and T. A. Myers, 2022: [Evaluating climate models’ cloud feedbacks against expert judgement](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035198), _J. Geophys. Res._, 127, doi:10.1029/2021JD035198. <br>
+- **Zelinka, M. D.**, S. A. Klein, Y. Qin, and T. A. Myers, 2022: [Evaluating climate models’ cloud feedbacks against expert judgment](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD035198), _J. Geophys. Res._, 127, doi:10.1029/2021JD035198. <br>
 <i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/assessed-cloud-fbks) 
 
 
