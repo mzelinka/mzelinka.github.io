@@ -28,9 +28,9 @@ toc:
 
 - Zhao, X. et al including **M. D. Zelinka**, 2024: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, in press.
 
-- Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: [Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039427), _J. Geophys. Res._, 129, e2023JD039427, doi:10.1029/2023JD039427.
+- Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: [Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039427), _J. Geophys. Res._, 129, doi:10.1029/2023JD039427.
 
-- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2024: [Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003875), _J. Adv. Model. Earth Syst._, 16, e2023MS003875, doi:10.1029/2023MS003875.
+- Qin, Y., X. Zheng, S. A. Klein, **M. D. Zelinka**, P.-L. Ma, J.-C. Golaz, S. Xie, 2024: [Causes of Reduced Climate Sensitivity in E3SM from Version 1 to Version 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003875), _J. Adv. Model. Earth Syst._, 16, doi:10.1029/2023MS003875.
 
 
 ## 2023
