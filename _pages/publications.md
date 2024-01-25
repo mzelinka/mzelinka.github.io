@@ -18,6 +18,8 @@ toc:
 
 ## Submitted
 
+- Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: Implications of a pervasive climate model bias for low-cloud feedback, _Geophys. Res. Lett._, submitted.
+  
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback, _J. Climate_, submitted.
 
 - Lee, J. et al. including **M. D. Zelinka**, 2024: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
