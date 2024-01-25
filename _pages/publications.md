@@ -28,7 +28,7 @@ toc:
 
 ## 2024
 
-- Zhao, X. et al including **M. D. Zelinka**, 2024: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models, _Geophys. Res. Lett._, in press.
+- Zhao, X. et al including **M. D. Zelinka**, 2024: [Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105529), _Geophys. Res. Lett._, 51, doi:10.1029/2023GL105529.
 
 - Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: [Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039427), _J. Geophys. Res._, 129, doi:10.1029/2023JD039427.
 
