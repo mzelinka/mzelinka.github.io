@@ -30,10 +30,10 @@ toc:
 
 - Lee, J. et al. including **M. D. Zelinka**, 2024: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
  
-- Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2024: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, submitted.
-
 ## 2024
 
+- Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2024: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, in press.
+  
 - Zhao, X. et al including **M. D. Zelinka**, 2024: [Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105529), _Geophys. Res. Lett._, 51, doi:10.1029/2023GL105529.
 
 - Chao, L.-W., **M. D. Zelinka**, and A. E. Dessler, 2024: [Evaluating Cloud Feedback Components in Observations and Their Representation in Climate Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD039427), _J. Geophys. Res._, 129, doi:10.1029/2023JD039427.
