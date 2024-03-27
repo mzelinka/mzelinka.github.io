@@ -126,6 +126,8 @@ Programme, Sep 2023 – present
 - Member, American Meteorological Society, 2003 – Present
 - Member, American Geophysical Union, 2005 – Present
 - Proposal reviewer for DOE, European Research Council, NASA, and NSF
+- Editor for:
+   - _Proceedings of the National Academy of Sciences_
 - Reviewer for:
    - _Atmosphere_
    - _Atmosphere-Ocean_
@@ -135,6 +137,7 @@ Programme, Sep 2023 – present
    - _Bulletin of the American Meteorological Society_
    - _Climate Dynamics_
    - _Climatic Change_
+   - _Earth's Future_
    - _Earth System Dynamics_
    - _Earth System Science Data_
    - _Environmental Research Letters_
