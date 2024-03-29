@@ -21,8 +21,6 @@ toc:
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Effect of sea ice loss on Earth's energy budget depends on its spatial pattern, submitted.
 
 - Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological biases in clouds and precipitation, submitted.
-
-- Tan, I., **M. D. Zelinka**, Q. Coopman, B. H. Kahn, L. Oreopoulos, G. Tselioudis, D. T. McCoy, N. Li, 2024: Contributions from cloud morphological changes to the interannual shortwave cloud feedback based on MODIS and ISCCP satellite observations, _J. Geophys. Res._, submitted.
   
 - Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: Implications of a pervasive climate model bias for low-cloud feedback, _Geophys. Res. Lett._, submitted.
   
@@ -32,6 +30,8 @@ toc:
  
 ## 2024
 
+- Tan, I., **M. D. Zelinka**, Q. Coopman, B. H. Kahn, L. Oreopoulos, G. Tselioudis, D. T. McCoy, N. Li, 2024: Contributions from cloud morphological changes to the interannual shortwave cloud feedback based on MODIS and ISCCP satellite observations, _J. Geophys. Res._, in press.
+  
 - Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2024: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, in press.
   
 - Zhao, X. et al including **M. D. Zelinka**, 2024: [Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105529), _Geophys. Res. Lett._, 51, doi:10.1029/2023GL105529.
