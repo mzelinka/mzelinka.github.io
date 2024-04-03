@@ -28,7 +28,8 @@ toc:
 
  
 ## 2024
-- Lee, J. et al. including **M. D. Zelinka**, 2024: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, in press.
+- Lee, J. et al. including **M. D. Zelinka**, 2024: Systematic and Objective Evaluation of Earth System Models:
+PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, in press.
 
 - Tan, I., **M. D. Zelinka**, Q. Coopman, B. H. Kahn, L. Oreopoulos, G. Tselioudis, D. T. McCoy, N. Li, 2024: Contributions from cloud morphological changes to the interannual shortwave cloud feedback based on MODIS and ISCCP satellite observations, _J. Geophys. Res._, in press.
   
