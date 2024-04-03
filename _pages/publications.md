@@ -26,9 +26,9 @@ toc:
   
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback, _J. Climate_, submitted.
 
-- Lee, J. et al. including **M. D. Zelinka**, 2024: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, submitted.
  
 ## 2024
+- Lee, J. et al. including **M. D. Zelinka**, 2024: Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, in press.
 
 - Tan, I., **M. D. Zelinka**, Q. Coopman, B. H. Kahn, L. Oreopoulos, G. Tselioudis, D. T. McCoy, N. Li, 2024: Contributions from cloud morphological changes to the interannual shortwave cloud feedback based on MODIS and ISCCP satellite observations, _J. Geophys. Res._, in press.
   
