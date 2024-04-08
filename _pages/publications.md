@@ -33,7 +33,7 @@ PCMDI Metrics Package (PMP) version 3, _Geosci. Model Dev._, in press.
 
 - Tan, I., **M. D. Zelinka**, Q. Coopman, B. H. Kahn, L. Oreopoulos, G. Tselioudis, D. T. McCoy, N. Li, 2024: Contributions from cloud morphological changes to the interannual shortwave cloud feedback based on MODIS and ISCCP satellite observations, _J. Geophys. Res._, in press.
   
-- Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2024: Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty, _Commun. Earth Environ._, 5, 181, doi:10.1038/s43247-024-01339-1. 
+- Cesana, G. V., A. S. Ackerman, A. M. Fridlind, I. Silber, A. D. Del Genio, **M. D. Zelinka**, H. Chepfer, T. Khadir, and R. Roehrig, 2024: [Observational constraint on a feedback from supercooled clouds reduces projected warming uncertainty](https://www.nature.com/articles/s43247-024-01339-1), _Commun. Earth Environ._, 5, 181, doi:10.1038/s43247-024-01339-1. 
   
 - Zhao, X. et al including **M. D. Zelinka**, 2024: [Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two Earth System Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105529), _Geophys. Res. Lett._, 51, doi:10.1029/2023GL105529.
 
