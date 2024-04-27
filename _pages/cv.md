@@ -173,15 +173,16 @@ Programme, Sep 2023 – present
     - Scott Feldman (Meteorologist, Verisk Weather Solutions)
 
 ## Talks & Presentations
+- Yale University, School of the Environment, 25 Apr 2024 (oral, invited)
 - AGU Fall Meeting: The Flows of Energy Through the Climate System Session, 12 Dec 2023 (oral, invited)
 - AGU Fall Meeting: Climate Sensitivity and Feedbacks Session, 11 Dec 2023 (oral, invited)
 - University of Cambridge Centre for Atmospheric Science, Department of Chemistry, 24 October 2023 (oral, invited)
 - Joint CFMIP-GASS Meeting on Cloud, Precipitation, Circulation, & Climate Sensitivity, 9 Jul 2023 (oral)
-- Yale University, School of the Environment, ENV 630, 27 Apr 2023 (oral, invited)
+- Yale University, School of the Environment, 27 Apr 2023 (oral, invited)
 - American Geophysical Union Fall Meeting: Atmospheric Physics, Radiation, Clouds, and Aerosols Session, 15 Dec 2022 (oral, invited)
 - American Geophysical Union Fall Meeting: Atmospheric Dynamics & Climate Session, 15 Dec 2022 (oral)
 - “Moving the field forward” Panel, Pattern Effect Workshop, 12 May 2022 (panelist, invited)
-- Yale University, School of the Environment, ENV 630, 21 Apr 2022 (oral, invited)
+- Yale University, School of the Environment, 21 Apr 2022 (oral, invited)
 - American Meteorological Society Annual Meeting, 27 Jan 2022 (oral)
 - American Geophysical Union Fall Meeting: Process-Oriented Diagnostics for Weather and Climate Models Session, 16 Dec 2021 (poster)
 - American Geophysical Union Fall Meeting: Process-Oriented Analysis of Cloud and Precipitation Physics Session, 15 Dec 2021 (poster)
