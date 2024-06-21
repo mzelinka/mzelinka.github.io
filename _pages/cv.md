@@ -174,6 +174,7 @@ Programme, Sep 2023 – present
     - Scott Feldman (Meteorologist, Verisk Weather Solutions)
 
 ## Talks & Presentations
+- NASA Ames Research Center, Earth Science Division, 20 Jun 2024 (oral, invited)
 - Yale University, School of the Environment, 25 Apr 2024 (oral, invited)
 - AGU Fall Meeting: The Flows of Energy Through the Climate System Session, 12 Dec 2023 (oral, invited)
 - AGU Fall Meeting: Climate Sensitivity and Feedbacks Session, 11 Dec 2023 (oral, invited)
