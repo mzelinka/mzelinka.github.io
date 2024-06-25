@@ -17,6 +17,7 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- Espinosa, Z. and **M. D. Zelinka**, 2024: The Shortwave Cloud-SST Feedback Amplifies Multi-Decadal Pacific Sea Surface Temperature Trends: Implications for Observed Cooling, _Geophys. Res. Lett._, submitted.
 
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Effect of sea ice loss on Earth's energy budget depends on its spatial pattern, submitted.
 
