@@ -19,7 +19,7 @@ toc:
 ## Submitted
 - Espinosa, Z. and **M. D. Zelinka**, 2024: The Shortwave Cloud-SST Feedback Amplifies Multi-Decadal Pacific Sea Surface Temperature Trends: Implications for Observed Cooling, _Geophys. Res. Lett._, submitted.
 
-- Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Effect of sea ice loss on Earth's energy budget depends on its spatial pattern, submitted.
+- Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, submitted.
 
 - Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological biases in clouds and precipitation, submitted.
   
