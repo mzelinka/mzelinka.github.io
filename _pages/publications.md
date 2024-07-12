@@ -21,7 +21,7 @@ toc:
 
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, submitted.
 
-- Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological biases in clouds and precipitation, submitted.
+- Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological bias in clouds, _Geophys. Res. Lett._, submitted.
   
 - Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: Implications of a pervasive climate model bias for low-cloud feedback, _Geophys. Res. Lett._, submitted.
   
