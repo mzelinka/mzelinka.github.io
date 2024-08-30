@@ -61,6 +61,7 @@ in mixed-phase clouds, in _Mixed-phase Clouds: Observations and Modeling_, Andro
 edition_, Vol 2, pp. 18-25, G. R. North (editor-in-chief), J. Pyle and F. Zhang (editors).
 
 ## Honors & Awards
+- LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Lee et al. (2024)
 - Zelinka et al. (2020) named "Editor's Choice Paper" by Editor-in-Chief of _Geophysical Research Letters_
 - American Meteorological Society Henry G. Houghton Award, 2022
 - _Eos_ Research Spotlight for Zelinka et al. (2022)
