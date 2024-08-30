@@ -19,8 +19,6 @@ toc:
 ## Submitted
 - Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2024: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
   
-- Espinosa, Z. and **M. D. Zelinka**, 2024: The Shortwave Cloud-SST Feedback Amplifies Multi-Decadal Pacific Sea Surface Temperature Trends: Implications for Observed Cooling, _Geophys. Res. Lett._, submitted.
-
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, submitted.
 
 - Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological bias in clouds, _Geophys. Res. Lett._, submitted.
@@ -31,6 +29,8 @@ toc:
 
  
 ## 2024
+- Espinosa, Z. and **M. D. Zelinka**, 2024: The Shortwave Cloud-SST Feedback Amplifies Multi-Decadal Pacific Sea Surface Temperature Trends: Implications for Observed Cooling, _Geophys. Res. Lett._, in press.
+
 - Lee, J. et al. including **M. D. Zelinka**, 2024: [Systematic and Objective Evaluation of Earth System Models:
 PCMDI Metrics Package (PMP) version 3](https://gmd.copernicus.org/articles/17/3919/2024/), _Geosci. Model Dev._, 17, 3919-3948, doi:10.5194/gmd-17-3919-2024.
 
