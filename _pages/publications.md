@@ -17,6 +17,9 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- Mauritsen, T., et al. including **M. D. Zelinka**, 2024: Earth’s energy accumulation rate more than doubled,
+and we must pay close attention, submitted.
+
 - Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2024: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
   
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, submitted.
