@@ -17,8 +17,9 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
-- Mauritsen, T., et al. including **M. D. Zelinka**, 2024: Earth’s energy accumulation rate more than doubled,
-and we must pay close attention, submitted.
+- Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2024: Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks, _AGU adv._, submitted.
+
+- Mauritsen, T., et al. including **M. D. Zelinka**, 2024: Earth’s energy accumulation rate more than doubled, and we must pay close attention, submitted.
 
 - Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2024: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
   
