@@ -17,6 +17,9 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2024: Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels, _Atmos.
+Chem. Phys._, submitted.
+
 - Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2024: Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks, _AGU adv._, submitted.
 
 - Mauritsen, T., et al. including **M. D. Zelinka**, 2024: Earth’s energy accumulation rate more than doubled, and we must pay close attention, submitted.
