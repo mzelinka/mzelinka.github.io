@@ -36,7 +36,7 @@ Chem. Phys._, submitted.
 
  
 ## 2024
-- Espinosa, Z. and **M. D. Zelinka**, 2024: The Shortwave Cloud-SST Feedback Amplifies Multi-Decadal Pacific Sea Surface Temperature Trends: Implications for Observed Cooling, _Geophys. Res. Lett._, in press.
+- Espinosa, Z. and **M. D. Zelinka**, 2024: [The Shortwave Cloud-SST Feedback Amplifies Multi-Decadal Pacific Sea Surface Temperature Trends: Implications for Observed Cooling](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL111039), _Geophys. Res. Lett._, 51, doi:10.1029/2024GL111039.
 
 - Lee, J. et al. including **M. D. Zelinka**, 2024: [Systematic and Objective Evaluation of Earth System Models:
 PCMDI Metrics Package (PMP) version 3](https://gmd.copernicus.org/articles/17/3919/2024/), _Geosci. Model Dev._, 17, 3919-3948, doi:10.5194/gmd-17-3919-2024.
