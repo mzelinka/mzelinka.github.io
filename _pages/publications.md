@@ -17,16 +17,18 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2024: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, submitted.
+
 - **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2024: Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels, _Atmos.
 Chem. Phys._, submitted.
 
-- Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2024: Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks, _AGU adv._, submitted.
+- Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2024: Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks, _Environ. Res.: Climate_, submitted.
 
-- Mauritsen, T., et al. including **M. D. Zelinka**, 2024: Earth’s energy accumulation rate more than doubled, and we must pay close attention, submitted.
+- Mauritsen, T., et al. including **M. D. Zelinka**, 2024: Earth’s energy accumulation rate more than doubled, and we must pay close attention, _Nature Clim. Change_, submitted.
 
 - Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2024: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
   
-- Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, submitted.
+- Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, _Sci. Adv._, submitted.
 
 - Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological bias in clouds, _Geophys. Res. Lett._, submitted.
   
