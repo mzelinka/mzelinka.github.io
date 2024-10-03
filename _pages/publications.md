@@ -32,12 +32,13 @@ Chem. Phys._, submitted.
 
 - Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological bias in clouds, _Geophys. Res. Lett._, submitted.
   
-- Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: Implications of a pervasive climate model bias for low-cloud feedback, _Geophys. Res. Lett._, submitted.
-  
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback, _J. Climate_, submitted.
 
  
 ## 2024
+
+- Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: Implications of a pervasive climate model bias for low-cloud feedback, _Geophys. Res. Lett._, in press.
+  
 - Espinosa, Z. and **M. D. Zelinka**, 2024: [The Shortwave Cloud-SST Feedback Amplifies Multi-Decadal Pacific Sea Surface Temperature Trends: Implications for Observed Cooling](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL111039), _Geophys. Res. Lett._, 51, doi:10.1029/2024GL111039.
 
 - Lee, J. et al. including **M. D. Zelinka**, 2024: [Systematic and Objective Evaluation of Earth System Models:
