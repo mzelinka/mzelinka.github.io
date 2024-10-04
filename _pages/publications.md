@@ -17,6 +17,8 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2024: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble,  _J. Adv. Model. Earth Syst._, submitted.
+
 - Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2024: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, submitted.
 
 - **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2024: Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels, _Atmos.
