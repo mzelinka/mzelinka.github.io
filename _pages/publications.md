@@ -39,7 +39,7 @@ Chem. Phys._, submitted.
  
 ## 2024
 
-- Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: Implications of a pervasive climate model bias for low-cloud feedback, _Geophys. Res. Lett._, in press.
+- Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: Implications of a pervasive climate model bias for low-cloud feedback, _Geophys. Res. Lett._, 51, doi:10.1029/2024GL110525.
   
 - Espinosa, Z. and **M. D. Zelinka**, 2024: [The Shortwave Cloud-SST Feedback Amplifies Multi-Decadal Pacific Sea Surface Temperature Trends: Implications for Observed Cooling](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL111039), _Geophys. Res. Lett._, 51, doi:10.1029/2024GL111039.
 
