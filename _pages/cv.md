@@ -61,6 +61,8 @@ in mixed-phase clouds, in _Mixed-phase Clouds: Observations and Modeling_, Andro
 edition_, Vol 2, pp. 18-25, G. R. North (editor-in-chief), J. Pyle and F. Zhang (editors).
 
 ## Honors & Awards
+- Richard P. and Linda S. Turco Lectureship, Department of Climate, Meteorology, & Atmospheric Sciences,
+University of Illinois Urbana–Champaign, 2024-2025
 - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Lee et al. (2024)
 - Zelinka et al. (2020) named "Editor's Choice Paper" by Editor-in-Chief of _Geophysical Research Letters_
 - American Meteorological Society Henry G. Houghton Award, 2022
@@ -104,6 +106,7 @@ edition_, Vol 2, pp. 18-25, G. R. North (editor-in-chief), J. Pyle and F. Zhang 
 
 
 ## Professional Activities, Service, & Leadership Roles
+- Steering Group, CMIP7 Data Request (Atmosphere Theme), Jul 2024 - present
 - External Peer Reviewer, NASA Langley Research Center Science Directorate, Nov 2023
 - Programme Advisory Group, Uncertainty in Climate Sensitivity due to Clouds (CloudSense) Research
 Programme, Sep 2023 – present
@@ -175,6 +178,8 @@ Programme, Sep 2023 – present
     - Scott Feldman (Meteorologist, Verisk Weather Solutions)
 
 ## Talks & Presentations
+- Univ. of Illinois Urbana-Champaign, Dept. of Climate, Meteorology, & Atmospheric Sciences, 22 Oct 2024
+- CERES Science Team Meeting, 2 Oct 2024
 - LLNL Senior Staff Meeting, 1 Jul 2024 (oral, invited)
 - NASA Ames Research Center, Earth Science Division, 20 Jun 2024 (oral, invited)
 - Yale University, School of the Environment, 25 Apr 2024 (oral, invited)
