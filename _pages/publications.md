@@ -37,7 +37,7 @@ Chem. Phys._, submitted.
  
 ## 2024
   
-- Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback, _J. Climate_, in press.
+- Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: [The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0014.1/JCLI-D-24-0014.1.xml), _J. Climate_, doi:10.1175/JCLI-D-24-0014.1.
   
 - Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: [Implications of a pervasive climate model bias for low-cloud feedback](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL110525), _Geophys. Res. Lett._, 51, doi:10.1029/2024GL110525.
   
