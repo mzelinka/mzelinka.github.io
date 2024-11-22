@@ -21,9 +21,6 @@ toc:
 
 - Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2024: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, submitted.
 
-- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2024: Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels, _Atmos.
-Chem. Phys._, submitted.
-
 - Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2024: Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks, _Environ. Res.: Climate_, submitted.
 
 - Mauritsen, T., et al. including **M. D. Zelinka**, 2024: Earth’s energy accumulation rate more than doubled, and we must pay close attention, _Nature Clim. Change_, submitted.
@@ -33,6 +30,8 @@ Chem. Phys._, submitted.
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, _Sci. Adv._, submitted.
  
 ## 2024
+- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2024: [Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2782/), _Atmos. Chem. Phys._, in press.
+
 - Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological bias in clouds, _Geophys. Res. Lett._, in press.
    
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: [The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0014.1/JCLI-D-24-0014.1.xml), _J. Climate_, doi:10.1175/JCLI-D-24-0014.1.
