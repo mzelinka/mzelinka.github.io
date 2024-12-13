@@ -32,7 +32,7 @@ toc:
 ## 2024
 - **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2024: [Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2782/), _Atmos. Chem. Phys._, in press.
 
-- Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024: Relationship between tropical cloud feedback and climatological bias in clouds, _Geophys. Res. Lett._, doi:10.1029/2024GL111347.
+- Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024:   [Relationship between tropical cloud feedback and climatological bias in clouds](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL111347), _Geophys. Res. Lett._, 51, doi:10.1029/2024GL111347.
    
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu , **M. D. Zelinka**, and K. C. Armour, 2024: [The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0014.1/JCLI-D-24-0014.1.xml), _J. Climate_, doi:10.1175/JCLI-D-24-0014.1.
   
@@ -67,7 +67,7 @@ PCMDI Metrics Package (PMP) version 3](https://gmd.copernicus.org/articles/17/39
 
 - Myers, T. A., **M. D. Zelinka**, and S. A. Klein, 2023: [Observational Constraints on the Cloud Feedback Pattern Effect](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0862.1/JCLI-D-22-0862.1.xml), _J. Climate_, 36, 6533–6545, doi:10.1175/JCLI-D-22-0862.1.
   
-- Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101700), _Geophys. Res. Lett._, doi:10.1029/2022GL101700. 
+- Zhou, C., M. Wang, **M. D. Zelinka**, Y. Liu, Y. Dong, K. C. Armour, 2023: [Explaining Forcing Efficacy with Pattern Effect and State Dependence](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101700), _Geophys. Res. Lett._, 50, doi:10.1029/2022GL101700. 
 
 - **Zelinka, M. D.**, I. Tan, L. Oreopoulos, G. Tselioudis, 2023: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://link.springer.com/article/10.1007/s00382-022-06488-7), _Clim Dyn._, 60, 2983–3003, doi:10.1007/s00382-022-06488-7. <br>
 <i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/cloud-regime-feedbacks)
