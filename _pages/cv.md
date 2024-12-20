@@ -106,6 +106,7 @@ University of Illinois Urbana–Champaign, 2024-2025
 
 
 ## Professional Activities, Service, & Leadership Roles
+- Editor, _Journal of Climate_, Dec 2024 - present
 - Steering Group, CMIP7 Data Request (Atmosphere Theme), Jul 2024 - present
 - External Peer Reviewer, NASA Langley Research Center Science Directorate, Nov 2023
 - Programme Advisory Group, Uncertainty in Climate Sensitivity due to Clouds (CloudSense) Research
@@ -113,14 +114,14 @@ Programme, Sep 2023 – present
 - CFMIP Scientific Steering Committee, Jul 2023 - present
 - Discussion Leader, 2023 Gordon Research Conference on Radiation and Climate
 - AGU Global Environmental Change Fellows Committee, Jan 2022 - present
-- Contributing Author for IPCC 6th Assessment Report, 2019 - 2021
+- Contributing Author, IPCC 6th Assessment Report, 2019 - 2021
 - Convener, Extratropical Cloud Feedbacks Session, 2020 CFMIP Meeting
 - Discussion Leader, 2019 Gordon Research Conference on Radiation and Climate
 - Program Committee Member, American Physical Society Topical Group on the Physics of Climate, Jun 2018 - present
 - LLNL Physical and Life Sciences Postdoc Committee, Sep 2017 - Jan 2020
 - PCMDI Leader Search Committee, Feb 2017 - June 2018
-- Section Editor for Current Climate Change Reports Topical Collection on Climate Feedbacks, 2014 - 2017
-- Contributor to Climate Feedback, a worldwide network of scientists who collectively assess the credibility of influential climate change media coverage
+- Section Editor, Current Climate Change Reports Topical Collection on Climate Feedbacks, 2014 - 2017
+- Contributor, Climate Feedback, a worldwide network of scientists who collectively assess the credibility of influential climate change media coverage
 - Participant, DOE Biological and Environmental Research Advisory Committee Grand Challenges II Workshop, 2017
 - Co-convener, Climate Sensitivity and Feedbacks: Advances and New Paradigms Session, 2013 - 2016 AGU Fall Meetings
 - Discussion Leader, 2013 Gordon Research Seminar on Radiation and Climate
@@ -131,8 +132,7 @@ Programme, Sep 2023 – present
 - Member, American Meteorological Society, 2003 – Present
 - Member, American Geophysical Union, 2005 – Present
 - Proposal reviewer for DOE, European Research Council, NASA, and NSF
-- Editor for:
-   - _Proceedings of the National Academy of Sciences_
+- Editor,_Proceedings of the National Academy of Sciences_
 - Reviewer for:
    - _Atmosphere_
    - _Atmosphere-Ocean_
