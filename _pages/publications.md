@@ -17,26 +17,27 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
-- Chao, L.-W., **M. D. Zelinka**, et al., 2024: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model, Geophys. Res. Lett., submitted.
+- Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model, Geophys. Res. Lett., submitted.
 
-- Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2024: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble,  _J. Adv. Model. Earth Syst._, submitted.
+- Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble,  _J. Adv. Model. Earth Syst._, submitted.
 
-- Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2024: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, submitted.
+- Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, submitted.
 
-- Mauritsen, T., et al. including **M. D. Zelinka**, 2024: Earth’s energy accumulation rate more than doubled, and we must pay close attention, _Nature Clim. Change_, submitted.
+- Mauritsen, T., et al. including **M. D. Zelinka**, 2025: Earth’s energy accumulation rate more than doubled, and we must pay close attention, _AGU adv._, submitted.
 
-- Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2024: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
+- Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2025: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
   
-- Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2024: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, _Sci. Adv._, submitted.
+- Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2025: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, _Sci. Adv._, submitted.
  
-## 2024
-- Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2024: Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks, _Environ. Res.: Climate_, in press.
-  
-- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2024: [Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2782/), _Atmos. Chem. Phys._, in press.
+## 2025   
+- Lin, Y.-J., G. V. Cesana, C. Proistosescu, **M. D. Zelinka**, and K. C. Armour, 2025: [The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0014.1/JCLI-D-24-0014.1.xml), _J. Climate_, 38, 513–529, doi:10.1175/JCLI-D-24-0014.1.
 
+- Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2025: Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks, _Environ. Res.: Climate_, in press.
+  
+- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2025: [Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2782/), _Atmos. Chem. Phys._, in press.
+
+## 2024
 - Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024:   [Relationship between tropical cloud feedback and climatological bias in clouds](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL111347), _Geophys. Res. Lett._, 51, doi:10.1029/2024GL111347.
-   
-- Lin, Y.-J., G. V. Cesana, C. Proistosescu, **M. D. Zelinka**, and K. C. Armour, 2024: [The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0014.1/JCLI-D-24-0014.1.xml), _J. Climate_, doi:10.1175/JCLI-D-24-0014.1.
   
 - Ceppi, P., T. A. Myers, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2024: [Implications of a pervasive climate model bias for low-cloud feedback](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL110525), _Geophys. Res. Lett._, 51, doi:10.1029/2024GL110525.
   
