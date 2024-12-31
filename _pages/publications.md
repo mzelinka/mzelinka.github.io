@@ -17,7 +17,9 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
-- Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model, Geophys. Res. Lett., submitted.
+- Terai, C. R., et al. including **M. D. Zelinka**, 2025: Climate Response to Warming in Cess-Potter Simulations Using the Global 3-km SCREAM, _J. Adv. Model. Earth Syst._, submitted.
+
+- Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model, _Geophys. Res. Lett._, submitted.
 
 - Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble,  _J. Adv. Model. Earth Syst._, submitted.
 
