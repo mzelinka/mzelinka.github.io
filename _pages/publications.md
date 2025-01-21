@@ -31,12 +31,13 @@ toc:
   
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2025: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, _Sci. Adv._, submitted.
  
-## 2025   
+## 2025     
+- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2025: [Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2782/), _Atmos. Chem. Phys._, in press.
+  
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu, **M. D. Zelinka**, and K. C. Armour, 2025: [The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0014.1/JCLI-D-24-0014.1.xml), _J. Climate_, 38, 513–529, doi:10.1175/JCLI-D-24-0014.1.
 
-- Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2025: Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks, _Environ. Res.: Climate_, in press.
-  
-- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2025: [Technical Note: Recommendations for Diagnosing Cloud Feedbacks and Rapid Cloud Adjustments Using Cloud Radiative Kernels](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2782/), _Atmos. Chem. Phys._, in press.
+- Bonan, D. B., J. E. Kay, N. Feldl, and **M. D. Zelinka**, 2025: [Mid-latitude clouds contribute to Arctic amplification via interactions with other climate feedbacks](https://iopscience.iop.org/article/10.1088/2752-5295/ada84b), _Environ. Res.: Climate_, 4, 015001, doi:10.1088/2752-5295/ada84b.
+
 
 ## 2024
 - Thackeray, C., **M. D. Zelinka**, J. Norris, A. Hall, S. Po-Chedley, 2024:   [Relationship between tropical cloud feedback and climatological bias in clouds](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL111347), _Geophys. Res. Lett._, 51, doi:10.1029/2024GL111347.
