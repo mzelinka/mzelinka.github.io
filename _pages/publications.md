@@ -34,7 +34,7 @@ toc:
 ## 2025     
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2025: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, _Sci. Adv._, in press.
 
-- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2025: [Technical note: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2782/), _Atmos. Chem. Phys._, 25, 1477-1495, doi:10.5194/acp-25-1477-2025.
+- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2025: [Technical note: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels](https://acp.copernicus.org/articles/25/1477/2025/), _Atmos. Chem. Phys._, 25, 1477-1495, doi:10.5194/acp-25-1477-2025.
   
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu, **M. D. Zelinka**, and K. C. Armour, 2025: [The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0014.1/JCLI-D-24-0014.1.xml), _J. Climate_, 38, 513–529, doi:10.1175/JCLI-D-24-0014.1.
 
