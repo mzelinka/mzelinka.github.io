@@ -106,6 +106,7 @@ University of Illinois Urbana–Champaign, 2024-2025
 
 
 ## Professional Activities, Service, & Leadership Roles
+- Vice Chair, 2025 Gordon Research Conference on Radiation and Climate
 - Editor, _Journal of Climate_, Dec 2024 - present
 - Steering Group, CMIP7 Data Request (Atmosphere Theme), Jul 2024 - present
 - External Peer Reviewer, NASA Langley Research Center Science Directorate, Nov 2023
@@ -296,7 +297,7 @@ Programme, Sep 2023 – present
    - Capstone Project: Perception and Reality of Environmental Risk Among the Ha Tinh Population of Vietnam
 
 ## Outreach Activities
-
+- LLNL Ambassador Lecturer, Aug 2024 - present
 - LLNL Technical Lightning Talk: Community Cohorts program for new hires, 24 Aug 2023.
 - LLNL - Las Positas College Science and Engineering Seminar Series, 20 Apr 2023.
 - Science on Saturday, The Future in Focus: Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 4 Mar 2023.
