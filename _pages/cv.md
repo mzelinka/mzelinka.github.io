@@ -166,7 +166,7 @@ Programme, Sep 2023 – present
 
 ## Advisees
 - Post-Docs
-    - Li-Wei Chao
+    - Li-Wei Chao (Post-doc, LLNL)
     - Yi Qin (Post-doc, PNNL)
     - Timothy Myers (Research Scientist, NOAA/CIRES)
     - Chen Zhou (Associate Professor, Nanjing University)
