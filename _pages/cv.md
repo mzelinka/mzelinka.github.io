@@ -174,10 +174,11 @@ Programme, Sep 2023 – present
     - Zac Espinosa (University of Washington)
 - Undergraduate Students
     - Russell Hunter (Duke Univesity / Second Lieutenant, US Space Force)
-    - Thea Moellerstedt (UC Berkeley)
+    - Thea Moellerstedt (Graduate Student, UCSD)
     - Scott Feldman (Meteorologist, Verisk Weather Solutions)
 
 ## Talks & Presentations
+- ECS & Cloud Feedback Virtual Symposium, 28 Feb 2025 (oral)
 - Univ. of Illinois Urbana-Champaign, Dept. of Climate, Meteorology, & Atmospheric Sciences, 22 Oct 2024
 - CERES Science Team Meeting, 2 Oct 2024
 - LLNL Senior Staff Meeting, 1 Jul 2024 (oral, invited)
@@ -203,7 +204,7 @@ Programme, Sep 2023 – present
 - The National Academies of Sciences, Engineering, and Medicine Workshop "Data in Motion: New Approaches to Advancing Scientific, Engineering and Medical Progress", 14-15 October 2020 (panelist, invited)
 - 2020 Princeton AOS Summer Workshop, 17-21 Aug 2020 (plenary talk and lectures, invited)
 - 2020 CESM Workshop, 15 June 2020 (plenary talk, invited)
-- ECS & Cloud Feedback Symposia, online webinar, 28 May 2020 (oral, invited)
+- ECS & Cloud Feedback Virtual Symposium, 28 May 2020 (oral, invited)
 - Imperial College London, Atmospheric Physics Group Webinar, 12 May 2020 (oral, invited)
 - University of Washington, ATMS 571, 28 April 2020 (oral, invited)
 - Global Model Cloud-Aerosol Research Webinar Series, 2 April 2020 (oral, invited)
