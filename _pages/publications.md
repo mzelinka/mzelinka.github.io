@@ -32,7 +32,7 @@ toc:
 - Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2025: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
    
 ## 2025     
-- Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, 2025: Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry, _Sci. Adv._, in press.
+- Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, and J. Bloch-Johnson, 2025: [Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry](https://www.science.org/doi/10.1126/sciadv.adr4248), _Sci. Adv._, 11, doi:10.1126/sciadv.adr4248.
 
 - **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2025: [Technical note: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels](https://acp.copernicus.org/articles/25/1477/2025/), _Atmos. Chem. Phys._, 25, 1477-1495, doi:10.5194/acp-25-1477-2025.
   
