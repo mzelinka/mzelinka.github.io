@@ -179,6 +179,7 @@ Programme, Sep 2023 – present
     - Scott Feldman (Meteorologist, Verisk Weather Solutions)
 
 ## Talks & Presentations
+- Stanford University, Department of Earth System Science, 2 Apr 2025 (oral, invited)
 - ECS & Cloud Feedback Virtual Symposium, 28 Feb 2025 (oral)
 - Univ. of Illinois Urbana-Champaign, Dept. of Climate, Meteorology, & Atmospheric Sciences, 22 Oct 2024
 - CERES Science Team Meeting, 2 Oct 2024
