@@ -29,13 +29,13 @@ toc:
 
 - Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model, _J. Adv. Model. Earth Syst._, submitted.
 
-- Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble,  _J. Adv. Model. Earth Syst._, submitted.
-
 - Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, submitted.
 
 - Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2025: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
    
 ## 2025 
+- Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble,  _J. Adv. Model. Earth Syst._, in press.
+
 - Mauritsen, T., et al. including **M. D. Zelinka**, 2025: Earth's energy imbalance more than doubled in recent decades, _AGU adv._, in press.
       
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, and J. Bloch-Johnson, 2025: [Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry](https://www.science.org/doi/10.1126/sciadv.adr4248), _Sci. Adv._, 11, doi:10.1126/sciadv.adr4248.
