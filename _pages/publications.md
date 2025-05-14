@@ -17,6 +17,8 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- Zehrung, A., A. D King, Z. Nicholls, **M. D Zelinka**, and M. Meinshausen, 2025: Standardising the "Gregory method" for calculating equilibrium climate sensitivity, _Geosci. Model Dev._, submitted.
+
 - Espinosa, Z., **M. D. Zelinka**, C. M. Bitz, K. C. Armour, 2025: The strength of coupling to the Southern Ocean modulates Tropical Eastern Pacific variability and forced response, _J. Climate_, submitted
   
 - Aerenson, T. et al. including **M. D. Zelinka**, 2025: Are we simulating clouds at the wrong time of day? _Sci. Adv._, submitted
