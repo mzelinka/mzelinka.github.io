@@ -38,7 +38,7 @@ toc:
 ## 2025 
 - Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble,  _J. Adv. Model. Earth Syst._, in press.
 
-- Mauritsen, T., et al. including **M. D. Zelinka**, 2025: Earth's energy imbalance more than doubled in recent decades, _AGU adv._, in press.
+- Mauritsen, T., et al. including **M. D. Zelinka**, 2025: [Earth's energy imbalance more than doubled in recent decades](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024AV001636), _AGU adv._, 6, doi:10.1029/2024AV001636.
       
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, and J. Bloch-Johnson, 2025: [Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry](https://www.science.org/doi/10.1126/sciadv.adr4248), _Sci. Adv._, 11, doi:10.1126/sciadv.adr4248.
 
