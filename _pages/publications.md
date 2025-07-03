@@ -37,7 +37,6 @@ toc:
 
 - Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, submitted.
 
-- Feng, C., X. Liu, X. Zhao, L. Lin, Z. Lu, **M. D. Zelinka**, Y. Qin, Y. Shan, Y. Zheng, R. Saravanan, 2025: Interconnection of Aerosol Cloud Interactions and Cloud Feedback through Warm Rain Process, _Geophys. Res. Lett._, submitted.
    
 ## 2025 
 - Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: [Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004756),  _J. Adv. Model. Earth Syst._, 17, doi:10.1029/2024MS004756. 
