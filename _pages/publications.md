@@ -17,11 +17,11 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
-- Thackeray, C., J. Norris, A. Hall, **Mark D. Zelinka**, and S. Po-Chedley, 2025: Record setting heavy precipitation occurrence in 2024, _Nature Clim. Change._, submitted.
+- Thackeray, C., J. Norris, A. Hall, **M. D. Zelinka**, and S. Po-Chedley, 2025: Record setting heavy precipitation occurrence in 2024, _Nature Clim. Change._, submitted.
   
 - Feng, C. et al. including **M. D. Zelinka**, 2025: Interconnection of Aerosol-Cloud Interactions and Cloud Feedback through Warm Rain Process, _J. Geophys. Res._, submitted.
   
-- Dingley, B., et al. including **Mark D. Zelinka**, 2025: CMIP7 Data Request: Atmosphere Priorities and Opportunities, _Geosci. Model Dev._, submitted.
+- Dingley, B., et al. including **M. D. Zelinka**, 2025: CMIP7 Data Request: Atmosphere Priorities and Opportunities, _Geosci. Model Dev._, submitted.
 
 - Tam, R. Y. S., T. A. Myers, **M. D. Zelinka**, C. Proistosescu, Y.-J. Lin, and K. Marvel, 2025: Meteorological Drivers of the Low-Cloud Radiative Feedback Pattern Effect and its Uncertainty, _Atmos. Chem. Phys._, submitted.
 
