@@ -26,8 +26,8 @@ toc:
     [//]: # (- _Advisor_: Dennis L. Hartmann)
 
 - M.S., Atmospheric Sciences, University of Washington, December 2007
-    <!--- _Thesis_: Evolution of Clouds and Humidity in Association with Tropical Deep Convection
-    - _Advisor_: Dennis L. Hartmann-->
+    <!--- _Thesis_: Evolution of Clouds and Humidity in Association with Tropical Deep Convection<!--
+    <!--- _Advisor_: Dennis L. Hartmann-->
 
 - B.S., Meteorology, Pennsylvania State University, May 2004
     <!--- _Minors_: Earth Systems & Climatology
