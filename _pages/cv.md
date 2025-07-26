@@ -22,14 +22,14 @@ toc:
 
 ## Education
 - Ph.D., Atmospheric Sciences, University of Washington, December 2010
+- M.S., Atmospheric Sciences, University of Washington, December 2007
+- B.S., Meteorology, Pennsylvania State University, May 2004
     <!--- _Dissertation_: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming-->
     <!--- _Advisor_: Dennis L. Hartmann-->
 
-- M.S., Atmospheric Sciences, University of Washington, December 2007
     <!--- _Thesis_: Evolution of Clouds and Humidity in Association with Tropical Deep Convection<!--
     <!--- _Advisor_: Dennis L. Hartmann-->
 
-- B.S., Meteorology, Pennsylvania State University, May 2004
     <!--- _Minors_: Earth Systems & Climatology-->
     <!--- _Honors_: Department Marshall, Highest Distinction Graduate, 4.0 Major GPA-->
 
