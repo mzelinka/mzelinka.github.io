@@ -22,8 +22,8 @@ toc:
 
 ## Education
 - Ph.D., Atmospheric Sciences, University of Washington, December 2010
-    <!--- _Dissertation_: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming
-    - _Advisor_: Dennis L. Hartmann-->
+    [//]: # (- _Dissertation_: Towards an Improved Understanding of Cloud Feedbacks and Changes in Poleward Energy Transport Associated with Global Warming)
+    [//]: # (- _Advisor_: Dennis L. Hartmann)
 
 - M.S., Atmospheric Sciences, University of Washington, December 2007
     <!--- _Thesis_: Evolution of Clouds and Humidity in Association with Tropical Deep Convection
