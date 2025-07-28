@@ -2,7 +2,6 @@ github_users:
   - mzelinka
 
 github_repos:
-  - mzelinka/aprp 
   - mzelinka/assessed-cloud-fbks 
   - mzelinka/cmip56_forcing_feedback_ecs 
   - mzelinka/cloud-radiative-kernels
