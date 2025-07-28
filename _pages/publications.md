@@ -49,7 +49,7 @@ toc:
       
 - Zhou, C., Q. Wang, I. Tan, L. Zhang, **M. D. Zelinka**, M. Wang, and J. Bloch-Johnson, 2025: [Sea ice pattern effect on Earth's energy budget is characterized by hemispheric asymmetry](https://www.science.org/doi/10.1126/sciadv.adr4248), _Sci. Adv._, 11, doi:10.1126/sciadv.adr4248.
 
-- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2025: [Technical note: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels](https://acp.copernicus.org/articles/25/1477/2025/), _Atmos. Chem. Phys._, 25, 1477-1495, doi:10.5194/acp-25-1477-2025.
+- **Zelinka, M. D.**, L.-W. Chao, T. A. Myers, Y. Qin, and S. A. Klein, 2025: [Technical note: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels](https://acp.copernicus.org/articles/25/1477/2025/), _Atmos. Chem. Phys._, 25, 1477-1495, doi:10.5194/acp-25-1477-2025. <br><i class="fab fa-github"></i> [Code to perform the analysis from this paper](https://github.com/mzelinka/cloud-radiative-kernels)
   
 - Lin, Y.-J., G. V. Cesana, C. Proistosescu, **M. D. Zelinka**, and K. C. Armour, 2025: [The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0014.1/JCLI-D-24-0014.1.xml), _J. Climate_, 38, 513–529, doi:10.1175/JCLI-D-24-0014.1.
 
