@@ -17,7 +17,9 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
-- Thackeray, C., J. Norris, A. Hall, **M. D. Zelinka**, and S. Po-Chedley, 2025: Record setting heavy precipitation occurrence in 2024, _Nature Clim. Change._, submitted.
+- Zhang, Y., et al. including **M. D. Zelinka**, 2025: Understanding Biases in Simulated Cloud Radiative Effects in E3SMv3, _J. Adv. Model. Earth Syst._, submitted.
+  
+- Thackeray, C., J. Norris, A. Hall, **M. D. Zelinka**, and S. Po-Chedley, 2025: Record setting heavy precipitation occurrence in 2024, _Sci. Adv._, submitted.
   
 - Feng, C. et al. including **M. D. Zelinka**, 2025: Interconnection of Aerosol-Cloud Interactions and Cloud Feedback through Warm Rain Process, _J. Geophys. Res._, submitted.
   
@@ -29,7 +31,7 @@ toc:
 
 - Espinosa, Z., **M. D. Zelinka**, C. M. Bitz, K. C. Armour, 2025: The strength of coupling to the Southern Ocean modulates Tropical Eastern Pacific variability and forced response, _J. Climate_, submitted
   
-- Aerenson, T. et al. including **M. D. Zelinka**, 2025: Are we simulating clouds at the wrong time of day? _Sci. Adv._, submitted
+- Aerenson, T. et al. including **M. D. Zelinka**, 2025: Are we simulating clouds at the wrong time of day? _Sci. Adv._, submitted.
 
 - Fridlind, A. M., et al. including **M. D. Zelinka**, 2025: Towards a Climate OSSE Framework for Satellite Mission Design, _Bull. Am. Meteorol. Soc._, submitted.
   
