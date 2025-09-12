@@ -149,6 +149,7 @@ Programme, Sep 2023 – present
    - _Environmental Research Letters_
    - _Geophysical Research Letters_
    - _Geoscientific Model Development_
+   - _International Journal of Applied Earth Observation and Geoinformation_
    - _Journal of Advances in Modeling Earth Systems_
    - _Journal of Applied Meteorology and Climatology_
    - _Journal of Atmospheric and Oceanic Technology_
@@ -163,6 +164,7 @@ Programme, Sep 2023 – present
    - _npj Climate and Atmospheric Science_
    - _Proceedings of the National Academy of Sciences_
    - _Scientific Reports_
+   - _Science Advances_
    - _Surveys in Geophysics_
 
 ## Advisees
