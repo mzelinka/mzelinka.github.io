@@ -37,14 +37,14 @@ toc:
   
 - Nugent, J. M., et al. including **M. D. Zelinka**, 2025: Overview of the Nephele Perturbed Parameter Ensemble for aerosol-cloud interactions in E3SMv3, _J. Adv. Model. Earth Syst._, submitted.
 
-- Terai, C. R., et al. including **M. D. Zelinka**, 2025: Climate Response to Warming in Cess-Potter Simulations Using the Global 3-km SCREAM, _J. Adv. Model. Earth Syst._, submitted.
-
 - Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model, _J. Adv. Model. Earth Syst._, submitted.
 
 - Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, submitted.
 
    
 ## 2025 
+- Terai, C. R., et al. including **M. D. Zelinka**, 2025: Climate Response to Warming in Cess-Potter Simulations Using the Global 3-km SCREAM, _J. Adv. Model. Earth Syst._, in press.
+  
 - Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: [Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004756),  _J. Adv. Model. Earth Syst._, 17, doi:10.1029/2024MS004756. 
 
 - Mauritsen, T., et al. including **M. D. Zelinka**, 2025: [Earth's energy imbalance more than doubled in recent decades](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024AV001636), _AGU adv._, 6, doi:10.1029/2024AV001636.
