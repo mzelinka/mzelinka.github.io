@@ -17,6 +17,8 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- Ceppi, P., S. Wilson Kemsley, H. Andersen, T. Andrews, R. J. Kramer, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2025: Emerging low-cloud feedback and adjustment in global satellite observations, _Geophys. Res. Lett._, submitted. 
+
 - Zhang, Y., et al. including **M. D. Zelinka**, 2025: Understanding Biases in Simulated Cloud Radiative Effects in E3SMv3, _J. Adv. Model. Earth Syst._, submitted.
   
 - Thackeray, C., J. Norris, A. Hall, **M. D. Zelinka**, and S. Po-Chedley, 2025: Record setting heavy precipitation occurrence in 2024, _Sci. Adv._, submitted.
