@@ -43,7 +43,7 @@ toc:
 
 
 ## 2025 
-- Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, in press.
+- Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models, _Geophys. Res. Lett._, 52, doi:10.1029/2025GL117183.
 
 - Terai, C. R., et al. including **M. D. Zelinka**, 2025: Climate Response to Warming in Cess-Potter Simulations Using the Global 3-km SCREAM, _J. Adv. Model. Earth Syst._, in press.
   
