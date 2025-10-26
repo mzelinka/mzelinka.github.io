@@ -39,10 +39,10 @@ toc:
   
 - Nugent, J. M., et al. including **M. D. Zelinka**, 2025: Overview of the Nephele Perturbed Parameter Ensemble for aerosol-cloud interactions in E3SMv3, _J. Adv. Model. Earth Syst._, submitted.
 
-- Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model, _J. Adv. Model. Earth Syst._, submitted.
-
 
 ## 2025 
+- Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM), _J. Adv. Model. Earth Syst._, in press.
+
 - Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: [Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117183), _Geophys. Res. Lett._, 52, doi:10.1029/2025GL117183.
 
 - Terai, C. R., et al. including **M. D. Zelinka**, 2025: [Radiative, hydrologic, and circulation responses to
