@@ -29,8 +29,6 @@ toc:
 
 - Tam, R. Y. S., T. A. Myers, **M. D. Zelinka**, C. Proistosescu, Y.-J. Lin, and K. Marvel, 2025: Meteorological Drivers of the Low-Cloud Radiative Feedback Pattern Effect and its Uncertainty, _Atmos. Chem. Phys._, submitted.
 
-- Zehrung, A., A. D King, Z. Nicholls, **M. D Zelinka**, and M. Meinshausen, 2025: Standardising the "Gregory method" for calculating equilibrium climate sensitivity, _Geosci. Model Dev._, submitted.
-
 - Espinosa, Z., **M. D. Zelinka**, C. M. Bitz, K. C. Armour, 2025: The strength of coupling to the Southern Ocean modulates Tropical Eastern Pacific variability and forced response, _J. Climate_, submitted
   
 - Aerenson, T. et al. including **M. D. Zelinka**, 2025: Are we simulating clouds at the wrong time of day? _Sci. Adv._, submitted.
@@ -41,6 +39,8 @@ toc:
 
 
 ## 2025 
+- Zehrung, A., A. D King, Z. Nicholls, **M. D Zelinka**, and M. Meinshausen, 2025: Standardising the "Gregory method" for calculating equilibrium climate sensitivity, _Geosci. Model Dev._, in press.
+
 - Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM), _J. Adv. Model. Earth Syst._, in press.
 
 - Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: [Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117183), _Geophys. Res. Lett._, 52, doi:10.1029/2025GL117183.
