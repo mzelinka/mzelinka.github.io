@@ -17,6 +17,8 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- **Zelinka, M. D.**, T. A. Myers, Y. Qin, L.-W. Chao, S. A. Klein, S. Po-Chedley, P.-L. Ma, C. Wall, P. Ceppi, A. Gettelman, 2025: Recent cloud trends and extremes reaffirm moderate climate sensitivity, _Commun. Earth Environ._, submitted.
+
 - Ceppi, P., S. Wilson Kemsley, H. Andersen, T. Andrews, R. J. Kramer, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2025: Emerging low-cloud feedback and adjustment in global satellite observations, _Geophys. Res. Lett._, submitted. 
 
 - Zhang, Y., et al. including **M. D. Zelinka**, 2025: Understanding Biases in Simulated Cloud Radiative Effects in E3SMv3, _J. Adv. Model. Earth Syst._, submitted.
