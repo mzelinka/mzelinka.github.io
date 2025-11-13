@@ -17,6 +17,8 @@ toc:
 <i class="far fa-file"></i> = Additional Coverage
 
 ## Submitted
+- Chao, L.-W., **M. D. Zelinka**, C. R. Terai, H. Beydoun, B. R. Hillman, N. D. Keen, P. M. Caldwell, P. A. Bogenschutz, and S. A. Klein, 2025: Examining Cloud Feedback Components in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM), _J. Climate_, submitted.
+
 - **Zelinka, M. D.**, T. A. Myers, Y. Qin, L.-W. Chao, S. A. Klein, S. Po-Chedley, P.-L. Ma, C. Wall, P. Ceppi, A. Gettelman, 2025: Recent cloud trends and extremes reaffirm moderate climate sensitivity, _Commun. Earth Environ._, submitted.
 
 - Ceppi, P., S. Wilson Kemsley, H. Andersen, T. Andrews, R. J. Kramer, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2025: Emerging low-cloud feedback and adjustment in global satellite observations, _Geophys. Res. Lett._, submitted. 
@@ -45,7 +47,7 @@ toc:
 
 - Zehrung, A., A. D King, Z. Nicholls, **M. D Zelinka**, and M. Meinshausen, 2025: Standardising the "Gregory method" for calculating equilibrium climate sensitivity, _Geosci. Model Dev._, in press.
 
-- Chao, L.-W., **M. D. Zelinka**, et al., 2025: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM), _J. Adv. Model. Earth Syst._, in press.
+- Chao, L.-W., **M. D. Zelinka**, et al., 2025: [Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005133), _J. Adv. Model. Earth Syst._, 17, doi:10.1029/2025MS005133.
 
 - Hill, P. G., D. L. Finney, and **M. D. Zelinka**, 2025: [Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117183), _Geophys. Res. Lett._, 52, doi:10.1029/2025GL117183.
 
