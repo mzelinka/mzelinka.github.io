@@ -35,12 +35,12 @@ toc:
 
 - Espinosa, Z., **M. D. Zelinka**, C. M. Bitz, K. C. Armour, 2025: The strength of coupling to the Southern Ocean modulates Tropical Eastern Pacific variability and forced response, _J. Climate_, submitted
   
-- Fridlind, A. M., et al. including **M. D. Zelinka**, 2025: Towards a Climate OSSE Framework for Satellite Mission Design, _Bull. Am. Meteorol. Soc._, submitted.
-  
 - Nugent, J. M., et al. including **M. D. Zelinka**, 2025: Overview of the Nephele Perturbed Parameter Ensemble for aerosol-cloud interactions in E3SMv3, _J. Adv. Model. Earth Syst._, submitted.
 
 
-## 2025 
+## 2025   
+- Fridlind, A. M., et al. including **M. D. Zelinka**, 2025: Towards a Climate OSSE Framework for Satellite Mission Design, _Bull. Am. Meteorol. Soc._, in press.
+  
 - Aerenson, T. et al. including **M. D. Zelinka**, 2025: Global models predict clouds at the wrong time of day: does it matter for radiation and climate? _Sci. Adv._, in press.
 
 - Zehrung, A., A. D King, Z. Nicholls, **M. D Zelinka**, and M. Meinshausen, 2025: Standardising the "Gregory method" for calculating equilibrium climate sensitivity, _Geosci. Model Dev._, in press.
