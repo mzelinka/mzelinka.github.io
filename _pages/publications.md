@@ -43,7 +43,7 @@ toc:
   
 - Aerenson, T. et al. including **M. D. Zelinka**, 2025: Global models predict clouds at the wrong time of day: does it matter for radiation and climate? _Sci. Adv._, in press.
 
-- Zehrung, A., A. D King, Z. Nicholls, **M. D Zelinka**, and M. Meinshausen, 2025: Standardising the "Gregory method" for calculating equilibrium climate sensitivity, _Geosci. Model Dev._, in press.
+- Zehrung, A., A. D King, Z. Nicholls, **M. D Zelinka**, and M. Meinshausen, 2025: [Standardising the "Gregory method" for calculating equilibrium climate sensitivity](https://gmd.copernicus.org/articles/18/9433/2025/), _Geosci. Model Dev._, 18, 9433–9450, doi:10.5194/gmd-18-9433-2025.
 
 - Chao, L.-W., **M. D. Zelinka**, et al., 2025: [Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005133), _J. Adv. Model. Earth Syst._, 17, doi:10.1029/2025MS005133.
 
