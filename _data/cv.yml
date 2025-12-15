@@ -18,11 +18,11 @@
       year: 2004
 
 - title: Academic Interests
-  type: map
+  type: list
   contents:
-    - value: Climate Sensitivity
-    - value: Cloud radiative feedbacks
-    - value: Radiative forcing
+    - Climate Sensitivity
+    - Cloud radiative feedbacks
+    - Radiative forcing
 
 - title: Experience
   type: time_table
