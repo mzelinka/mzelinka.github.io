@@ -119,20 +119,20 @@
 - title: Advisees
   type: time_table
   contents:
-    - year: Postdocs
+    - year: Postdoc
       items:
         - Li-Wei Chao
         - Yi Qin (Post-doc, PNNL)
         - Timothy Myers (Research Scientist, NOAA/CIRES)
         - Chen Zhou (Associate Professor, Nanjing University)
-    - year: Graduate Students
+    - year: Graduate
       items:
         - Zac Espinosa (University of Washington)
-    - year: Undergraduate Students
+    - year: Undergraduate
       items:
-        - Russell Hunter (Duke Univesity / Second Lieutenant, US Space Force)
-        - Thea Moellerstedt (UC Berkeley)
-        - Scott Feldman (Meteorologist, Verisk Weather Solutions) 
+        - Russell Hunter (Duke Univesity / US Space Force)
+        - Thea Moellerstedt (UCSD)
+        - Scott Feldman (Verisk Weather Solutions) 
 
 
 - title: Talks & Presentations
@@ -237,4 +237,19 @@
         - Gordon Research Conference on Radiation and Climate, 29 Jul – 3 Aug 2007 (poster)
         - University of Washington Dept. of Atmospheric Sciences Clouds and Precipitation Seminar, May 2007 (oral)
         - University of Washington Graduate Climate Conference, Apr 2006 (poster)
+
+
+
+- title: Outreach Activities
+  type: list
+  contents:
+        - LLNL Technical Lightning Talk, Community Cohorts program for new hires, 24 Aug 2023.
+        - LLNL - Las Positas College Science and Engineering Seminar Series, 20 Apr 2023.
+        - Science on Saturday, The Future in Focus, Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 4 Mar 2023.
+        - Castro Valley Rotary Club, 13 Sep 2022.
+        - Science on Saturday, The Future in Focus, Predicting Climate Change through Observations, Modeling, and Artificial Intelligence, 26 Feb 2022.
+        - San Joaquin County Office of Education Climate Change Summit, 26 Sep 2020
+        - Wild and Scenic Film Festival, Bankhead Theater, Livermore, CA, Jan 2020
+        - Department of Atmospheric Sciences and Program on Climate Change Outreach Teams, Sep 2004 – Dec 2010       
+
 
