@@ -33,7 +33,7 @@
       institution: Department of Atmospheric Sciences, University of Washington
       year: 2004 - 2010
 
-- title: Honors and Awards simple list
+- title: Honors and Awards
   type: list
   contents:
         - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Lee et al. (2024)
@@ -43,68 +43,27 @@
         - Editors’ Citation for Excellence in Refereeing - Geophysical Research Letters
         - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Zelinka et al. (2020)
         - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Sherwood et al. (2020)
-
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Lee et al. (2024)
-        - Zelinka et al. (2020) named “Editor’s Choice Paper” by Editor-in-Chief of Geophysical Research Letters
-    - year: 2022
-      items:
-        - American Meteorological Society Henry G. Houghton Award, 2022
-        - Eos Research Spotlight for Zelinka et al. (2022)
-    - year: 2021
-      items:
-        - Editors’ Citation for Excellence in Refereeing - Geophysical Research Letters
-        - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Zelinka et al. (2020)
-        - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Sherwood et al. (2020)
-    - year: 2020
-      items:
         - Sherwood et al. (2020) named runner-up for Science Magazine’s 2020 Breakthrough of the Year
         - Nature Climate Change Research Highlight for Dong et al. (2020)
         - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Sherwood et al. (2020)
         - US CLIVAR Research Highlight for Zelinka et al. (2020)
         - Eos Research Spotlight for Zelinka et al. (2020)
-    - year: 2018
-      items:
         - LLNL Outstanding Mentor Award, 2018
         - LLNL Early and Mid-Career Recognition Program Award, 2018
-    - year: 2017
-      items:
         - Eos Research Spotlight for Zhou et al. (2017)
         - Diablo Magazine 40 Under 40, 2017
         - LLNL Physical and Life Sciences Directorate Spot Award for Excellence in Publications, 2017
-    - year: 2016
-      items:
         - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Zhou et al. (2016)
         - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Norris et al. (2016)
         - Nature Climate Change Research Highlight for Zhou et al. (2016)
         - Eos Research Spotlight for Zelinka et al. (2016)
         - 2016 LLNL Deputy Director for Science and Technology Excellence in Publication Award for Santer et al. (2015)
         - Eos Research Spotlight for McCoy et al. (2016)
-
-    - year: 2015
-      items:
         - LLNL Spot Award for “Outstanding Contributions to Climate Science”, 2015
-
-    - year: 2013
-      items:
         - Award recipient, NASA New Investigator Program in Earth Science, 2013
-        
-    - year: 2012
-      items:
         - Editors’ Citation for Excellence in Refereeing for Journal of Geophysical Research, 2012
-    - year: 2011
-      items:
         - Stephen Henry Schneider Symposium Student Scholarship, 2011
-    - year: 2010
-      items:
         - AGU Journal Highlight for Zelinka and Hartmann (2010)
-    - year: pre-2010
-      items:
         - NASA Earth and Space Science Fellowship, 2006-2008
         - NSF Graduate Research Fellowship Honorable Mention, 2006
         - University of Washington Top Scholar Award, 2004
@@ -117,4 +76,43 @@
         - John and Elizabeth Holmes Teas Scholarship, 2001
         - Earth and Mineral Science Scholarship, 2000        
 
+- title: Book Chapters
+  type: list
+  contents:
+        - McCoy, D. T., M. E. Frazer, J. Muelmenstaedt, I. Tan, C. R. Terai, and M. D. Zelinka, 2024: Extratropical Cloud Feedbacks, in Clouds and their Climatic Impacts: Radiation, Circulation, and Precipitation, S. C. Sullivan (Ed) and C. Hoose (Ed), American Geophysical Union.
+        - Contributing author to Forster et al. 2021: The Earth’s Energy Budget, Climate Feedbacks, and Climate Sensitivity, in Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Masson-Delmotte et al. (eds.). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, pp. 923-1054, doi:10.1017/9781009157896.009.
+        - McCoy, D.T., D. L. Hartmann, and M. D. Zelinka, 2017: Mixed-Phase Cloud Feedbacks, in Mixed-phase Clouds: Observations and Modeling, Andronache, C. (Ed.), Elsevier.
+        - Tan, I., T. Storelvmo, and M. D. Zelinka, 2017: The climatic impact of thermodynamic phase partitioning in mixed-phase clouds, in Mixed-phase Clouds: Observations and Modeling, Andronache, C. (Ed.), Elsevier.
+        - Dessler, A.E. and M. D. Zelinka, 2015: Climate Feedbacks, in Encyclopedia of Atmospheric Sciences, 2nd edition, Vol 2, pp. 18-25, G. R. North (editor-in-chief), J. Pyle and F. Zhang (editors).
+
+
+- title: Professional Activities, Service, & Leadership Roles
+  type: list
+  contents:
+        - External Peer Reviewer, NASA Langley Research Center Science Directorate, Nov 2023
+        - Programme Advisory Group, Uncertainty in Climate Sensitivity due to Clouds (CloudSense) Research Programme, Sep 2023 – present
+        - CFMIP Scientific Steering Committee, Jul 2023 - present
+        - Discussion Leader, 2023 Gordon Research Conference on Radiation and Climate
+        - AGU Global Environmental Change Fellows Committee, Jan 2022 - present
+        - Contributing Author for IPCC 6th Assessment Report, 2019 - 2021
+        - Convener, Extratropical Cloud Feedbacks Session, 2020 CFMIP Meeting
+        - Discussion Leader, 2019 Gordon Research Conference on Radiation and Climate
+        - Program Committee Member, American Physical Society Topical Group on the Physics of Climate, Jun 2018 - present
+        - LLNL Physical and Life Sciences Postdoc Committee, Sep 2017 - Jan 2020
+        - PCMDI Leader Search Committee, Feb 2017 - June 2018
+        - Section Editor for Current Climate Change Reports Topical Collection on Climate Feedbacks, 2014 - 2017
+        - Contributor to Climate Feedback, a worldwide network of scientists who collectively assess the credibility of influential climate change media coverage
+        - Participant, DOE Biological and Environmental Research Advisory Committee Grand Challenges II Workshop, 2017
+        - Co-convener, Climate Sensitivity and Feedbacks: Advances and New Paradigms Session, 2013 - 2016 AGU Fall Meetings
+        - Discussion Leader, 2013 Gordon Research Seminar on Radiation and Climate
+        - Co-convener, Atmospheric Feedbacks and Climate Change: Observations, Theory, and Modeling Session, 2012 AGU Fall Meeting
+        - Chair, 2011 Gordon Research Seminar on Radiation and Climate
+        - Organizer, University of Washington Graduate Climate Conferences, 2006, 2007, 2009, 2010
+        - Senator, University of Washington Graduate and Professional Student Senate, Sep 2006 – Jun 2009
+        - Member, American Meteorological Society, 2003 – Present
+        - Member, American Geophysical Union, 2005 – Present
+        - Proposal reviewer for DOE, European Research Council, NASA, and NSF
+        - Guest Editor for Proceedings of the National Academy of Sciences
+        - Reviewer for 
+        
 
