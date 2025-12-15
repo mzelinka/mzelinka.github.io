@@ -1,7 +1,6 @@
 ---
-<<<<<<< HEAD
 layout: page
-permalink: /cv/
+permalink: /vitae/
 title: curriculum vitae
 description: 
 nav: true
@@ -10,9 +9,6 @@ cv_pdf: Zelinka_CV.pdf
 toc:
   sidebar: left
   
----
-
-## [Download PDF]({{ '/assets/pdf/Zelinka_CV.pdf' | relative_url }}) 
 
 <br>
 
