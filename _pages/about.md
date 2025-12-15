@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Climate & Atmospheric Scientist | Lawrence Livermore National Laboratory
 
 profile:
   align: right
