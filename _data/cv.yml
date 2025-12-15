@@ -7,80 +7,108 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D., Atmospheric Sciences
       institution: University of Washington
       year: 2010
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: M.S., Atmospheric Sciences
+      institution: University of Washington
+      year: 2007
+    - title: B.S., Meteorology
+      institution: Pennsylvania State University
+      year: 2004
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Climate Sensitivity
+    - title: Cloud radiative feedbacks
+    - title: Radiative forcing
 
-- title: Other Interests
-  type: list
+- title: Experience
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Research scientist
+      institution: Lawrence Livermore National Laboratory
+      year: 2013 – present
+
+    - title: Postdoctoral research scholar
+      institution: Lawrence Livermore National Laboratory
+      year: 2011 - 2013
+
+    - title: Graduate research assistant
+      institution: Department of Atmospheric Sciences, University of Washington
+      year: 2004 - 2010
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Lee et al. (2024)
+        - Zelinka et al. (2020) named “Editor’s Choice Paper” by Editor-in-Chief of Geophysical Research Letters
+    - year: 2022
+      items:
+        - American Meteorological Society Henry G. Houghton Award, 2022
+        - Eos Research Spotlight for Zelinka et al. (2022)
+    - year: 2021
+      items:
+        - Editors’ Citation for Excellence in Refereeing - Geophysical Research Letters
+        - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Zelinka et al. (2020)
+        - 2021 LLNL Deputy Director’s S&T Excellence in Publication Award for Sherwood et al. (2020)
+    - year: 2020
+      items:
+        - Sherwood et al. (2020) named runner-up for Science Magazine’s 2020 Breakthrough of the Year
+        - Nature Climate Change Research Highlight for Dong et al. (2020)
+        - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Sherwood et al. (2020)
+        - US CLIVAR Research Highlight for Zelinka et al. (2020)
+        - Eos Research Spotlight for Zelinka et al. (2020)
+    - year: 2018
+      items:
+        - LLNL Outstanding Mentor Award, 2018
+        - LLNL Early and Mid-Career Recognition Program Award, 2018
+    - year: 2017
+      items:
+        - Eos Research Spotlight for Zhou et al. (2017)
+        - Diablo Magazine 40 Under 40, 2017
+        - LLNL Physical and Life Sciences Directorate Spot Award for Excellence in Publications, 2017
+    - year: 2016
+      items:
+        - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Zhou et al. (2016)
+        - LLNL Physical and Life Sciences Directorate Award for Excellence in Publication for Norris et al. (2016)
+        - Nature Climate Change Research Highlight for Zhou et al. (2016)
+        - Eos Research Spotlight for Zelinka et al. (2016)
+        - 2016 LLNL Deputy Director for Science and Technology Excellence in Publication Award for Santer et al. (2015)
+        - Eos Research Spotlight for McCoy et al. (2016)
+
+    - year: 2015
+      items:
+        - LLNL Spot Award for “Outstanding Contributions to Climate Science”, 2015
+
+    - year: 2013
+      items:
+        - Award recipient, NASA New Investigator Program in Earth Science, 2013
+        
+    - year: 2012
+      items:
+        - Editors’ Citation for Excellence in Refereeing for Journal of Geophysical Research, 2012
+    - year: 2011
+      items:
+        - Stephen Henry Schneider Symposium Student Scholarship, 2011
+    - year: 2010
+      items:
+        - AGU Journal Highlight for Zelinka and Hartmann (2010)
+    - year: pre-2010
+      items:
+        - NASA Earth and Space Science Fellowship, 2006-2008
+        - NSF Graduate Research Fellowship Honorable Mention, 2006
+        - University of Washington Top Scholar Award, 2004
+        - University of Washington Program on Climate Change First Year Fellowship, 2004
+        - Jerome N. Behrmann Scholarship in Meteorology, 2004
+        - Om and Saraswati Behethi (AMS) Scholarship, 2003
+        - Charles L. and Anna R. Hosler Scholarship in Meteorology, 2003
+        - Penn State Space Grant Consortium Sylvia Stein Memorial Scholarship, 2003
+        - Kruhoeffer Annual Meteorology Scholarship, 2002
+        - John and Elizabeth Holmes Teas Scholarship, 2001
+        - Earth and Mineral Science Scholarship, 2000        
+
+
