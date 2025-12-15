@@ -1,8 +1,8 @@
-- title: General Information
+- title: Mark D. Zelinka
   type: map
   contents:
-    - name: Full Name
-      value: Mark D. Zelinka
+    - name: Climate & Atmospheric Scientist
+      value: Lawrence Livermore National Laboratory
 
 - title: Education
   type: time_table
