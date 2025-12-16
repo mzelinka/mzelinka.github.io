@@ -196,7 +196,7 @@ scholar:
   last_name: [Zelinka]
   first_name: [Mark D.]
 
-  style: dependent/american-meteorological-society #apa
+  style: american-meteorological-society #apa
   locale: en
 
   source: /_bibliography/
