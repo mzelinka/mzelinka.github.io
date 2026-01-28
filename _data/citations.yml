@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-28'
 papers:
   dFaKugwAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -142,7 +142,7 @@ papers:
     title: Positive dust and low cloud feedbacks help to generate tropical north atlantic Multidecadal variability
     year: '2015'
   dFaKugwAAAAJ:BrmTIyaxlBUC:
-    citations: 1150
+    citations: 1154
     title: An assessment of Earth's climate sensitivity using multiple lines of evidence
     year: '2020'
   dFaKugwAAAAJ:BwyfMAYsbu0C:
@@ -314,7 +314,7 @@ papers:
     title: An underestimated negative cloud feedback from cloud lifetime changes
     year: '2021'
   dFaKugwAAAAJ:PR6Y55bgFSsC:
-    citations: 495
+    citations: 497
     title: "Climate simulations: recognize the \u2018hot model\u2019problem"
     year: '2022'
   dFaKugwAAAAJ:PVjk1bu6vJQC:
@@ -482,7 +482,7 @@ papers:
     title: Quantifying the Role of Clouds in Aerosol Radiative Forcing in CMIP5
     year: '2013'
   dFaKugwAAAAJ:YohjEiUPhakC:
-    citations: 2
+    citations: 3
     title: 'mzelinka/cmip56_forcing_feedback_ecs: Jun 15, 2022 release'
     year: '2022'
   dFaKugwAAAAJ:YsMSGLbcyi4C:
@@ -642,7 +642,7 @@ papers:
     title: Comparison of methods to estimate aerosol effective radiative forcings in climate models
     year: '2023'
   dFaKugwAAAAJ:fPk4N6BV_jEC:
-    citations: 128
+    citations: 129
     title: Evaluating emergent constraints on equilibrium climate sensitivity
     year: '2018'
   dFaKugwAAAAJ:fQNAKQ3IYiAC:
@@ -730,7 +730,7 @@ papers:
     title: Explaining forcing efficacy with pattern effect and state dependence
     year: '2023'
   dFaKugwAAAAJ:l7t_Zn2s7bgC:
-    citations: 1630
+    citations: 1631
     title: Causes of higher climate sensitivity in CMIP6 models
     year: '2020'
   dFaKugwAAAAJ:lSLTfruPkqcC:
@@ -766,7 +766,7 @@ papers:
     title: Climate Response to Warming in Cess-Potter Simulations Using the Global 3-km SCREAM
     year: '2025'
   dFaKugwAAAAJ:olpn-zPbct0C:
-    citations: 96
+    citations: 97
     title: Greater committed warming after accounting for the pattern effect
     year: '2021'
   dFaKugwAAAAJ:p2g8aNsByqUC:
@@ -834,7 +834,7 @@ papers:
     title: 'Systematic and objective evaluation of Earth system models: PCMDI Metrics Package (PMP) version 3'
     year: '2024'
   dFaKugwAAAAJ:tkaPQYYpVKoC:
-    citations: 170
+    citations: 172
     title: Contributions to polar amplification in CMIP5 and CMIP6 models
     year: '2021'
   dFaKugwAAAAJ:tuHXwOkdijsC:
