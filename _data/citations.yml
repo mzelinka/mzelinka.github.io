@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-24'
 papers:
   dFaKugwAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -42,7 +42,7 @@ papers:
     title: The observed sensitivity of high clouds to mean surface temperature anomalies in the tropics
     year: '2011'
   dFaKugwAAAAJ:35r97b3x0nAC:
-    citations: 20
+    citations: 21
     title: Observational constraints on the cloud feedback pattern effect
     year: '2023'
   dFaKugwAAAAJ:3s1wT3WcHBgC:
@@ -154,7 +154,7 @@ papers:
     title: Positive dust and low cloud feedbacks help to generate tropical north atlantic Multidecadal variability
     year: '2015'
   dFaKugwAAAAJ:BrmTIyaxlBUC:
-    citations: 1205
+    citations: 1206
     title: An assessment of Earth's climate sensitivity using multiple lines of evidence
     year: '2020'
   dFaKugwAAAAJ:BwyfMAYsbu0C:
@@ -232,7 +232,7 @@ papers:
   dFaKugwAAAAJ:HtEfBTGE9r8C:
     citations: 0
     title: The Cloud Feedback Model Intercomparison Project (CFMIP) contribution to CMIP7
-    year: '2026'
+    year: '2027'
   dFaKugwAAAAJ:ILKRHgRFtOwC:
     citations: 0
     title: Effect of sea ice loss on Earth's energy budget depends on its spatial pattern
@@ -278,7 +278,7 @@ papers:
     title: Statistical significance of climate sensitivity predictors obtained by data mining
     year: '2014'
   dFaKugwAAAAJ:KxtntwgDAa4C:
-    citations: 48
+    citations: 49
     title: Quantifying stochastic uncertainty in detection time of human-caused climate signals
     year: '2019'
   dFaKugwAAAAJ:L8Ckcad2t8MC:
@@ -762,7 +762,7 @@ papers:
     title: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble
     year: '2024'
   dFaKugwAAAAJ:k_IJM867U9cC:
-    citations: 421
+    citations: 422
     title: Evidence for climate change in the satellite cloud record
     year: '2016'
   dFaKugwAAAAJ:kh2fBNsKQNwC:
@@ -814,7 +814,7 @@ papers:
     title: 'Exploring the Interplay between Cloud Feedback and Aerosol-Cloud Interaction: From E3SM Perturbed Parameter Ensembles'
     year: '2023'
   dFaKugwAAAAJ:ns9cj8rnVeAC:
-    citations: 401
+    citations: 402
     title: Cloud feedback mechanisms and their representation in global climate models
     year: '2017'
   dFaKugwAAAAJ:oNZyr7d5Mn4C:
@@ -970,7 +970,7 @@ papers:
     title: Constraining CMIP cloud phase using observations
     year: '2023'
   dFaKugwAAAAJ:yD5IFk8b50cC:
-    citations: 171
+    citations: 172
     title: Human influence on the seasonal cycle of tropospheric temperature
     year: '2018'
   dFaKugwAAAAJ:ye4kPcJQO24C:
