@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-05-29'
 papers:
   dFaKugwAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -134,7 +134,7 @@ papers:
     title: Constraints on extratropical cloud feedback through moisture source and sink processes decrease likelihood of very high and very low climate sensitivity
     year: '2021'
   dFaKugwAAAAJ:9yKSN-GCB0IC:
-    citations: 306
+    citations: 307
     title: 'Computing and partitioning cloud feedbacks using cloud property histograms. Part II: Attribution to changes in cloud amount, altitude, and optical depth'
     year: '2012'
   dFaKugwAAAAJ:AXPGKjj_ei8C:
@@ -154,7 +154,7 @@ papers:
     title: Positive dust and low cloud feedbacks help to generate tropical north atlantic Multidecadal variability
     year: '2015'
   dFaKugwAAAAJ:BrmTIyaxlBUC:
-    citations: 1237
+    citations: 1238
     title: An assessment of Earth's climate sensitivity using multiple lines of evidence
     year: '2020'
   dFaKugwAAAAJ:BwyfMAYsbu0C:
@@ -162,7 +162,7 @@ papers:
     title: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two earth system models
     year: '2024'
   dFaKugwAAAAJ:CHSYGLWDkRkC:
-    citations: 712
+    citations: 713
     title: 'The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution'
     year: '2019'
   dFaKugwAAAAJ:ClCfbGk0d_YC:
@@ -254,7 +254,7 @@ papers:
     title: Using satellite retrievals to constrain the low-cloud optical depth feedback in climate models
     year: Unknown Year
   dFaKugwAAAAJ:JV2RwH3_ST0C:
-    citations: 224
+    citations: 225
     title: Insights from a refined decomposition of cloud feedbacks
     year: '2016'
   dFaKugwAAAAJ:J_g5lzvAfSwC:
@@ -658,7 +658,7 @@ papers:
     title: Observed sensitivity of low-cloud radiative effects to meteorological perturbations over the global oceans
     year: '2020'
   dFaKugwAAAAJ:eMMeJKvmdy0C:
-    citations: 96
+    citations: 97
     title: "Evaluating climate models\u2019 cloud feedbacks against expert judgment"
     year: '2022'
   dFaKugwAAAAJ:eQOLeE2rZwMC:
@@ -762,7 +762,7 @@ papers:
     title: Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble
     year: '2024'
   dFaKugwAAAAJ:k_IJM867U9cC:
-    citations: 426
+    citations: 427
     title: Evidence for climate change in the satellite cloud record
     year: '2016'
   dFaKugwAAAAJ:kh2fBNsKQNwC:
@@ -782,7 +782,7 @@ papers:
     title: Explaining forcing efficacy with pattern effect and state dependence
     year: '2023'
   dFaKugwAAAAJ:l7t_Zn2s7bgC:
-    citations: 1762
+    citations: 1764
     title: Causes of higher climate sensitivity in CMIP6 models
     year: '2020'
   dFaKugwAAAAJ:lSLTfruPkqcC:
@@ -894,7 +894,7 @@ papers:
     title: 'Systematic and objective evaluation of Earth system models: PCMDI Metrics Package (PMP) version 3'
     year: '2024'
   dFaKugwAAAAJ:tkaPQYYpVKoC:
-    citations: 190
+    citations: 191
     title: Contributions to polar amplification in CMIP5 and CMIP6 models
     year: '2021'
   dFaKugwAAAAJ:tuHXwOkdijsC:
