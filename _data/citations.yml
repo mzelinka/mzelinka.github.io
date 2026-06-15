@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-15'
 papers:
   dFaKugwAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -82,7 +82,7 @@ papers:
     title: Detailing cloud feedbacks with a regime-based decomposition
     year: '2021'
   dFaKugwAAAAJ:5nxA0vEk-isC:
-    citations: 380
+    citations: 381
     title: Evaluating adjusted forcing and model spread for historical and future scenarios in the CMIP5 generation of climate models
     year: '2013'
   dFaKugwAAAAJ:5qfkUJPXOUwC:
@@ -134,7 +134,7 @@ papers:
     title: Constraints on extratropical cloud feedback through moisture source and sink processes decrease likelihood of very high and very low climate sensitivity
     year: '2021'
   dFaKugwAAAAJ:9yKSN-GCB0IC:
-    citations: 310
+    citations: 311
     title: 'Computing and partitioning cloud feedbacks using cloud property histograms. Part II: Attribution to changes in cloud amount, altitude, and optical depth'
     year: '2012'
   dFaKugwAAAAJ:AXPGKjj_ei8C:
@@ -154,7 +154,7 @@ papers:
     title: Positive dust and low cloud feedbacks help to generate tropical north atlantic Multidecadal variability
     year: '2015'
   dFaKugwAAAAJ:BrmTIyaxlBUC:
-    citations: 1244
+    citations: 1245
     title: An assessment of Earth's climate sensitivity using multiple lines of evidence
     year: '2020'
   dFaKugwAAAAJ:BwyfMAYsbu0C:
@@ -162,7 +162,7 @@ papers:
     title: Larger cloud liquid water enhances both aerosol indirect forcing and cloud radiative feedback in two earth system models
     year: '2024'
   dFaKugwAAAAJ:CHSYGLWDkRkC:
-    citations: 714
+    citations: 718
     title: 'The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution'
     year: '2019'
   dFaKugwAAAAJ:ClCfbGk0d_YC:
@@ -274,7 +274,7 @@ papers:
     title: Statistical significance of climate sensitivity predictors obtained by data mining
     year: '2014'
   dFaKugwAAAAJ:KxtntwgDAa4C:
-    citations: 51
+    citations: 52
     title: Quantifying stochastic uncertainty in detection time of human-caused climate signals
     year: '2019'
   dFaKugwAAAAJ:L8Ckcad2t8MC:
@@ -302,7 +302,7 @@ papers:
     title: Relationship between tropical cloud feedback and climatological bias in clouds
     year: '2024'
   dFaKugwAAAAJ:ML0RJ9NH7IQC:
-    citations: 33
+    citations: 34
     title: Patterns of surface warming matter for climate sensitivity
     year: '2023'
   dFaKugwAAAAJ:MLfJN-KU85MC:
@@ -342,7 +342,7 @@ papers:
     title: An underestimated negative cloud feedback from cloud lifetime changes
     year: '2021'
   dFaKugwAAAAJ:PR6Y55bgFSsC:
-    citations: 543
+    citations: 545
     title: "Climate simulations: recognize the \u2018hot model\u2019problem"
     year: '2022'
   dFaKugwAAAAJ:PVjk1bu6vJQC:
@@ -382,7 +382,7 @@ papers:
     title: Constraints on the Longwave Cloud Altitude Feedback
     year: '2011'
   dFaKugwAAAAJ:SeFeTyx0c_EC:
-    citations: 195
+    citations: 197
     title: Clearing clouds of uncertainty
     year: '2017'
   dFaKugwAAAAJ:SpbeaW3--B0C:
@@ -390,7 +390,7 @@ papers:
     title: 10 New Insights in Climate Science 2020
     year: '2021'
   dFaKugwAAAAJ:TFP_iSt0sucC:
-    citations: 548
+    citations: 549
     title: Observational constraints on mixed-phase clouds imply higher climate sensitivity
     year: '2016'
   dFaKugwAAAAJ:TIZ-Mc8IlK0C:
@@ -426,7 +426,7 @@ papers:
     title: Computing and Partitioning Cloud Feedbacks using Cloud
     year: Unknown Year
   dFaKugwAAAAJ:UebtZRa9Y70C:
-    citations: 264
+    citations: 265
     title: Are climate model simulations of clouds improving? An evaluation using the ISCCP simulator
     year: '2013'
   dFaKugwAAAAJ:Ug5p-4gJ2f0C:
@@ -450,7 +450,7 @@ papers:
     title: Steady global surface warming through 2022, after a recent step up in warming rate
     year: '2024'
   dFaKugwAAAAJ:VaXvl8Fpj5cC:
-    citations: 1
+    citations: 2
     title: Cloud feedback uncertainty in the equatorial Pacific across CMIP6 models
     year: '2025'
   dFaKugwAAAAJ:W5xh706n7nkC:
@@ -510,7 +510,7 @@ papers:
     title: The Observed Sensitivity of High Clouds to Mean
     year: Unknown Year
   dFaKugwAAAAJ:Y5dfb0dijaUC:
-    citations: 263
+    citations: 265
     title: Observational constraints on low cloud feedback reduce uncertainty of climate sensitivity
     year: '2021'
   dFaKugwAAAAJ:YFjsv_pBGBYC:
@@ -546,7 +546,7 @@ papers:
     title: Volcanic contribution to decadal changes in tropospheric temperature
     year: '2014'
   dFaKugwAAAAJ:ZuybSZzF8UAC:
-    citations: 19
+    citations: 18
     title: Detailing cloud property feedbacks with a regime-based decomposition
     year: '2022'
   dFaKugwAAAAJ:_5tno0g5mFcC:
@@ -562,7 +562,7 @@ papers:
     title: 'mzelinka/cloud-radiative-kernels: Sep 4, 2024 Release'
     year: '2024'
   dFaKugwAAAAJ:_FxGoFyzp5QC:
-    citations: 348
+    citations: 347
     title: 'Computing and partitioning cloud feedbacks using cloud property histograms. Part I: Cloud radiative kernels'
     year: '2012'
   dFaKugwAAAAJ:_Qo2XoVZTnwC:
@@ -610,7 +610,7 @@ papers:
     title: Evaluation of EAMv1-Simulated Clouds with Satellite and Ground-based Simulators
     year: '2018'
   dFaKugwAAAAJ:b1wdh0AR-JQC:
-    citations: 36
+    citations: 37
     title: "Implications of a pervasive climate model bias for low\u2010cloud feedback"
     year: '2024'
   dFaKugwAAAAJ:blknAaTinKkC:
@@ -654,15 +654,15 @@ papers:
     title: Responses of the Hadley circulation to regional sea surface temperature changes
     year: '2020'
   dFaKugwAAAAJ:eJXPG6dFmWUC:
-    citations: 151
+    citations: 152
     title: Observed sensitivity of low-cloud radiative effects to meteorological perturbations over the global oceans
     year: '2020'
   dFaKugwAAAAJ:eMMeJKvmdy0C:
-    citations: 98
+    citations: 100
     title: "Evaluating climate models\u2019 cloud feedbacks against expert judgment"
     year: '2022'
   dFaKugwAAAAJ:eQOLeE2rZwMC:
-    citations: 166
+    citations: 165
     title: Climate feedbacks and their implications for poleward energy flux changes in a warming climate
     year: '2012'
   dFaKugwAAAAJ:e_rmSamDkqQC:
@@ -682,7 +682,7 @@ papers:
     title: The Differing Responses of Marine Boundary Layer Clouds to Climate Warming
     year: '2021'
   dFaKugwAAAAJ:evX43VCCuoAC:
-    citations: 15
+    citations: 16
     title: Contributions to regional precipitation change and its polar-amplified pattern under warming
     year: '2023'
   dFaKugwAAAAJ:f2IySw72cVMC:
@@ -710,7 +710,7 @@ papers:
     title: Contributions from cloud morphological changes to the interannual shortwave cloud feedback based on MODIS and ISCCP satellite observations
     year: '2024'
   dFaKugwAAAAJ:geHnlv5EZngC:
-    citations: 182
+    citations: 183
     title: Intermodel spread in the pattern effect and its contribution to climate sensitivity in CMIP5 and CMIP6 models
     year: '2020'
   dFaKugwAAAAJ:gsN89kCJA0AC:
@@ -722,11 +722,11 @@ papers:
     title: Understanding biases in simulated Cloud radiative effects in E3SMv3
     year: '2026'
   dFaKugwAAAAJ:hFOr9nPyWt4C:
-    citations: 177
+    citations: 179
     title: "Mixed\u2010phase cloud physics and Southern Ocean cloud feedback in climate models"
     year: '2015'
   dFaKugwAAAAJ:hMod-77fHWUC:
-    citations: 366
+    citations: 367
     title: "Impact of decadal cloud variations on the Earth\u2019s energy budget"
     year: '2016'
   dFaKugwAAAAJ:hMsQuOkrut0C:
@@ -742,7 +742,7 @@ papers:
     title: An analysis of the short-term cloud feedback using MODIS data
     year: '2013'
   dFaKugwAAAAJ:iH-uZ7U-co4C:
-    citations: 187
+    citations: 188
     title: "On the relationships among cloud cover, mixed\u2010phase partitioning, and planetary albedo in GCMs"
     year: '2016'
   dFaKugwAAAAJ:ipzZ9siozwsC:
@@ -782,7 +782,7 @@ papers:
     title: Explaining forcing efficacy with pattern effect and state dependence
     year: '2023'
   dFaKugwAAAAJ:l7t_Zn2s7bgC:
-    citations: 1776
+    citations: 1782
     title: Causes of higher climate sensitivity in CMIP6 models
     year: '2020'
   dFaKugwAAAAJ:lSLTfruPkqcC:
@@ -798,7 +798,7 @@ papers:
     title: Quantifying the sources of intermodel spread in equilibrium climate sensitivity
     year: '2016'
   dFaKugwAAAAJ:mlAyqtXpCwEC:
-    citations: 1
+    citations: 2
     title: Emerging low-cloud feedback and adjustment in global satellite observations
     year: '2026'
   dFaKugwAAAAJ:mvPsJ3kp5DgC:
@@ -814,7 +814,7 @@ papers:
     title: 'Exploring the Interplay between Cloud Feedback and Aerosol-Cloud Interaction: From E3SM Perturbed Parameter Ensembles'
     year: '2023'
   dFaKugwAAAAJ:ns9cj8rnVeAC:
-    citations: 412
+    citations: 414
     title: Cloud feedback mechanisms and their representation in global climate models
     year: '2017'
   dFaKugwAAAAJ:oNZyr7d5Mn4C:
@@ -906,7 +906,7 @@ papers:
     title: Towards rigorous evaluation of cloud feedbacks, pattern effects, and climate sensitivity
     year: '2022'
   dFaKugwAAAAJ:u-x6o8ySG0sC:
-    citations: 359
+    citations: 360
     title: Why is longwave cloud feedback positive?
     year: '2010'
   dFaKugwAAAAJ:u5HHmVD_uO8C:
@@ -962,7 +962,7 @@ papers:
     title: Contributions of Mixed-Phase Clouds to Reduced Arctic Amplification
     year: '2017'
   dFaKugwAAAAJ:xtoqd-5pKcoC:
-    citations: 29
+    citations: 30
     title: Earth's energy imbalance more than doubled in recent decades
     year: '2025'
   dFaKugwAAAAJ:yB1At4FlUx8C:
